@@ -18,5 +18,5 @@ description: ""
 **For the school uniforms,**
 
 <img src="/images/Boy_uniform.jpg" 
-     style="width:50%">
+     style="width:40%">
 The name tag must be worn above the top left pocket of the shirt for boys and on the top left of the pinafore for girls.
