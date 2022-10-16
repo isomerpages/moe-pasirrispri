@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - P5 Teachers.md
       - P6 Teachers.md
       - Non Form Teachers.md
       - Admin Team and Allied Educators (AEDs).md
