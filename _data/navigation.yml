@@ -1,8 +1,8 @@
 logo: /images/cropped-PRPS-Logo_330x118.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our School
     collection: our-school
+  - title: Our Staff
+    collection: our-staff
+  - title: Contact Us
+    url: /contact-us/
