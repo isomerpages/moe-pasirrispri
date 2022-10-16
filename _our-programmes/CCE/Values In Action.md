@@ -23,11 +23,12 @@ In John Ruskin’s words, we believe that ‘the highest reward for man’s toil
 
 ![](/images/VIA.jpg)
 
-Project Care
-------------
+### Project Care
 
 Since 2010, PRPS organises Project CARE which aims to encourage Pasirians to spare a thought for the less fortunate children around the world and to show care and concern. In the past years, Pasirians have been lending their hands and spending time at orphanages in Thailand, Cambodia and Malaysia. In conjunction with Children’s Day, Project CARE is organised to instill in our students the importance of showing kindness to others regardless of nationality, race and religion. This kindness will lead to Singapore being a more gracious society.
 
 We alternate the Hygiene Kit and the Pencil case projects. In the Hygiene Kit project, Pasirians filled up pouches with five basic hygiene needs – a toothbrush, toothpaste, bar of soap, nail clipper and face towel. In the Pencil Case project, Pasirians filled up pencil cases with basic stationeries – 2 pencils, a sharpener, an eraser, a ruler and a set of colour pencils or crayons. The filled pouches and pencil cases were donated to the needy and underprivileged children who are living in the rural areas in the neighbouring countries of Myanmar, Thailand, Cambodia and Indonesia.
 
 By being involved in this project, the students were able to internalise the school’s value of Share and Care and extend their care and concern to the children around our region. They also were able to display the importance of showing kindness to others regardless of nationality, race and religion. We hope this small gesture of sharing and giving will bring more smiles to the underprivileged children in the region.
+
+![](/images/VIA-1.jpg)
