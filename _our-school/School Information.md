@@ -31,7 +31,7 @@ We would like to remind parents/caregivers to avoid congregating at the school g
 
 Parents are advised not to send their children to school <b>before 6.30 am</b>.
 
-Alighting and boarding at the car porch outside the above stipulated timings are permitted. 
+Alighting and boarding at the car porch outside the above stipulated timings are permitted.    
 No waiting and parking are allowed unless prior arrangement is sought and approved by VP.
 
 Visitors to the school are required to enter via the <b>RED Gate</b> to obtain a visitor’s pass from the security officer.
