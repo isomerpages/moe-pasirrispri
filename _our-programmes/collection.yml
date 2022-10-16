@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education.md
       - CCE/Values In Action.md
       - CCE/Internationalisation.md
