@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/TAEKWONDO.md
       - CCA/WUSHU.md
       - CCA/.keep
       - CCE/Character and Citizenship Education (CCE).md
