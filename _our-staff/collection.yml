@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - Non Form Teachers.md
       - Admin Team and Allied Educators (AEDs).md
