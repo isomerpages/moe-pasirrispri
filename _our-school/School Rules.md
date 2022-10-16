@@ -20,3 +20,13 @@ description: ""
 <img src="/images/Boy_uniform.jpg" 
      style="width:40%">
 The name tag must be worn above the top left pocket of the shirt for boys and on the top left of the pinafore for girls.
+
+<img src="/images/Girl.jpg" 
+     style="width:40%">
+The name tag must be worn above the top left pocket of the shirt for boys and on the top left of the pinafore for girls.
+
+<img src="/images/PE.jpg" 
+     style="width:40%">
+For the P.E attire, the name tag must be worn above the school crest.		 
+
+
