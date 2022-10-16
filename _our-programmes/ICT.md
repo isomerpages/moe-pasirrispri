@@ -30,3 +30,6 @@ The school adopts the MOE Cyber Wellness Framework. The Framework focuses on dev
 In PRPS, selected students are trained to take on the role of Cyber Wellness Ambassadors and Cyber Wellness Monitors to promote awareness of cyber wellness issues and values amongst their peers, as well as to instil a positive cyber culture in school.
 
 Cyber Wellness Talks are conducted during Assemblies and Life skills lessons are integrated into the curriculum to further guide our students in protecting themselves in the Cyber World.
+
+<img src="/images/WhatsApp-Image-2021-02-10.jpeg" 
+     style="width:50%">
