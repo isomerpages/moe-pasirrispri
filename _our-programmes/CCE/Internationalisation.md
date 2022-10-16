@@ -35,3 +35,5 @@ This was a humbling experience for the Pasirians as described by Kenzie Tan who 
 During the trip, the group had the golden opportunity to celebrate the Water Festival where we wrote our wishes for the Cambodians and us. We placed these wishes in beautifully decorated boats and set them in the river.
 
 The five-day service learning trip has certainly provided an authentic learning experience for our young Pasirians to put our school values into practice beyond our shore. The visits to the Angkor temples had encouraged them to learn more about Cambodia and its history and culture. They were more aware of the importance of respecting other cultures and religions. In addition, the residents at the KOCD Orphanage taught them to be more resilient and to pursue excellence in life, as reflected in the residents’ positive spirit. Lastly they learnt to share and care for others around them. Indeed the whole experience was simply UNFORGETTABLE!
+
+![](/images/internationalisation-2.jpg)
