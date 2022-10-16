@@ -45,3 +45,23 @@ School Student Leaders are divided into two groups; School Leaders and Classroom
 		 
 <img src="/images/IMG_9315.jpg" 
      style="width:25%">
+		 
+
+
+### Training
+
+**Formal**
+
+*   Camps
+*   Workshops
+*   Briefings
+*   Conferences
+*   Sharings
+
+**Informal**
+
+*   Role Model
+*   On the job training
+*   Peer Coaching
+*   Buddy Mentoring
+*   Focused Group Discussion
