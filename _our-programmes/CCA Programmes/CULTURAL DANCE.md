@@ -7,3 +7,18 @@ third_nav_title: CCA Programmes
 # **CULTURAL DANCE**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Enquiry email</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mrs Gillian Quek<br><br>Mdm Nurul Jannah Rosni</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">gillian_yeong_mei_lin@moe.edu.sg<br><br>nurul_jannah_rosni@moe.edu.sg</td></tr></tbody></table>
+
+
+Cultural Dance is one of the most vibrant CCAs offered in Pasir Ris Primary, with a lineup of performances each year for a diversity of school events. It is an intrinsic part of the school’s cultural scene which offers a fun and interactive platform allowing members to express, create and innovate. It is for students who love expressing themselves on stage and performing to an audience!
+
+The CCA aims to develop every pupil into a passionate, confident and versatile performer. The objectives are:
+
+*   To provide students with extensive opportunities to showcase their talents and also share the joy of dancing with the audience.
+*   To build self-confidence and deepen the pupils knowledge on dance skills and structure through the varieties of dance styles: Cultural Dance, Contemporary Dance and Urban Dance
+*   To encourage self- expression and promote the love for dance.
+
+Cultural Dance Leaders are empowered to lead the team with the Peer-guidance activities which includes warming up exercises and reflections sessions that is conducted before and after each training.
+
+Team bonding sessions are geared towards team spirit, character building discipline and courage. It also provides a platform for the dancers to share their challenges and learning experience that arises during their dance sessions.
+
+At the beginning of the year, our Cultural Dance members performed for the Chinese New Year Concert virtually. Every pupil will be given an opportunity to perform on stage during their journey in the Dance CCA.  A group of dancers also participated in the street dance competition organized by Committee to Promote Chinese Language Learning.
