@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCE/Values In Action.md
       - CCE/Internationalisation.md
       - CCE/Student Leadership.md
       - CCE/Values Inculcation Programme.md
