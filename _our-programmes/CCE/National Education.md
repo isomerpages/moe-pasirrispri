@@ -35,3 +35,6 @@ The partnership established between these schools and Pasir Ris Primary School h
 ### Holistic Development of Students
 
 To provide for a holistic development of our students, our school believes that there must be a diverse range of programmes to deepen their development from Primary 1 to Primary 6. One such programme is the school’s major event: Sing Singapore, held annually in August. This event is the highlight of our Character Development Programme and is part of our school’s aesthetic curriculum. It allows our students to deepen their skills and competencies, inculcate and internalize values such as team work, co-operation, determination and respect as well as develop students’ self-esteem. It also provides an opportunity for students to showcase their talents and proclaim their love and loyalty for our nation, bringing engagement of heart and mind to its peak.
+
+<img src="/images/tn.jpg" 
+     style="width:50%">
