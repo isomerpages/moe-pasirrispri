@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Vision, Mission and Philosophy.md
       - School Rules.md
       - School Information.md
       - example-subfolder/.keep
