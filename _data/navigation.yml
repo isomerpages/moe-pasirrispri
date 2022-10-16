@@ -4,5 +4,7 @@ links:
     collection: our-school
   - title: Our Staff
     collection: our-staff
+  - title: Our Programmes
+    collection: our-programmes
   - title: Contact Us
     url: /contact-us/
