@@ -13,3 +13,6 @@ It is a whole school approach as representatives from the school community, from
 *   School Leaders to Teachers to Student Leaders instrumental in transmitting values to all
 *   A whole-school approach in translating & communicating the school values & desirable traits in Character Devt
 *   A platform to unpack the values & desirable character traits to ensure clear understanding by all
+
+<img src="/images/pic1-1-300x300.jpg" 
+     style="width:50%">
