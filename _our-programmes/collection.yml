@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/OUTDOOR ADVENTURE.md
       - CCA/ROPE SKIPPING.md
       - CCA/SPEECH AND DRAMA.md
       - CCA/TAEKWONDO.md
