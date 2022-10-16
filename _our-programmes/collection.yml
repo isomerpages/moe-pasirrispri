@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA Programmes/ART CLUB.md
       - CCA Programmes/CHESS.md
       - CCA Programmes/CHOIR.md
       - CCA Programmes/CULTURAL DANCE.md
