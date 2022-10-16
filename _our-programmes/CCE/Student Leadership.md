@@ -66,7 +66,11 @@ School Student Leaders are divided into two groups; School Leaders and Classroom
 *   Buddy Mentoring
 *   Focused Group Discussion
 
-
-![](/images/IMG_1169.jpg)
-
-![](/images/IMG_1381.jpg)
+<img src="/images/IMG_1169.jpg" 
+     style="width:25%">
+		 
+<img src="/images/IMG_1381.jpg" 
+     style="width:25%">
+		 
+<img src="/images/IMG_9274.jpg" 
+     style="width:25%">
