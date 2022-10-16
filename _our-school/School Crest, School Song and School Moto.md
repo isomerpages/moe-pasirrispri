@@ -37,8 +37,7 @@ build a thriving learning community
 Let’s do our part together Pasir Ris to  
 bring joy and cheer to one and all …
 
-School Motto
-------------
+### School Motto
 
 The motto _**Be Our Best**_ urges the school community to give their best to achieve the school core values which are:
 
