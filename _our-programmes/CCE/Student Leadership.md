@@ -74,3 +74,35 @@ School Student Leaders are divided into two groups; School Leaders and Classroom
 		 
 <img src="/images/IMG_9274.jpg" 
      style="width:25%">
+		 
+### Deployment
+
+**Daily Duties**
+
+*   Flag Raising &Lowering Ceremony
+*   Peer Coaching
+*   Buddy Mentoring
+*   Classroom Improvement Duties
+
+### School Functions
+
+*   Student-Initiated Improvement Projects
+*   Service Learning Projects
+*   Peer Support Leadership
+*   Values Inculcation Programme Lessons
+*   School Ambassadors
+
+### Rewards / Recognition
+
+*   Outstanding Leadership Award
+*   Leadership Handover Ceremony
+*   Certificates of Leadership
+*   Junior Investiture
+*   Prefect Investiture
+*   Tea Sessions
+*   Leadership Conference
+*   Overseas Twinning Programme
+*   Sports Student of the Year
+*   EAGLES Award
+*   ECHA Award
+*   Best Overall Student of The Year
