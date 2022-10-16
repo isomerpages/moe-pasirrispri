@@ -33,3 +33,10 @@ Cyber Wellness Talks are conducted during Assemblies and Life skills lessons are
 
 <img src="/images/WhatsApp-Image-2021-02-10.jpeg" 
      style="width:50%">
+<br>
+<img src="/images/WhatsApp-Image-2021-02-10-1.jpeg" 
+     style="width:50%">
+<br>
+<img src="/images/WhatsApp-Image-2021-02-10-2.jpeg" 
+     style="width:50%">
+		 
