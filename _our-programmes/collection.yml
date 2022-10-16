@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA Programmes/FOOTBALL.md
       - CCA Programmes/GUZHENG ENSEMBLE.md
       - CCA Programmes/INFOCOMM.md
       - CCA Programmes/NETBALL.md
