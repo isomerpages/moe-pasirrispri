@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCE/Values Inculcation Programme.md
       - CCE/.keep
       - ICT.md
