@@ -40,3 +40,11 @@ Cyber Wellness Talks are conducted during Assemblies and Life skills lessons are
 <img src="/images/WhatsApp-Image-2021-02-10-2.jpeg" 
      style="width:50%">
 		 
+Media Literacy Council   
+[https://www.betterinternet.sg/Resources](https://www.betterinternet.sg/Resources)
+
+S.U.R.E by National Library   
+[http://www.nlb.gov.sg/sure/](http://www.nlb.gov.sg/sure/)
+
+PARENTING in the digital age   
+[https://www.schoolbag.sg/story/understanding-cyber-wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness)
