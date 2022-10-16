@@ -2,12 +2,12 @@ collections:
   our-programmes:
     output: true
     order:
-      - CCA/OUTDOOR ADVENTURE.md
-      - CCA/ROPE SKIPPING.md
-      - CCA/SPEECH AND DRAMA.md
-      - CCA/TAEKWONDO.md
-      - CCA/WUSHU.md
-      - CCA/.keep
+      - CCA Programmes/OUTDOOR ADVENTURE.md
+      - CCA Programmes/ROPE SKIPPING.md
+      - CCA Programmes/SPEECH AND DRAMA.md
+      - CCA Programmes/TAEKWONDO.md
+      - CCA Programmes/WUSHU.md
+      - CCA Programmes/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education.md
       - CCE/Values In Action.md
