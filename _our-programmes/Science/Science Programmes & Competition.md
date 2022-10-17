@@ -19,3 +19,9 @@ As Singapore commemorates 50 years of greening in 2013, Pasir Ris Primary School
 It seeks to convey to our pupils that every Singaporean plays a part in shaping our city in a garden. Tailored to complement the Primary 3 Science syllabus on diversity and system, it aims to generate greater awareness and discussions amongst pupils about the life cycle of a plant, plant parts and their functions as each pupil is tasked with the responsibility of looking after a plant from its germination to its growth and reproduction of flowers and fruits. It is also a good platform for pupils to practise the values of care and responsibility while taking care of their growing plant and for them to bask in the joy of its growth.
 
 ‘From a small seed a mighty trunk may grow’ ~ Aeschylus
+
+![](/images/sciprog1.jpg)
+
+### Chocolate Creation Workshop
+
+All P4 classes have been attending this enrichment workshop which is tied in with the topic on Heat since 2009. The workshop provides an authentic learning experience which allows the pupils to apply their understanding of heat transfer, heat gain and heat loss to the context of the workshop. Pupils especially enjoy watching their liquid chocolate set before their eyes and finally get to enjoy the fruits of their labour. Science teachers also observe that pupils are motivated by the task and are very engaged in the activities. The learning gleaned from the workshop can also be retained longer by most pupils.
