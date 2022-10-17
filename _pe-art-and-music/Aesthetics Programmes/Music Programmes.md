@@ -28,16 +28,11 @@ Primary 2 – Exploring Angklung I
 
 ### Integrating Music & Performing Arts
 
-Pri 1 – Percussive Movement
-
-Pri 2 – Tambourine Dance
-
-Pri 3 – Martial Arts Dance
-
-Pri 4 – Cultural Dance (2015)
-
-Pri 5 – Egyptian dance
-
+Pri 1 – Percussive Movement   
+Pri 2 – Tambourine Dance    
+Pri 3 – Martial Arts Dance    
+Pri 4 – Cultural Dance (2015)    
+Pri 5 – Egyptian dance    
 Pri 6 – Rock and Roll
 
 It has been a long standing tradition in Pasir Ris Primary School that we celebrate the nation’s National Day with our annual  
