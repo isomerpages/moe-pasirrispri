@@ -113,3 +113,13 @@ Objectives :
 4.  To instil creativity and alertness among pupils.
 
 ![](/images/4-OpP20CardP20Games.jpg)
+
+This innovation is a set of playing cards packed together in a box with a booklet explaining how to play more than 25 Maths games. There are 60 number cards ( numbered 1 to 12 ) and 15 power cards representing 5 ‘Reverse’, 5 ‘Miss A Turn’ and 5 ‘WILD’.  The cards are in 5 colours and have 5 different number shapes. For each colour and shape, there are 12 cards numbered 1 to 12. Many types of games with different rules can be played and they are made to be fun, exciting and pupils have to be fast or they will lose. The team designed the cards to be numbered up to 12 so that pupils will subtly learn up to 12 times tables instead of 10.
+
+Normal poker cards are numbered up to 10 and do not come with POWER cards and hence have limitations. Our cards stretch pupils to think and work fast mentally at a higher level. In one game, pupils shout ‘ Freeze !’ when they win a round. Some of the games designed are : Add+Add, Sum-Diff, Spider Solitaire, Albino, Number Call, etc. With these attractive cards, pupils can also invent their own games. In fact, many games are created by pupils.
+
+These cards are also used in class by teachers to reinforce  
+number-bonds /multiplication / etc with pupils playing in pairs or in groups. They are great for classroom teaching especially for the lower primary classes. They replace the usual plain number cards produced commercially.
+
+Several packs  
+of 4-Op cards have been made available in classrooms and lesson plans are designed to include the use of 4-Op in the teachings. P1 teachers are using the cards extensively in the strategy known as SEED. The cards are great for teaching number bonds, addition, multiplication and shapes and colours. They can also be used for magic tricks. At school, pupils are playing 4-Op cards in class and during recesses in the canteen. These cards are placed in our Activity Corners in the classroom to allow pupils who complete their work early to play with friends.
