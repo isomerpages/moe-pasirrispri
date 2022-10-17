@@ -41,3 +41,5 @@ The CCA MEP aims to provide Primary 2 students with opportunities to explore and
 All P3 – P6 students are highly encouraged to participate in C
 
 CA.  Each student can only undertake **one** CCA from any of the CCA groups.
+
+![](/images/p3.jpg)
