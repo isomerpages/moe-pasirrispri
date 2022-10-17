@@ -79,3 +79,25 @@ To promote collaborative and self-directed learning, an e-trail is incorporated 
 This activity provides authentic learning experiences for pupils as they observe different types of plants and the various plant parts. Pupils also get to read up and listen to information on plants using their iPads while they are at the various stations of the trail. Pupils work in pairs, taking photographs of the plant parts and uploading them onto the school’s online learning portal.
 
 At the end of the trail, pupils also reflect on their learning and take videos of their reflections.
+
+![](/images/sciprog7.jpg)
+
+**Inquiry-based lessons**
+
+![](/images/sciprog8.jpg)
+
+**ICT – enabled lessons**
+
+![](/images/sciprog9.jpg)
+
+### Science Competitions
+
+**EZ Sc Symposium**
+
+The Science department has been participating in the East Zone Enviro-Life Science Symposium organised by COE For Life-science, Dunman Secondary School since 2006. The objectives of the competition are to encourage innovation in Science Research for students, as well as to provide a competitive platform for students in the East Zone Schools to showcase their innovative Science Research projects.
+
+The students’ research projects are assessed by judges comprising of scientists and science educators in Singapore.
+
+The judging criteria on the day of presentation of students’ project include scientific Investigation, exploration of scientific thought, investigation design, analysis of data and evaluation as well as creativity, originality and future application.
+
+In 2012, our group of P5 pupils did the school proud by clinching 1st prize in the primary school category with their project on organic pesticides. They were invited to present their project at the symposium and impressed the audience with their poise and confident presentation of the project.
