@@ -33,3 +33,11 @@ The school offers a wide range of CCAs in three main groups.
 **Primary 2 CCA Modular Experience Programme (MEP)**
 
 The CCA MEP aims to provide Primary 2 students with opportunities to explore and discover their areas of interest and strengths. Students will be able to experience and try out 3 different CCAs before deciding on which CCA to take up at Primary 3.  All Primary 2 students are highly encouraged to participate in the programme.
+
+![](/images/CCA-schedule.jpg)
+
+**Primary 3 – 6 CCA**
+
+All P3 – P6 students are highly encouraged to participate in C
+
+CA.  Each student can only undertake **one** CCA from any of the CCA groups.
