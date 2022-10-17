@@ -19,8 +19,10 @@ There are different activities planned for each level, for example, Gamelan for 
      style="width:25%">
 <center><a href="http://saujana.sg/">http://saujana.sg/</a>
 
-![](/images/Link2.jpg)
-[www.cybermelayu.com.sg/](http://www.cybermelayu.com.sg/)
-
-![](/images/Link3.jpg)
-[http://nadi.edumall.sg/](http://nadi.edumall.sg/)
+<img src="/images/Link2.jpg" 
+     style="width:25%">
+<center><a href="www.cybermelayu.com.sg/">www.cybermelayu.com.sg/</a>
+	
+<img src="/images/Link3.jpg" 
+     style="width:25%">
+<center><a href="http://nadi.edumall.sg/">http://nadi.edumall.sg/</a>
