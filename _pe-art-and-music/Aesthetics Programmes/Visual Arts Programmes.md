@@ -26,3 +26,9 @@ For the past five years, Pasir Ris Primary has offered an oil pastels and painti
 ### Primary 4 Level Programme Batik Painting Module
 
 Batik Painting was introduced to Primary 4 pupils in 2012. The objectives of this programme are to provide pupils with an understanding of batik painting and the cultural heritage of where it came from. At the end of the programme, pupils would have explored the process of batik painting and its techniques. They would also have learnt that batik painting is another means of creative and artistic expression.
+
+![](/images/visual3.jpg)
+
+### Primary 5 Level Programme Digital Photography Module
+
+Digital Photography was first introduced in 2012 as a means to expose pupils to new media so as to stay current and relevant to new forms of art and industrial skills. Photography is relevant in pupils’ daily life and is a common form of expression and communication in society today. The objectives of this programme therefore seek to provide pupils with an understanding in the media and explore photography as a means or artistic expression.
