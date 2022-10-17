@@ -15,4 +15,4 @@ The framework (shown above) shows the underlying principles of an effective math
 
 The development of mathematical problem solving ability is dependent on five inter-related components, namely, _Concepts_, _Skills_, _Processes_, _Attitudes_ and _Metacognition_.
 
-For more details – [Aims & Framework of Mathematics](https://pasirrispri.moe.edu.sg/wp-content/uploads/2019/05/MOE-Math-Framework.pdf)
+For more details – [Aims & Framework of Mathematics](/files/MOE-Math-Framework.pdf)
