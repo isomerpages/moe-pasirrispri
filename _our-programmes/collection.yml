@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Science/Science Curriculum.md
       - Science/Science Programmes & Competition.md
       - Science/Collaboration with Parents.md
       - Science/.keep
