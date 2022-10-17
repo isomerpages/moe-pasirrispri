@@ -25,3 +25,9 @@ It seeks to convey to our pupils that every Singaporean plays a part in shaping 
 ### Chocolate Creation Workshop
 
 All P4 classes have been attending this enrichment workshop which is tied in with the topic on Heat since 2009. The workshop provides an authentic learning experience which allows the pupils to apply their understanding of heat transfer, heat gain and heat loss to the context of the workshop. Pupils especially enjoy watching their liquid chocolate set before their eyes and finally get to enjoy the fruits of their labour. Science teachers also observe that pupils are motivated by the task and are very engaged in the activities. The learning gleaned from the workshop can also be retained longer by most pupils.
+
+![](/images/sciprog2.jpg)
+
+### Learning Journey to the DNA Lab @ Science Centre
+
+Students are given a chance to be ‘scientists’ for two days at the Science Centre where their learning is further enriched. Usually abstract concepts in class would be supported by classes at the Science Centre, whenever the opportunity is available.
