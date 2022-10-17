@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Alumni/Contact Us.md
       - Alumni/Alumni.md
       - Alumni/.keep
