@@ -52,3 +52,7 @@ Pri 5: Recorder
 Pri 6: African Percussion.
 
 ![](/images/music3.jpg)
+
+### Special Projects LKY Bilinguism Project
+
+10 Choir pupils were selected this year to participate in the LKY Bilingualism Project. They lent their voices for two songs that will be featured in a CD that promotes the use of Mandarin.
