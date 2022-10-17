@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Fathers@PRPS/Fathers@PRPS.md
       - Fathers@PRPS/Committee.md
       - Fathers@PRPS/Useful Links.md
       - Fathers@PRPS/.keep
