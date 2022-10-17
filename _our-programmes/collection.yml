@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mathematics/.keep
       - Science/Science.md
       - Science/Facilities.md
       - Science/Science Curriculum.md
