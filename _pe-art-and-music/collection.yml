@@ -2,5 +2,6 @@ collections:
   pe-art-and-music:
     output: true
     order:
+      - Aesthetics Programmes/Visual Arts Programmes.md
       - Aesthetics Programmes/Music Programmes.md
       - Aesthetics Programmes/.keep
