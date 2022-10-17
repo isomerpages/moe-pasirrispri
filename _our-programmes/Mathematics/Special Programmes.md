@@ -15,3 +15,5 @@ The Maths Dept annually organises Maths Trails to create awareness that Maths is
 ### Maths Fun Week
 
 A week in Term 3 is designated Maths Fun Week for all P1-6 pupils. The aim is to instil a love for the subject through games and fun-filled activities. Pupils move from stations to stations around the school to engage in problem-solving challenges such as the Tower of Hanoi. ICT is infused in some of the activities to inject enjoyment whilst embracing technology.
+
+![](/images/Specialprog1.jpg)
