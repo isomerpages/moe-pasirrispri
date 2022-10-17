@@ -38,3 +38,9 @@ Digital Photography was first introduced in 2012 as a means to expose pupils to 
 ### National Competitions Singapore Youth Festival (Visual Arts)
 
 ![](/images/visual5.jpg)
+
+### Art Competitions
+
+![](/images/visual6.jpg)
+On-the-spot art competition at Chongzheng Primary School
+
