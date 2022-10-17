@@ -26,7 +26,9 @@ The school adopted a 3-pronged approach in the design of the CCA programme.
 
 The school offers a wide range of CCAs in three main groups.
 
-1) Physical Sports and Games       2) Performance and Visual Arts         3) Clubs
+1) Physical Sports and Games       
+2) Performance and Visual Arts         
+3) Clubs
 
 **Primary 2 CCA Modular Experience Programme (MEP)**
 
