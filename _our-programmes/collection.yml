@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Science/Collaboration with Parents.md
       - Science/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Chinese Language Programmes.md
