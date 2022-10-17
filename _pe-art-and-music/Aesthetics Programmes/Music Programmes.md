@@ -18,7 +18,7 @@ The aims of General Music Programme (GMP) are as follows:
 
 For Primary 1 & 2 only
 
-<img src="/images/Music1.jpg" style="width:320px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Music1.jpg" style="width:320px;height:220px;margin-left:15px;" align = "right">
 
 The Programme for Active Learning, also known as PAL, is one of PERI’s recommendations to address the increased emphasis on holistic education and development of life skills. It provides a smooth transition for children from pre-school child to primary education.  With Primary 1 and 2 pupils in mind, PAL emphasises learning through hands-on experiences, having fun and enjoyment in the learning, and on-going opportunities for peer interaction and self-discovery. PAL Music and Performing Arts modules use experiential learning to provide pupils with authentic opportunities to explore and express themselves creatively through music and movement. PAL is conducted over 2hrs weekly over and above Music lessons.
 
