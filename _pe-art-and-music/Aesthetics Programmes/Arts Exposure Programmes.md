@@ -13,3 +13,5 @@ Arts Exposure refer to special programmes to expose pupils to diverse and varied
 ##### Art Exhibitions @ The SPACE
 
 ‘The SPACE’ is a an area in the school canteen that is designated to showcase Art Exhibitions. Displaying pupils’ artworks in common spaces fosters pupils’ confidence and sense of achievement. These displays provide pupils an opportunity to observe, discuss and show value to works of art created by their peers.  Artworks are rotated throughout the year to showcase the good works by pupils.
+
+![](/images/art%20exposure.jpg)
