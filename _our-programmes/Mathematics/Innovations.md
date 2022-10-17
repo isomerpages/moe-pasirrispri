@@ -34,7 +34,7 @@ The positive feedback encouraged PRPS to sustain its partnership with NAFA for f
 These challenges notwithstanding, the shared beliefs and goals between PRPS and NAFA have helped to sustain this meaningful, symbiotic collaboration.   PRPS is thankful to NAFA for its continual support all these years.
 
 
-**Numerelic App –**
+##### Numerelic App –
 
 ![](/images/mathematics1.jpg)
 
@@ -51,6 +51,52 @@ In the process, the Player has to answer mathematics questions that pop up. For 
 
 The more mathematics questions the Player answers, the higher his score is. A Player can use the points to ‘buy’ tiles to bridge gaps to make his path to subsequent Exits smoother. The Player wins a e-medal at the end of each level completed and after attempting all 8 levels in all 3 categories, the Player is greeted with a congratulatory message that he has won all 24 e-medals.
 
-**2012 – Showcase at MOE ExCEL FEST**
+##### 2012 – Showcase at MOE ExCEL FEST
 
 The Maths Department showcased two of its innovative projects – Times Sticks and The Maths Story – at the 2012 MOE ExCEL Fest held in Suntec City on 30-31 March.
+
+##### 2011 – The Maths Story – In Search of the Mathemagical Potion
+
+The Maths Story – In Search of the Mathemagical Potion is a series of 15 stories set in the local context. Each story offers a brief introduction to a specific Maths topic at Primary Four. They are designed to be used as a tuning-in activity. The 15 individual stories, presented in the form of an ebook, are interlinked to form one complete story. They trace the adventures of the Hair Family in their quest for magical herbs to save their kingdom. Key mathematical concepts are communicated via captivating storylines and vibrant illustrations thus creating an inviting and motivating environment for our pupils. This project won the Best Cluster Suggestion in Nov 2011 and was showcased at MOE ExCEL Fest 2012 and Centre of Excellence@East Zone ICT Extravaganza 2012 in Victoria School.
+
+##### 2011 – Times Sticks
+
+TIMES STICKS is primarily a learning aid that presents the child with the opportunity to learn independently through discovery, the fundamental concept of Multiplication, which is:   “repeated-addition of the same number”.
+
+It provides for a concrete & visual way to explain, relate, and represent abstract multiplication number sentences:
+
+E.g.:   3 x 4 = 12  ;
+
+           3 groups of 4 is equal to 12  ;
+
+           3 fours, is 12   AND
+
+           3 x 4  is the same as 4 x 3.
+
+It also serves as an effective and motivational guide for the memorization of the Times-Table, with its built-in self-correcting features.
+
+This innovation is a winner of the MOE Innergy Award and it was showcased at MOE ExCEL Fest in March 2012.
+
+##### 2009 – The 3-in-1 project
+
+This innovative The 3-in-1 project is a Teaching Package which integrates English, Mathematics and Science at Primary 3. It adopts the backward curriculum design with detailed lesson plans for clarity and easy implementation. The package comprises opportunities for problem-solving, student self-assessment and experiential learning to promote self-directed learning. It seeks to promote engagement in active learning and teamwork, boosting the confidence and self-esteem of students. In this curriculum, students engaged in self-reflection through journal-writing and they received feedback during teacher- student conferencing to discuss ways to make improvement. The project MOE Innergy Award in 2010. It has been shared at international, national, cluster and school platforms. The project was shared at Bulgaria Comparative Education Conference in Bulgaria in June 2010, Teach-Less-Learn-More Conference organized by E6 cluster in July 2010 and was awarded MOE Innergy Commendation Award and a Silver Award for Team Excellence Symposium. The team was also invited to share the project at East Zone Action Research Symposium in September 2010.
+
+##### Maths Trail Blogs
+
+The innovation “ Maths Trail Blogs” is based on the concept of the National Maths Trail website (http://www.nationalmathtrail.com). The main aims of this project are to show the students that Maths is all around them and to make Maths more relevant and meaningful in their lives. With their knowledge of Maths concepts and skills and working in small groups, students move around their community and use digital cameras to take pictures that they can use for their maths problems. They download these pictures to the computers and provide the text and solutions for their maths problems. They then publish these maths problems in the form of a Maths Trail in their own blogs. These blogs are published in the school web portal for the school population to view and respond accordingly. Students are encouraged to attempt the maths problems and at the same time read some information about the community places which the students have explored. Click http://prps.edu.sg/mathstrailblogs/ to find out more. The project is a joint collaboration with the IT Department. IT won the HP Innovation in IT Award in 2005.
+
+##### Vacation Maths Blogs
+
+This innovation is a spin-off from Maths Trail Blogs. Here, pupils were made aware that Maths is not only seen in classrooms, school and community, but also beyond the country. Teachers and pupils pose their vacation blogs online and maths questions relating to places visited. Viewers solve these maths questions to obtain more information on the places of interest. Click Here . The project won the Best Cluster Suggestion in May 2006.
+
+##### Wildwest Stomp! ( Online Maths Game )
+
+Wildwest Stomp! is an interactive multi-player mathematics computer game which aims to challenge our Primary 4 & 5 pupils to solve maths problems creatively, develop critical thinking skills in problem solving and sharpen mathematical skills through reasoning and making connections. The development of this game is a joint collaboration between Pasir Ris Primary School and Temasek Polytechnic. Pasir Ris Primary School provides the innovative ideas, contents and graphics while Temasek Polytechnic provides the technical support and software programming. This interactive game injects an element of fun and enjoyment into an otherwise routine way of reinforcing mathematical concept learned. It creates opportunities for pupils to learn how to construct appropriate mathematical questions which in turn enables them to better appreciate the subject itself. It encourages independent learning through self monitoring of one’s own thinking, thus promoting pupils’ confidence, accuracy and metacognition. As this interactive game allows pupils to customise their own game within the main game, pupils are exposed to simple basic logic of programming and game structure in the area of computer game design. As the game is designed with a chat-line feature, players are able to communicate to their friends whilst playing, building social and communications skills too.
+
+This game builds pupils’ confidence in Mathematics and instills in them the love and appreciation for Maths by harnessing technology and leveraging on pupils’ interest in gaming. Wildwest Stomp! was awarded $5000 by School Innovation Fund in 2007. In the same year, it won the MOE-Lenovo Award and was accredited a Gold Award at the National Innovation Quality Circle (NIQC) organized by SPRING Singapore.
+
+##### 4 – Op Card Games
+
+‘4-Op’ Card Game is created by the Mathematics Department and is partially funded by Citibank’s Ideas In Action. Several games have been designed to help sharpen mental calculations and increase agility in numeracy.
+
+Citibank’s Ideas In Action Day was held at Nanhua Primary School on 24 Sept 04. The Maths Department and some P3A pupils showed off their creation ‘4-Op’ a card game to the public.
