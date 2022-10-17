@@ -50,3 +50,5 @@ Pri 3: Guzheng & Recorder
 Pri 4: Angklung & Recorder    
 Pri 5: Recorder   
 Pri 6: African Percussion.
+
+![](/images/music3.jpg)
