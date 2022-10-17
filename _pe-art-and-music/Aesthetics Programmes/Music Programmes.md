@@ -26,8 +26,7 @@ Primary 1 – Creative Movement
 
 Primary 2 – Exploring Angklung I
 
-Integrating Music & Performing Arts
------------------------------------
+### Integrating Music & Performing Arts
 
 Pri 1 – Percussive Movement
 
