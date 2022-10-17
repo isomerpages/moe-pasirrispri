@@ -19,3 +19,6 @@ The Programme for Active Learning, also known as PAL, is one of PERI’s recomme
 ### Primary 3 Level Programme Oil Pastels and Painting Module
 
 For the past five years, Pasir Ris Primary has offered an oil pastels and painting module to Primary 3 pupils. This module aims to develop pupils’ drawing and rendering skills with oil pastels and paint.  Pupils will learn toning and blending techniques as a foundation for future oil pastel work at the upper primary level.
+
+
+![](/images/visual2.jpg)
