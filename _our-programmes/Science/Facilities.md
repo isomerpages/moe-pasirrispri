@@ -21,18 +21,18 @@ With the completion of the rooftop garden, we now have another outdoor experimen
 
 **Key features include:-**
 
-1\.  Green wall
-2\.  Foliage canopy in the form of a mid-sized fruit tree
-3\.  Raised planter boxes to facilitate group experimentations
-4\.  Efficient irrigation system
+1\.  Green wall   
+2\.  Foliage canopy in the form of a mid-sized fruit tree   
+3\.  Raised planter boxes to facilitate group experimentations   
+4\.  Efficient irrigation system   
 
 **Key objectives of this project include:-** 
 
-1\.  maximum utilization of space
-2\.  reduction of heat and temperature
-3\.  creation of an outdoor learning centre
-4\.  facilitation of group projects that promotes scientific inquiry
-5\.  promotion of greenery in urban living
+1\.  maximum utilization of space   
+2\.  reduction of heat and temperature   
+3\.  creation of an outdoor learning centre   
+4\.  facilitation of group projects that promotes scientific inquiry    
+5\.  promotion of greenery in urban living   
 
 **Other facilities that support the teaching and learning of science include:**
 
