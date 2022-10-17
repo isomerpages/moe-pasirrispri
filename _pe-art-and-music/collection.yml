@@ -1,4 +1,5 @@
 collections:
   pe-art-and-music:
     output: true
-    order: []
+    order:
+      - Aesthetics Programmes/.keep
