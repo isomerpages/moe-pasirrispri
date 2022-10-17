@@ -22,3 +22,7 @@ For the past five years, Pasir Ris Primary has offered an oil pastels and painti
 
 
 ![](/images/visual2.jpg)
+
+### Primary 4 Level Programme Batik Painting Module
+
+Batik Painting was introduced to Primary 4 pupils in 2012. The objectives of this programme are to provide pupils with an understanding of batik painting and the cultural heritage of where it came from. At the end of the programme, pupils would have explored the process of batik painting and its techniques. They would also have learnt that batik painting is another means of creative and artistic expression.
