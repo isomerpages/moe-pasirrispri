@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - English Language/.keep
       - Mathematics/Mathematics.md
       - Mathematics/MOE Mathematics Framework.md
       - Mathematics/Special Programmes.md
