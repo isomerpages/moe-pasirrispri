@@ -10,14 +10,9 @@ third_nav_title: PSG
 
 Mdm Jasmit Kaur
 
-**Members**
-
-Mdm Suhaila Jamat
-
-Mdm Linggoe Lioe
-
-Mdm Doreen Goh
-
-Mdm Aprajita Sharma
-
+**Members**   
+Mdm Suhaila Jamat   
+Mdm Linggoe Lioe   
+Mdm Doreen Goh    
+Mdm Aprajita Sharma    
 Mdm Candy Qiu
