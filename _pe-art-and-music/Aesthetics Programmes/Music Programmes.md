@@ -56,3 +56,14 @@ Pri 6: African Percussion.
 ### Special Projects LKY Bilinguism Project
 
 10 Choir pupils were selected this year to participate in the LKY Bilingualism Project. They lent their voices for two songs that will be featured in a CD that promotes the use of Mandarin.
+
+<img src="/images/Choir_thumb.jpg" 
+     style="width:25%">
+		 
+		 
+### Collaboration with OKTO!
+
+Oak3 Films recently poduced a TV musical, titled “After School”, for Okto, Mediacorp. In line with the “After School” tv musical concept, a 9-part web extension series focusing on the song and dance groups of our local youths today.  These clips will be aired on XinMSN. This year, the company featured Pasir Ris Primary School and worked with our Choir and Malay Dance pupils.
+
+
+![](/images/music4.jpg)
