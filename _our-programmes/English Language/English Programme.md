@@ -50,3 +50,13 @@ The EL Department conducts Speakers’ Corner Programme for our middle and upper
 Our P3 to P6 students discuss a given topic with their EL teachers. The topics discussed include contemporary issues such as current affairs. Upon discussion, our students pen their comments and reflections in their EL journal books. They then articulate these thoughts to their peers on a rotational basis throughout the year, in the classrooms in front of their classmates for class sessions and in the presence of their schoolmates during level sessions held in different parts of the school, like the canteen, library or lower concourse.
 
 This programme provides a platform for our students to speak in front of an audience to become confident communicators. They also become more self-directed in their learning and have the opportunity to develop their critical thinking skills when they do research and reflect on a given topic.
+
+![](/images/el1.jpg)
+
+**Literature in Drama**
+
+P4 students participate in a literature-in-drama workshop bases on Dr. Seuss’s The Lorax. In the workshop, the students learn to engage with literature not only through textual analysis but also through dramatic presentations of the story.
+
+The workshop culminates in a drama presentation during assembly before an audience of students and teachers.
+
+![](/images/el2.jpg)
