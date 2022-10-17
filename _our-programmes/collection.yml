@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mathematics/Innovations.md
       - Mathematics/Links.md
       - Mathematics/.keep
       - Science/Science.md
