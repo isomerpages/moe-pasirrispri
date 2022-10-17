@@ -32,3 +32,7 @@ Batik Painting was introduced to Primary 4 pupils in 2012. The objectives of thi
 ### Primary 5 Level Programme Digital Photography Module
 
 Digital Photography was first introduced in 2012 as a means to expose pupils to new media so as to stay current and relevant to new forms of art and industrial skills. Photography is relevant in pupils’ daily life and is a common form of expression and communication in society today. The objectives of this programme therefore seek to provide pupils with an understanding in the media and explore photography as a means or artistic expression.
+
+![](/images/visual4.jpg)
+
+### National Competitions Singapore Youth Festival (Visual Arts)
