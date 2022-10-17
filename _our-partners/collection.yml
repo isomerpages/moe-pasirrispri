@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Fathers@PRPS/.keep
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Role of Alumni.md
