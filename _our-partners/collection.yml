@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - PSG/PSG EXCO Team.md
       - PSG/Terms of Reference.md
       - PSG/Calendar of Events.md
       - PSG/Photo Gallery.md
