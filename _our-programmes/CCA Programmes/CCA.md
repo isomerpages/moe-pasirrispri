@@ -43,3 +43,5 @@ All P3 – P6 students are highly encouraged to participate in C
 CA.  Each student can only undertake **one** CCA from any of the CCA groups.
 
 ![](/images/p3.jpg)
+
+Through the planned and meaningful CCA activities, students undergo experiences which afford them the opportunity to enhance character and their 21CC. All students are highly encouraged to participate in CCA.  Each student can only undertake **one** CCA from any of the CCA groups.
