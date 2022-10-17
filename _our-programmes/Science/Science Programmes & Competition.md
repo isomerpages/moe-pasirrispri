@@ -101,3 +101,5 @@ The students’ research projects are assessed by judges comprising of scientist
 The judging criteria on the day of presentation of students’ project include scientific Investigation, exploration of scientific thought, investigation design, analysis of data and evaluation as well as creativity, originality and future application.
 
 In 2012, our group of P5 pupils did the school proud by clinching 1st prize in the primary school category with their project on organic pesticides. They were invited to present their project at the symposium and impressed the audience with their poise and confident presentation of the project.
+
+![](/images/sciprog10.jpg)
