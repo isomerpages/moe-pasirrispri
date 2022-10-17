@@ -103,3 +103,11 @@ The judging criteria on the day of presentation of students’ project include s
 In 2012, our group of P5 pupils did the school proud by clinching 1st prize in the primary school category with their project on organic pesticides. They were invited to present their project at the symposium and impressed the audience with their poise and confident presentation of the project.
 
 ![](/images/sciprog10.jpg)
+
+### Clean and Green Week
+
+In line with Singapore’s efforts in promoting an environmentally friendly lifestyle and in creating and sustaining a green environment, the Science department has been encouraging pupils (with the help of teacher mentors) to embark on environment projects that impact one of the pillars of the Clean and Green Singapore campaigns – City of Gardens & Water
+
+For this endeavour, we have been collaborating with NEA under its CASP – Corporate and School Partnership Programme since it started 10 years ago. In this platform, pupils and teachers are given the opportunities to work with various corporate partners to fulfil both our duties and do our part in greening the environment. Our latest CASP partner is AU Optronics Pte Ltd and we are in our 7th year of partnership with them. Annually, environmental projects carried out by our pupils are showcased at the NEA Clean and Green Week Carnival to help raise the public’s awareness on importance of sustaining a green environment.
+
+Our completed projects include, A day in the life of a plastic bag (2010), Mobile garden (2011), Save the environment, go organic! (2012) & Minimise & Maximise (2014) .
