@@ -15,3 +15,5 @@ Since 2011, we have embarked on the MT Cultural Fortnight activities. The purpos
 ### P3 and P4 Supplementary Reading Materials
 
 All P3 and P4 pupils were encouraged to subscribe to a weekly news magazine – Zhi Shi Hua Bao (知识画报) at the beginning of  this year. The pupils would read the news magazine on every Thursday and Friday’s morning reading session. In class, the respective Chinese Language teacher would also use the news magazine as a resource to further strengthen the pupils’ reading competency. All P3 and P4 pupils are required to complete some of the activities in the news magazine.
+
+![](/images/CL2.jpg)
