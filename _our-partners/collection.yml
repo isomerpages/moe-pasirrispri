@@ -2,8 +2,8 @@ collections:
   our-partners:
     output: true
     order:
+      - Alumni/.keep
+      - Alumni/Alumni.md
       - Alumni/Role of Alumni.md
       - Alumni/Activities.md
       - Alumni/Contact Us.md
-      - Alumni/Alumni.md
-      - Alumni/.keep
