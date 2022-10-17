@@ -100,3 +100,5 @@ This game builds pupils’ confidence in Mathematics and instills in them the lo
 ‘4-Op’ Card Game is created by the Mathematics Department and is partially funded by Citibank’s Ideas In Action. Several games have been designed to help sharpen mental calculations and increase agility in numeracy.
 
 Citibank’s Ideas In Action Day was held at Nanhua Primary School on 24 Sept 04. The Maths Department and some P3A pupils showed off their creation ‘4-Op’ a card game to the public.
+
+![](/images/Children-playing-4-Op-cards-in-canteen.jpg)
