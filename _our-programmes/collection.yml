@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - PE Art and Music/.keep
       - CCA Programmes/CCA.md
       - CCA Programmes/ART CLUB.md
       - CCA Programmes/CHESS.md
