@@ -102,3 +102,14 @@ This game builds pupils’ confidence in Mathematics and instills in them the lo
 Citibank’s Ideas In Action Day was held at Nanhua Primary School on 24 Sept 04. The Maths Department and some P3A pupils showed off their creation ‘4-Op’ a card game to the public.
 
 ![](/images/Children-playing-4-Op-cards-in-canteen.jpg)
+
+Very often, pupils waste time while waiting for teachers and for activities to begin. This ‘waiting time’ can be fruitfully utilised by having pupils preoccupied with fun, educational card games. These creative card games can also be played at home too. They are compact and can easily be brought around.
+
+Objectives :
+
+1.  To provide educational recreation activities
+2.  To reinforce mathematical skills
+3.  To sharpen pupils’ mental calculation and increase speed and agility
+4.  To instil creativity and alertness among pupils.
+
+![](/images/4-OpP20CardP20Games.jpg)
