@@ -7,9 +7,9 @@ description: ""
 
 ### MOE Financial Assistance Scheme (FAS)
 
-[MOE FAS application information](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/FAS-2023-Guidelines-for-School_edited.pdf)
+[MOE FAS application information](/files/FAS-2023-Guidelines-for-School_edited.pdf)
 
-[Application of 2023 MOE FAS form](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS_Form.pdf)
+[Application of 2023 MOE FAS form](/files/MOE-FAS_Form.pdf)
 
 ### LEAVE OF ABSENCE (LOA)
 
@@ -19,7 +19,7 @@ description: ""
 
 NPP aims to provide low-income households with students and Persons-with-Disabilities (PWD) with the opportunity to own a subsidised PC Bundle (i.e. computer with 3 years free broadband), to support their learning needs. For full details, please refer to [IMDA NEU PC Plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus) website.
 
-[NEU PC Plus](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/NEU-PC-Plus-IMDA-FBB-Svc-Appl-9-April-2020.pdf.pdf.pdf)
+[NEU PC Plus](/files/NEU-PC-Plus-IMDA-FBB-Svc-Appl-9-April-2020.pdf)
 
 [Application form for MOE-SPED FAS](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/NPP-Application-Form-v5.6-1-January-22-for-MOE-SPED-FAS.pdf)
 
