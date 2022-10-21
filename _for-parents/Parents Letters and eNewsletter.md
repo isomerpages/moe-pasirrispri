@@ -11,4 +11,4 @@ As part of our environment-friendly practices,  letters and notifications to pa
 
 **2\. PRPS e-PUBLICATION**
 
-Click on the link to read – [Pasirian Voice 2022](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/07/Pasirian-Voice_2022-Final.pdf)
+Click on the link to read – [Pasirian Voice 2022](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/07/Pasirian-Voice_2022-Final.pdf) - exceed 5MB
