@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6582 2606
       - email: prps@moe.edu.sg
-      - other: ""
+      - other: For any enquiries, please drop us an email.
     title: General Office
   - content:
       - phone: +65 6582 8492
