@@ -18,3 +18,4 @@ Websites & Links
 <br>
 School Admin App
 <img src="images/PG-150x150.png" style="width:25%">
+<center><a href="https://pg.moe.edu.sg/">Parents Gateway</a></center>
