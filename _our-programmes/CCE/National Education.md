@@ -38,3 +38,5 @@ To provide for a holistic development of our students, our school believes that 
 
 <img src="/images/tn.jpg" 
      style="width:50%">
+		 
+DPM Teo’s Facebook update on Tuesday, 26 July 2011at 10.06 pm after attending Sing Singapore at PRPS.
