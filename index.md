@@ -11,10 +11,9 @@ sections:
       background: /images/prps.gif
       button: Contact Us
       url: /contact-us/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Student Learning Space
+      button: Click Here
+      url: https://vle.learning.moe.edu.sg/login
+      alt: Image alt text
 ---
