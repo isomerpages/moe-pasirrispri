@@ -18,5 +18,5 @@ description: ""
 
 1. Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 2.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway.
-	3.  Parents can contact the school at <b>General Office:</b> 6582 2606, [prps@moe.edu.sg](mailto:prps@moe.edu.sg)  for discussion or to seek clarification about the school’s sexuality education programme.
+	3.  Parents can contact the school at <b>General Office:</b> 6582 2606, <a href="prps@moe.edu.sg">prps@moe.edu.sg</a>  for discussion or to seek clarification about the school’s sexuality education programme.
 4.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
