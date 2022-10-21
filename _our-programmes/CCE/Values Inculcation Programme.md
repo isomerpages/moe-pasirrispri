@@ -14,5 +14,6 @@ It is a whole school approach as representatives from the school community, from
 *   A whole-school approach in translating & communicating the school values & desirable traits in Character Devt
 *   A platform to unpack the values & desirable character traits to ensure clear understanding by all
 
-<img src="/images/pic1-1-300x300.jpg" 
+<img src="/images/Values%20Inculcation%20Programme.jpg" 
      style="width:50%">
+		 
