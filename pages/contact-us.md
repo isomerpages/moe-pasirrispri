@@ -31,4 +31,9 @@ contacts:
       - other: 'Website : <a
           href="https://pacificbookstores.com">https://pacificbookstores.com</a>'
     title: Pacific Bookstores Pte Ltd
+  - content:
+      - phone: +65 6387 3929
+      - email: corporate@jeepsing.com
+      - other: "Fax: 6386 2407"
+    title: Student Mart (School Uniform)
 ---
