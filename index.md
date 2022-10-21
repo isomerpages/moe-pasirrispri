@@ -11,6 +11,19 @@ sections:
       background: /images/prps.gif
       button: Contact Us
       url: /contact-us/
+      key_highlights:
+        - title: Student Learning Space
+          description: ""
+          url: https://vle.learning.moe.edu.sg/login
+        - title: Google Workspace
+          description: ""
+          url: https://workspace.google.com/dashboard
+        - title: OPAC
+          description: ""
+          url: https://schoolibrary.moe.edu.sg/pasirrispri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+        - title: Parents Gateway
+          description: ""
+          url: /for-parents/parents-gateway
   - infopic:
       title: Student Learning Space
       button: Click Here
