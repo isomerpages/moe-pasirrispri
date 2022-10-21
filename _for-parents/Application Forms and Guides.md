@@ -21,9 +21,9 @@ NPP aims to provide low-income households with students and Persons-with-Disabil
 
 [NEU PC Plus](/files/NEU-PC-Plus-IMDA-FBB-Svc-Appl-9-April-2020.pdf)
 
-[Application form for MOE-SPED FAS](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/NPP-Application-Form-v5.6-1-January-22-for-MOE-SPED-FAS.pdf)
+[Application form for MOE-SPED FAS](/files/NPP-Application-Form-v5-6-1-January-22-for-MOE-SPED-FAS.pdf)
 
-[Application form for Non MOE-SPED FAS](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/NPP-Application-Form-v12.6-1-January-22-for-NON-MOE-SPED-FAS.pdf)
+[Application form for Non MOE-SPED FAS](/files/NPP-Application-Form-v12-6-1-January-22-for-NON-MOE-SPED-FAS.pdf)
 
 ### Parent Volunteers @ Pasir Ris Primary
 
