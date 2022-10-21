@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - Education Career Guidance (ECG).md
