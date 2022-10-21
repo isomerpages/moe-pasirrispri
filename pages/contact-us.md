@@ -10,29 +10,25 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 7.15am - 5.30pm
+        description: Closed on Weekends & Public Holidays
     maps_link: https://goo.gl/maps/ayrzPJP9Jn4sT1vF6
     title: Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6582 2606
+      - email: prps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Office
+  - content:
+      - phone: +65 6582 8492
+      - email: ""
+      - other: ""
+    title: Fasimile
+  - content:
+      - phone: +65 6282 5611
+      - email: ""
+      - other: 'Website : <a
+          href="https://pacificbookstores.com">https://pacificbookstores.com</a>'
+    title: Pacific Bookstores Pte Ltd
 ---
