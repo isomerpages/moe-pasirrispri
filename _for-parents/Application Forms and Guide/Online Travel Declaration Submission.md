@@ -24,4 +24,4 @@ Only 1 parent is required to declare. You may refer to the following steps or th
 
 2\. Go to \[SERVICES > DECLARE TRAVELS\] to make your declaration.
 
-[Travel Declaration Guide via PG](https://pasirrispri.moe.edu.sg/wp-content/uploads/2019/11/Parents-Guide-for-PG-Travel-Declaration-Update-Particulars-8-May-19.pdf)
+[Travel Declaration Guide via PG](/files/Parents-Guide-for-PG-Travel-Declaration-Update-Particulars-8-May-19.pdf)
