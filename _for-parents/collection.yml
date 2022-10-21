@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Application Forms and Guide/.keep
       - MOE Sexuality Education in Schools.md
       - Education Career Guidance (ECG).md
