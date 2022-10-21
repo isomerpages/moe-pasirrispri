@@ -19,6 +19,5 @@ via this link [https://jeepsinguniform.com/pages/appointment-booking](https://j
 
 ![](/images/School-Uniform-1.png)
 
-**Booklist 2023** 
-
+**Booklist 2023**    
 Currently not available.
