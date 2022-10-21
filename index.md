@@ -25,8 +25,10 @@ sections:
           description: ""
           url: /for-parents/parents-gateway
   - infopic:
-      title: Student Learning Space
-      button: Click Here
-      url: https://vle.learning.moe.edu.sg/login
+      title: P1 Orientation 2020
+      button: Click Here to watch the video!
+      url: https://www.youtube.com/watch?v=LoxmoqrnzWg
       alt: Image alt text
+      subtitle: Pasir Ris Primary School
+      image: /images/P1-orientation-2020.jpg
 ---
