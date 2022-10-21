@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Information.md
       - Application Forms and Guides.md
       - P1 Registration.md
       - Parents Letters and eNewsletter.md
