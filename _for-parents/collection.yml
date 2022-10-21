@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - P1 Registration.md
       - Parents Letters and eNewsletter.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
