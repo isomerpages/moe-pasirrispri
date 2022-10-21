@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Online Travel Declaration Submission.md
       - Resources.md
       - Application Forms and Guide/Education Career Guidance (ECG).md
       - Application Forms and Guide/.keep
