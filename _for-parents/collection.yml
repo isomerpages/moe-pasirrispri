@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Application Forms and Guide/Online Travel Declaration Submission.md
       - Application Forms and Guide/Resources.md
       - Application Forms and Guide/.keep
       - MOE Sexuality Education in Schools.md
