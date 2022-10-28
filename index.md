@@ -23,10 +23,6 @@ sections:
         - title: Parents Gateway
           description: ""
           url: /for-parents/parents-gateway
-  - infobar:
-      button: click here
-      url: https://staging.d3za3k1199v0n.amplifyapp.com/for-parents/parents-gateway/
-      subtitle: Info for Parents
   - infopic:
       button: Click Here to watch the video!
       url: https://www.youtube.com/watch?v=LoxmoqrnzWg
