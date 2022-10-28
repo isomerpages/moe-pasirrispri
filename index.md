@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Pasir Ris Primary School
       background: /images/Header.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Student Learning Space
           description: ""
