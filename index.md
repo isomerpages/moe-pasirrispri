@@ -23,10 +23,14 @@ sections:
           description: ""
           url: /for-parents/parents-gateway
   - infopic:
-      title: P1 Orientation 2020
       button: Click Here to watch the video!
       url: https://www.youtube.com/watch?v=LoxmoqrnzWg
       alt: Image alt text
-      subtitle: Pasir Ris Primary School
+      subtitle: P1 Orientation 2020
       image: /images/P1-orientation-2020.jpg
+  - infopic:
+      title: School Assembly Schedule
+      button: Click here to see the school calendar
+      url: https://calendar.google.com/calendar/u/0?cid=Y19jbGFzc3Jvb20zZTEwMjIyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+      image: /images/—Pngtree—calendar time monthly calendar chart_5324170.png
 ---
