@@ -37,4 +37,8 @@ sections:
       title: Loan book online
       button: Button Text
       url: https://pasirrispri.moe.edu.sg/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
