@@ -29,19 +29,12 @@ sections:
       alt: Image alt text
       subtitle: P1 Orientation 2020
       image: /images/P1-orientation-2020.jpg
-  - infopic:
-      title: School Assembly Schedule
-      button: Click here to see the school calendar
-      url: https://calendar.google.com/calendar/u/0?cid=Y19jbGFzc3Jvb20zZTEwMjIyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
-      image: /images/—Pngtree—calendar time monthly calendar chart_5324170.png
-      alt: image alt text
   - infobar:
-      title: Loan book online
-      button: Button Text
-      url: https://pasirrispri.moe.edu.sg/
+      button: click here
+      url: /for-parents/
+      subtitle: Info for Parents
   - resources:
       title: testing 2
       subtitle: testing 1
       button: testing 3
 ---
-
