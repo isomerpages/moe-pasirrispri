@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Pasir Ris Primary School
-      background: /images/FRONT PAGE.png
+      background: /images/prps.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
