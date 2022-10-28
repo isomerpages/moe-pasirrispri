@@ -33,8 +33,4 @@ sections:
       button: click here
       url: /for-parents/
       subtitle: Info for Parents
-  - resources:
-      title: testing 2
-      subtitle: testing 1
-      button: testing 3
 ---
