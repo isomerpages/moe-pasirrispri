@@ -20,7 +20,7 @@ sections:
         - title: OPAC
           description: ""
           url: https://schoolibrary.moe.edu.sg/pasirrispri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-        - title: Parents Gateway
+        - title: Parents Information
           description: ""
           url: /for-parents/parents-gateway
   - infopic:
