@@ -39,7 +39,7 @@ sections:
       button: Button Text
       url: https://pasirrispri.moe.edu.sg/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: testing 2
+      subtitle: testing 1
+      button: testing 3
 ---
