@@ -33,4 +33,8 @@ sections:
       button: Click here to see the school calendar
       url: https://calendar.google.com/calendar/u/0?cid=Y19jbGFzc3Jvb20zZTEwMjIyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
       image: /images/—Pngtree—calendar time monthly calendar chart_5324170.png
+  - infobar:
+      title: Loan book online
+      button: Button Text
+      url: https://pasirrispri.moe.edu.sg/
 ---
