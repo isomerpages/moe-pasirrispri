@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GIF_Header.gif
+      background: /images/Header/GIF_HeaderWeb.gif
       key_highlights:
         - title: Student Learning Space
           description: ""
