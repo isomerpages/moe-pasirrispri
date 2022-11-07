@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Pasir Ris Primary School
-      background: /images/Header.gif
+      background: /images/GIF_Header.gif
       key_highlights:
         - title: Student Learning Space
           description: ""
