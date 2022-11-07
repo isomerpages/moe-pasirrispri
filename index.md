@@ -8,7 +8,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Pasir Ris Primary School
       background: /images/GIF_Header.gif
       key_highlights:
         - title: Student Learning Space
