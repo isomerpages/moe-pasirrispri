@@ -28,4 +28,9 @@ sections:
       image: /images/P1-orientation-2020.jpg
       title: Mission
       description: Nurturing Pasirian to be confident and compassionate critical thinker
+  - infopic:
+      title: Value
+      description: Passion for Learning Respect for all
+      image: /images/P1-orientation-2020.jpg
+      alt: Image alt text
 ---
