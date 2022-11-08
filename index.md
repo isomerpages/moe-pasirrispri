@@ -1,8 +1,9 @@
 ---
 layout: homepage
 title: Pasir Ris Primary School
-description: Established in 1980, Pasir Ris Primary School is a government
-  primary school. Our school has a heritage of excellent all-round education.
+description: Established in 1993 and officially open in 1995. Pasir Ris Primary
+  School is a government primary school. Our school has a heritage of excellent
+  all-round education.
 image: /images/logo.png
 permalink: /
 notification: ""
@@ -39,3 +40,4 @@ sections:
       alt: Image alt text
       image: /images/Front Page/front page 3.png
 ---
+
