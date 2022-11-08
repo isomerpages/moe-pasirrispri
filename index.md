@@ -22,6 +22,7 @@ sections:
         - title: Parents Information
           description: ""
           url: /for-parents/parents-gateway
+      title: Pasir Ris Primary School
   - infopic:
       button: Click Here to watch the video!
       url: https://www.youtube.com/watch?v=LoxmoqrnzWg
