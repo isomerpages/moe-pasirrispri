@@ -37,5 +37,5 @@ sections:
       title: "We believe that :"
       description: Every Child is a Winner.
       alt: Image alt text
-      image: /images/P1-orientation-2020.jpg
+      image: /images/Front Page/front page 3.png
 ---
