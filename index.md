@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Vision
       description: Lifelong Learners, Active Citizens.
-      image: /images/P1-orientation-2020.jpg
+      image: /images/Front Page/front page 1.png
       alt: Image alt text
   - infopic:
       alt: Image alt text
