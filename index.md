@@ -24,9 +24,8 @@ sections:
           url: /for-parents/parents-gateway
       title: Pasir Ris Primary School
   - infopic:
-      button: Click Here to watch the video!
-      url: https://www.youtube.com/watch?v=LoxmoqrnzWg
       alt: Image alt text
-      subtitle: P1 Orientation 2020
       image: /images/P1-orientation-2020.jpg
+      title: Mission
+      description: Nurturing Pasirian to be confident and compassionate critical thinker
 ---
