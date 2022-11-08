@@ -30,7 +30,7 @@ sections:
       alt: Image alt text
   - infopic:
       alt: Image alt text
-      image: /images/P1-orientation-2020.jpg
+      image: /images/Front Page/front page 2.png
       title: Mission
       description: Nurturing Pasirians to be confident and compassionate critical thinkers.
   - infopic:
