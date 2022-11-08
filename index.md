@@ -24,15 +24,15 @@ sections:
           url: /for-parents/parents-gateway
       title: Pasir Ris Primary School
   - infopic:
+      title: Vision
+      description: Lifelong Learners, Active Citizens.
+      image: /images/P1-orientation-2020.jpg
+      alt: Image alt text
+  - infopic:
       alt: Image alt text
       image: /images/P1-orientation-2020.jpg
       title: Mission
       description: Nurturing Pasirians to be confident and compassionate critical thinkers.
-  - infopic:
-      title: Value
-      description: Passion for Learning Respect for all
-      image: /images/P1-orientation-2020.jpg
-      alt: Image alt text
   - infopic:
       title: Infopic Title
       description: Infopic description
