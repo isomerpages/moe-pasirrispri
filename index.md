@@ -40,4 +40,3 @@ sections:
       alt: Image alt text
       image: /images/Front Page/front page 3.png
 ---
-
