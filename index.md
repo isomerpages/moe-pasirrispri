@@ -34,8 +34,8 @@ sections:
       title: Mission
       description: Nurturing Pasirians to be confident and compassionate critical thinkers.
   - infopic:
-      title: Infopic Title
-      description: Infopic description
-      button: Button Text
+      title: "We believe that :"
+      description: Every Child is a Winner.
       alt: Image alt text
+      image: /images/P1-orientation-2020.jpg
 ---
