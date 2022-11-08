@@ -3,7 +3,7 @@ url: https://pasirrispri.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#1e73b3"
-  secondary-color: "#fdb94c"
+  secondary-color: "#1e73b3"
   media-colors:
     - title: media-color-one
       color: "#1e73be"
