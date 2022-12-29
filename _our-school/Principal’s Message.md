@@ -3,7 +3,7 @@ title: Principal’s Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-# **Principal’s Message**
+ **Principal’s Message**
 
 Dear Pasirians,
 
