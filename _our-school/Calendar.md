@@ -9,7 +9,7 @@ description: ""
 
 | Date | Event |
 | --- | --- |
-| 3 Jan 2023 | Start of Term 1|
+| **3 Jan 2023** | **Start of Term 1**|
 |3 Jan 2023 | P1 Reporting to School |
 |4 Jan 2023 | P2 - P6 Reporting to School |
 |6 Jan 2023 | P1 & P6 Photo Taking for Smart Card |
@@ -32,7 +32,7 @@ description: ""
 |7 Mar 2023| Assembly-Student Leaders Investiture |
 |10 Mar 2023| P6 Education & Career Guidance Day |
 |13 to 17 Mar 2023 | Term 1 Break |
-|20 Mar 2023 | Start of Term 2 |
+|**20 Mar 2023** | **Start of Term 2** |
 |29 and 30 Mar 2023| P4 Road Traffic Games |
 |31 Mar 2023| Prize Giving Day (TBC) |
 |4 Apr 2023 | Assembly-International Friendship Day cum EL Festival |
@@ -46,3 +46,14 @@ description: ""
 |26 to 28 Apr 2023 | Hari Raya Recess Activities |
 |28 Apr 2023 | P4 CCE/NE LJ: Kreta Ayer Heritage Centre |
 |2 and 3 May 2023 | P5 Leadership & Outdoor Adventure Camp @ Jalan Bahtera Campsite |
+|3 to 5 May 2023| P6 CCE/NE LJ: Asian Civilization Museum |
+|5 May 2023| P4 CCE/NE LJ: Kreta Ayer Heritage Centre |
+|9 May 2023| NAPFA Trial Test P4|
+|10 May 2023| P6 Science LJ: Singapore Botanic Gardens Seed Bank Tour /Exhibition|
+|12 May 2023| NAPFA Test P6 |
+|16 May 2023| NAPFA Tests P4 |
+|23 May 2023| P3-P6 Last CCA Practice for the Semester|
+|23 May 2023| Assembly-Head Prefect Election |
+|29 May to 23 Jun 2023| Term 2 Break|
+|21 to 23 Jun 2023| P6 Holiday Classes |
+|**26 Jun 2023**| **Start of Term 3**|
