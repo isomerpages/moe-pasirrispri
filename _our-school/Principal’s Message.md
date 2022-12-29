@@ -5,7 +5,7 @@ description: ""
 ---
 **Principal’s Message**
 
-Dear Pasirians,
+Dear Pasirians,                 
 
 At Pasir Ris Primary School, each and every child is precious to us. Guided by our philosophy that “every child is a winner”, we are committed to developing all of our students holistically: instilling in them a joy of learning through both the curriculum and co-curriculum, nurturing them to be leaders with integrity and building in them a spirit of excellence in everything that they do. We are committed to a caring and supportive school environment for all students, helping them to learn and grow as individuals and as part of our larger Pasirian family.
 
