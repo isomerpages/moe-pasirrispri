@@ -55,5 +55,27 @@ description: ""
 |23 May 2023| P3-P6 Last CCA Practice for the Semester|
 |23 May 2023| Assembly-Head Prefect Election |
 |29 May to 23 Jun 2023| Term 2 Break|
+|20 Jun 2023| P6 Motivation Workshop |
 |21 to 23 Jun 2023| P6 Holiday Classes |
 |**26 Jun 2023**| **Start of Term 3**|
+|27 Jun 2023| P3-P5 Start CCA|
+|3 Jul 2023| Scheduled School Holiday for Youth Day|
+|4 Jul 2023| P1 Learning Journey|
+|6 and 7 Jul 2023| P6 Pasir Ris Mangrove Swamp|
+|10 to 21 Jul 2023| CL & ML MTL Fortnight|
+|18 to 21 Jul 2023| Maths Fun Week cum Racial Harmony Day (P1-P6)|
+|20 Jul 2023| P6 Students: Prelim Oral Exam Briefing|
+|25 to 28 Jul 2023| P6 Prelim Oral: EL & MTL |
+|8 Aug 2023| National Day School Celebration|
+|9 and 10 Aug 2023| School Holiday - National Day|
+|17 Aug 2023| GEP Screening Exercise|
+|17 Aug 2023| P6 Students: Prelim Exam Briefing|
+|18 Aug 2023| P6 Prelim English/FEL Papers 1 & 2|
+|21 Aug 2023| P6 Prelim Math/FMA|
+|22 Aug 2023| P6 Prelim MTL Papers 1 & 2 /FMTL Paper 1|
+|23 Aug 2023| P6 Prelim Science/FSC|
+|24 Aug 2023| P6 Prelim HMTL Papers 1 & 2 |
+|25 Aug 2023| P6 Prelim LC EL/FEL & MTL/FMTL|
+|31 Aug 2023| Teacher's Day school celebration|
+|4 to 8 Sep 2023| Term 3 Break|
+|**28 Sep 2023**| **Start of Term 4** |
