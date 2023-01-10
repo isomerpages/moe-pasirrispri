@@ -39,7 +39,9 @@ Key Activities to Note:
 | 3  | Notification of Status of Application    | by 16 Jun 2023     |
 | 4  | Volunteer Period    | 26 Jun 2023 to 24 May 2024    |
 
-For any enquiries, please contact our general office at Tel: 6582 2606 for application details and terms & conditions or email us at [prps@moe.edu.sg](mailto:prps@moe.edu.sg)
+Complete application form [here](https://form.gov.sg/61d28f68369b3a0013c9a56d)
+
+For any enquiries, please email us at [prps@moe.edu.sg](mailto:prps@moe.edu.sg)
 
 ### Application for Waiting List
 
