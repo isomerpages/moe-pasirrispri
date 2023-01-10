@@ -11,7 +11,7 @@ School Bus Vendor – [Click here for School Bus Booking Form](/files/Peh-Bus-T
 
 School Uniform – Student Mart
 
-School uniform, P.E. attire and name tags are now available at Jeep Sing Fashion’s online store via the URL [https://jeepsinguniform.com/collections/pasir-ris-primary-school](https://jeepsinguniform.com/collections/pasir-ris-primary-school)
+ [Click here for information on End of Year Sale for School Uniform](https://jeepsinguniform.com/collections/pasir-ris-primary-school)
 
 Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to book your time slots
 
