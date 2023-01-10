@@ -27,7 +27,17 @@ NPP aims to provide low-income households with students and Persons-with-Disabil
 
 ### Parent Volunteers @ Pasir Ris Primary
 
-Application for Parent Volunteer whose children were born in 2017 is now closed.
+We are accepting application for Parent Volunteer whose child/children was/were born on **2 Jan 2018 to 1 Jan 2019**.
+
+Key Activities to Note:
+
+
+| S/N| Activity | Date |
+| -------- | -------- | -------- |
+| 1    | Application Start Date    | 3 Jan 2023     |
+| 2   | Application End Date   | 30 May 2023     |
+| 3  | Notification of Status of Application    | by 16 Jun 2023     |
+| 4  | Volunteer Period    | 26 Jun 2023 to 24 May 2024    |
 
 For any enquiries, please contact our general office at Tel: 6582 2606 for application details and terms & conditions or email us at [prps@moe.edu.sg](mailto:prps@moe.edu.sg)
 
