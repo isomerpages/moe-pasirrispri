@@ -9,7 +9,7 @@ description: ""
 
 [MOE FAS application information](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/FAS-2023-Guidelines-for-School_edited.pdf)
 
-[Application of 2023 MOE FAS form](/files/MOE-FAS_Form.pdf)
+[Application of 2023 MOE FAS form](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS_Form.pdf)
 
 ### LEAVE OF ABSENCE (LOA)
 
