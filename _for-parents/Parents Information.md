@@ -7,7 +7,7 @@ description: ""
 
 **Vendor Contacts**
 
-School Bus Vendor – [Peh Bus Transport](/files/Peh-Bus-Transport-Letter-2022.pdf)
+School Bus Vendor – [Click here for School Bus Booking Form](/files/Peh-Bus-Transport-Letter-2022.pdf)
 
 School Uniform – Student Mart
 
