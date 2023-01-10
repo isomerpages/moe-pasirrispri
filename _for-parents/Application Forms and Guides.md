@@ -47,4 +47,4 @@ For any enquiries, please email us at [prps@moe.edu.sg](mailto:prps@moe.edu.sg
 
 **Please note that the waiting list does not guarantee your child a place in the school.**
 
-[Wait List Application Form](https://go.gov.sg/waitlistform2122)
+[Wait List Application Form](https://form.gov.sg/60a5f65767fcaf00110110c3)
