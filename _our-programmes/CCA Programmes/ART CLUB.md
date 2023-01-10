@@ -6,7 +6,17 @@ third_nav_title: CCA Programmes
 ---
 # **ART CLUB**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Enquiry email</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ang Ying Chuang Angelia<br><br>Mdm Nur Umairah Kasmani<br><br>Mr Sebastian Tan</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#1E73BE;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:ang_ying_chuang_angelia@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ang_ying_chuang_angelia@moe.edu.sg</span></a><br><br><a href="mailto:nur_umairah_kasmani@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">nur_umairah_kasmani@moe.edu.sg</span></a><br><br><a href="mailto:tan_yew_shen_sebastian@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_yew_shen_sebastian@schools.gov.sg</span></a></td></tr></tbody></table>
+
+
+
+
+|Teachers in Charge | Enquiry Email | 
+| -------- | -------- | 
+|Mdm Ang Ying Chuang Angelia   | ang_ying_chuang_angelia@moe.edu.sg   | 
+|Mdm Nur Umairah Kasmani   | nur_umairah_kasmani@moe.edu.sg   | 
+|Mr Sebastian Tan   | tan_yew_shen_sebastian@schools.gov.sg   | 
+|Mdm Goh Sihui Candice   | goh_sihui_candice@schools.gov.sg   | 
+
 
 
 The Art Club CCA encourages Pasirians to express their creativity in a safe place.  Pupils experience key programmes such as creating sculptures, wire art, clay art, batik painting, digital art, wood mural, cross-stitch and working with mixed media.
