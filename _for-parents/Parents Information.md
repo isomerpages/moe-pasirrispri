@@ -13,11 +13,6 @@ School Uniform – Student Mart
 
  [Click here for information on End of Year Sale for School Uniform](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/11/Pasir-Ris-Pri-2022-Sale-Schedule-Flyer-v2.pdf)
 
-Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to book your time slots
-
-via this link [https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)
-
-![](/images/School-Uniform-1.png)
 
 **Booklist 2023**    
-Currently not available.
+[Click here for P1 to P6 Booklist](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/11/P1-P6-Booklist_Final.pdf)
