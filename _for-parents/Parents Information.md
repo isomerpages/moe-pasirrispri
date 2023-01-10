@@ -11,7 +11,7 @@ School Bus Vendor – [Click here for School Bus Booking Form](https://docs.goo
 
 School Uniform – Student Mart
 
- [Click here for information on End of Year Sale for School Uniform](https://jeepsinguniform.com/collections/pasir-ris-primary-school)
+ [Click here for information on End of Year Sale for School Uniform](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/11/Pasir-Ris-Pri-2022-Sale-Schedule-Flyer-v2.pdf)
 
 Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to book your time slots
 
