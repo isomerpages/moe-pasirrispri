@@ -5,7 +5,8 @@ description: ""
 ---
 # **Admin Team / Allied Educators (AEDs)**
 
-![](/images/2021_EAS-768x614.png)
+<br>
+<br>
 
 
 
