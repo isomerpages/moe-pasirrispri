@@ -39,4 +39,5 @@ sections:
   - infopic:
       title: Responsible Advocates
       alt: Image alt text
+      image: /images/Info Pic/Responsible Advocates.png
 ---
