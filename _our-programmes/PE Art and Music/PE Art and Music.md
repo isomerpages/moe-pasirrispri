@@ -6,4 +6,4 @@ third_nav_title: PE Art and Music
 ---
 # **PE / Art / Music**
 
-![](/images/PHYSICAL-HEALTH-768x614.jpg)
+![](/images/Department/PHF-updated.jpg)
