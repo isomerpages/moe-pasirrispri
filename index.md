@@ -30,7 +30,7 @@ sections:
       alt: Image alt text
   - infopic:
       alt: Image alt text
-      image: /images/Front Page/front page 2.png
+      image: /images/Info Pic/Critical Thinkers.png
       title: Critical Thinkers
   - infopic:
       title: Compassionate Leaders
