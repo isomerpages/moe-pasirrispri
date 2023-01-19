@@ -11,6 +11,8 @@ third_nav_title: CCA Programmes
 
 The Guzheng ensemble aims to inculcate in students the school values and promote greater musical and cultural appreciation through a variety of meaningful activities and experiences. Embark on a musical adventure with us and discover the Mozart in you!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4MeOI3jHw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 1.  Exposure to Chinese Orchestral Instruments & Music Theory
 
 Students learn basic playing and musical skills:
