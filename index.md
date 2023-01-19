@@ -25,6 +25,7 @@ sections:
       title: Passionate Learners
       image: /images/Info Pic/Passionate Learners.png
       alt: Image alt text
+      description: type certain description here
   - infopic:
       alt: Image alt text
       image: /images/Info Pic/Critical Thinkers.png
