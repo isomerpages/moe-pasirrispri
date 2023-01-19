@@ -51,6 +51,46 @@ b.       Character and Citizenship Education (CCE)
      
 **Primary 5**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 9px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
+.tg .tg-e9hp{border-color:#000000;font-size:13px;text-align:center;vertical-align:middle}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-0a7q{border-color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xwyw"><span style="font-weight:bold">CCE(FTGP) THEME</span></th>
+    <th class="tg-xwyw"><span style="font-weight:bold">LESSON TITLE / DURATION</span></th>
+    <th class="tg-xwyw"><span style="font-weight:bold">LESSON OVERVIEW</span></th>
+    <th class="tg-e9hp"><span style="font-weight:bold">TIME PERIOD</span><br><span style="font-weight:bold">(e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xwyw" rowspan="3">Growing Years</td>
+    <td class="tg-xwyw">The Changes in Me<br>(60 min)</td>
+    <td class="tg-0a7q">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. <br>Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn<br>to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</td>
+    <td class="tg-wp8o">Term 2 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Did You Know?<br>(60 min)</td>
+    <td class="tg-73oq">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn<br>about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. <br>They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-wp8o">Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-0a7q">Keeping Myself Safe<br>(60 min)</td>
+    <td class="tg-73oq">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. <br>They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-wp8o">Term 4 Week 8</td>
+  </tr>
+</tbody>
+</table>
 
 
 **Primary 6**
