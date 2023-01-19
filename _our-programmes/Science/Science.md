@@ -6,4 +6,4 @@ third_nav_title: Science
 ---
 # **Science**
 
-![](/images/SCIENCE-DEPT-updated-768x614.jpg)
+![](/images/Department/Science%20Department-updated.jpg)
