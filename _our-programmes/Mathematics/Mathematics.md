@@ -6,4 +6,4 @@ third_nav_title: Mathematics
 ---
 # **Mathematics**
 
-![](/images/MATH-DEPT-768x614.jpg)
+![](/images/Department/Math%20Department-updated.jpg)
