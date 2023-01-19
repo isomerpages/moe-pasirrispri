@@ -7,11 +7,23 @@ description: ""
 
 **Vendor Contacts**
 
-School Bus Vendor – [Click here for School Bus Booking Form](https://docs.google.com/forms/d/e/1FAIpQLSf_TfhXNJQoy9M2wL_ecviGLU9R69YINKnldVzVKLafFafthw/closedform)
+**School Bus Vendor**
 
-School Uniform – Student Mart
+[Click here for School Bus Booking Form](https://docs.google.com/forms/d/e/1FAIpQLSf_TfhXNJQoy9M2wL_ecviGLU9R69YINKnldVzVKLafFafthw/closedform)
 
- [Click here for information on End of Year Sale for School Uniform](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/11/Pasir-Ris-Pri-2022-Sale-Schedule-Flyer-v2.pdf)
+Tel: 9723 1801/ 9007 3126
+Email: pehbusservice@gmail.com
+
+
+
+**School Uniform – Jeep Sing Fashion**
+
+Tel: 6074 3163
+
+URL: https://jeepsignuniform.com
+
+Puchase of School Uniform and PE attire are now available at Jeep Sing Fashion's online store. 
+[Click here](https://jeepsinguniform.com/collections/pasir-ris-primary-school)
 
 
 **Booklist 2023**    
