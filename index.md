@@ -25,18 +25,18 @@ sections:
           url: /for-parents/parents-gateway
       title: Pasir Ris Primary School
   - infopic:
-      title: Vision
-      description: Lifelong Learners, Active Citizens.
+      title: Passionate Learners
       image: /images/Front Page/front page 1.png
       alt: Image alt text
   - infopic:
       alt: Image alt text
       image: /images/Front Page/front page 2.png
-      title: Mission
-      description: Nurturing Pasirians to be confident and compassionate critical thinkers.
+      title: Critical Thinkers
   - infopic:
-      title: "We believe that :"
-      description: Every Child is a Winner.
+      title: Compassionate Leaders
       alt: Image alt text
       image: /images/Front Page/front page 3.png
+  - infopic:
+      title: Responsible Advocates
+      alt: Image alt text
 ---
