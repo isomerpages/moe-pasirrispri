@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Header/ezgifv1.gif
+      background: /images/Front Page/front page 1.png
       key_highlights:
         - title: Student Learning Space
           description: ""
