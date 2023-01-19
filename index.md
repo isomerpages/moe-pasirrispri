@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Header/Hero Background.png
+      background: /images/Hero Background/Hero Background.png
       key_highlights:
         - title: Student Learning Space
           description: ""
