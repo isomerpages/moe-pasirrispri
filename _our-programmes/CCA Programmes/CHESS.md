@@ -16,6 +16,8 @@ The Chess CCA aims to nurture students’ interest and passion for the game of C
 
 Students will be taught Chess skills and will apply them at internal club challenges and National competitions.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YiQQt2CEzsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 In this 21-week training programme, students will learn the values of sportsmanship, respect for others and pursuit of excellence.
 
 
