@@ -21,6 +21,8 @@ Cultural Dance Leaders are empowered to lead the team with the Peer-guidance act
 
 Team bonding sessions are geared towards team spirit, character building discipline and courage. It also provides a platform for the dancers to share their challenges and learning experience that arises during their dance sessions.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nOaKRLZySw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 At the beginning of the year, our Cultural Dance members performed for the Chinese New Year Concert virtually. Every pupil will be given an opportunity to perform on stage during their journey in the Dance CCA.  A group of dancers also participated in the street dance competition organized by Committee to Promote Chinese Language Learning.
 
 
