@@ -20,9 +20,6 @@ sections:
         - title: OPAC
           description: ""
           url: https://schoolibrary.moe.edu.sg/pasirrispri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-        - title: Parents Information
-          description: ""
-          url: /for-parents/parents-gateway
       title: Pasir Ris Primary School
   - infopic:
       title: Passionate Learners
