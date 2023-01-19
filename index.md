@@ -40,4 +40,7 @@ sections:
       title: Responsible Advocates
       alt: Image alt text
       image: /images/Info Pic/Responsible Advocates.png
+  - resources:
+      title: PRPS e-PUBLICATION
+      button: click here
 ---
