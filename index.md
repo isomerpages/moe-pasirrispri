@@ -26,7 +26,7 @@ sections:
       title: Pasir Ris Primary School
   - infopic:
       title: Passionate Learners
-      image: /images/Front Page/front page 1.png
+      image: /images/Info Pic/Passionate Learners.png
       alt: Image alt text
   - infopic:
       alt: Image alt text
