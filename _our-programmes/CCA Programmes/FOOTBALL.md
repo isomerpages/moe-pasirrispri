@@ -11,6 +11,8 @@ third_nav_title: CCA Programmes
 
 Pasir Ris Primary Football focuses on the holistic development of our pupils. Under the guidance of our experienced teachers and coaches, we strive to enable our pupils to attain their maximal potential in the sport. This is achieved through our comprehensive football development programme that is built on sportsmanship, discipline, confidence and perseverance. Our football programme is also differentiated to meet the different needs and aspirations of our pupils.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EoTYlKI5WfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 To find out more about PRPS Football CCA, visit our Google Site at [https://sites.google.com/moe.edu.sg/prpsfootball](https://sites.google.com/moe.edu.sg/prpsfootball)
 
 
