@@ -4,7 +4,6 @@ permalink: /our-programmes/CCA/taekwondo/
 description: ""
 third_nav_title: CCA Programmes
 ---
-
 <h1><b>TAEKWONDO</b></h1>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="border-color:#222222;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Enquiry Email</th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#222222;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#222222;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mrs Sylvia Pereira<br><br>Mdm Maslina Jumari<br><br>Mdm Zuraidah Tahir</td><td style="background-color:#E6E6E6;border-color:#222222;border-style:solid;border-width:1px;color:#1E73BE;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:sylvia_pereira@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">sylvia_pereira@schools.gov.sg</span></a><br><br><a href="mailto:maslina_jumari@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">maslina_jumari@schools.gov.sg</span></a><br><br><a href="mailto:zuraidah_tahir@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zuraidah_tahir@schools.gov</span></a></td></tr></tbody></table>
@@ -16,6 +15,8 @@ third_nav_title: CCA Programmes
 
 
 Taekwondo is a form of empty hand martial arts combat that requires the athlete to use all parts of the body in competition. Taekwondo is a self-defence discipline; the name is derived from the Korean words **“tae”**, meaning kick, **“kwon”**, a punch or other blow with the hand or fist, and **“do”**, which is a way or method of operation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UrKrIjeCScQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The Core Values of Taekwondo or more popularly known as the Taekwondo Tenets. The 5 Tenets of Taekwondo are:
 
