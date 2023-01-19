@@ -25,9 +25,4 @@ contacts:
       - email: ""
       - other: ""
     title: Fasimile
-  - content:
-      - phone: +65 9007 3126
-      - email: pehbusservice@gmail.com
-      - other: "Fax: 6387 5105"
-    title: Peh Bus Service
 ---
