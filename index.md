@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Compassionate Leaders
       alt: Image alt text
-      image: /images/Front Page/front page 3.png
+      image: /images/Info Pic/Compassionate Leaders.png
   - infopic:
       title: Responsible Advocates
       alt: Image alt text
