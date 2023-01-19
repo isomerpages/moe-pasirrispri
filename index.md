@@ -41,6 +41,6 @@ sections:
       alt: Image alt text
       image: /images/Info Pic/Responsible Advocates.png
   - resources:
-      title: Parents Letters
+      title: Parents Letters and eNewsletter
       button: click here
 ---
