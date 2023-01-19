@@ -51,6 +51,8 @@ b.       Character and Citizenship Education (CCE)
      
 **Primary 5**
 
+
+
 **Primary 6**
 
 
@@ -62,5 +64,3 @@ For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for 
 9\. Parents who wish to opt their children out of Sexuality Education lessons need to complete an opt out form. This form will be distributed to parents at the start of the year via Parents Gateway.
 
 10\. Parents can contact the school at [prps@moe.edu.sg](mailto:prps@moe.edu.sg) or 65822606 for discussion or to seek clarification about the school’s Sexuality Education programme.
-
-
