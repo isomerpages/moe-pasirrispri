@@ -18,6 +18,8 @@ The Infocomm Club aims to:
 *   Equip students with essential IT skills and knowledge to broaden their perspectives on ICT beyond the classroom
 *   Develop students into responsible, confident and critical thinkers through hands-on experiences in different media
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QvYDmDHl94Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Students learn about photography, videography, coding and virtual reality via Cospaces.
 
 They take part in competitions organised by external agencies and some of their projects aim to better the lives of people in the community at large.
