@@ -3,7 +3,7 @@ title: Principal’s Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-**Principal’s Message**
+
 
 Dear Pasirians,                 <img src="/images/Tan King Ming.png" style="width:30%" align = "right">
 
