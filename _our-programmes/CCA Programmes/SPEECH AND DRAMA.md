@@ -4,7 +4,6 @@ permalink: /our-programmes/CCA/speech-and-drama/
 description: ""
 third_nav_title: CCA Programmes
 ---
-
 # **SPEECH AND DRAMA**
 
 
@@ -20,6 +19,8 @@ third_nav_title: CCA Programmes
 Started in 2019, the Speech and Drama Club aims to provide a stimulating environment aligned with PRPS’ focus on developing confident, compassionate and critical thinkers.
 
 With the use of a variety of drama techniques, pupils are able express themselves and communicate with others with confidence and creativity. There are also plenty of opportunities for pupils to apply presentation skills taught such as improvisation. Pupils will work in teams and turn their ideas into actions when they put up mini performances during the CCA sessions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpezkZD1cCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Pupils will also get to showcase their talent in production staged within school.
 
