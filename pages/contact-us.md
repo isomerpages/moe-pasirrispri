@@ -26,25 +26,8 @@ contacts:
       - other: ""
     title: Fasimile
   - content:
-      - phone: +65 6282 5611
-      - email: ""
-      - other: 'Website : <a
-          href="https://pacificbookstores.com">https://pacificbookstores.com</a>'
-    title: Pacific Bookstores Pte Ltd
-  - content:
-      - phone: +65 6387 3929
-      - email: corporate@jeepsing.com
-      - other: "Fax: 6386 2407"
-    title: Student Mart (School Uniform)
-  - content:
       - phone: +65 9007 3126
       - email: pehbusservice@gmail.com
       - other: "Fax: 6387 5105"
     title: Peh Bus Service
-  - content:
-      - phone: +65 6241 8954
-      - email: ""
-      - other: "*All dental treatment are by appointment only For emergency, please call
-          Health Promotion Board’s School Dental Centre at 6435 3782"
-    title: Dental Clinic
 ---
