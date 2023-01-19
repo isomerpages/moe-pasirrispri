@@ -3,9 +3,8 @@ title: Parents Information
 permalink: /for-parents/parents-information/
 description: ""
 ---
-# **Parents Information**
+# **Vendor Contacts**
 
-## Vendor Contacts ##
 
 ### School Bus Vendor - Peh Bus Service ###
 
