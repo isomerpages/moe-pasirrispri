@@ -11,6 +11,8 @@ third_nav_title: CCA Programmes
 
 Netball is a team game requiring speed, agility and good ball handling skills from individuals. Players not only learn about the game itself but also consideration for others, fair play and perseverance along the way. It also provides wonderful opportunities to build life-long friendships and lasting memories of moments on and off the court.  Students are recommended to wear the proper training shoes (netball shoes/cross-trainers/court shoes) for all CCA training sessions.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqGINvtwRyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 In PRPS Netball, we aim to
 
 *   promote the game of netball through the teaching of basic netball skills
