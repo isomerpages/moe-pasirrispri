@@ -41,6 +41,6 @@ sections:
       alt: Image alt text
       image: /images/Info Pic/Responsible Advocates.png
   - resources:
-      title: PRPS  e-PUBLICATION
+      title: Parents Letters
       button: click here
 ---
