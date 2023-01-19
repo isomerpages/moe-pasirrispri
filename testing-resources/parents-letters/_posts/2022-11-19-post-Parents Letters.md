@@ -9,3 +9,4 @@ description: "As part of our environment-friendly practices,  letters and
   information pertaining to your child and the school. "
 image: ""
 ---
+As part of our environment-friendly practices,  letters and notifications to parents will be disseminated via Parents Gateway (PG). All parents are advised to download the app to receive timely access to important information pertaining to your child and the school.
