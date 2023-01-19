@@ -6,4 +6,4 @@ third_nav_title: English Language
 ---
 # **English Language**
 
-![](/images/ENGLISH-DEPT-2048x1638.jpg)
+![](/images/Department/EL-updated.jpg)
