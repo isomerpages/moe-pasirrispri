@@ -6,7 +6,7 @@ description: ""
 <h1><b>ICT</b></h1>
 
 
-![](/images/Department/ICT.jpg)
+
 
 In PRPS, we believe in helping every student find joy in learning and using technology to empower them to learn better and at the same time preparing them as future-ready and responsible digital learners.
 
