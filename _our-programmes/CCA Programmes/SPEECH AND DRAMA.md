@@ -7,7 +7,13 @@ third_nav_title: CCA Programmes
 # **SPEECH AND DRAMA**
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Enquiry email</th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mdm Toh Shi Min<br><br>Mdm Noorshirianny Misban</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#1E73BE;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:toh_shi_min@moe.edu.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">toh_shi_min@moe.edu.sg</span></a><br><br><a href="mailto:noorshirianny_misban@moe.edu.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">noorshirianny_misban@moe.edu.</span></a></td></tr></tbody></table>
+
+
+| Teachers in Charge| Enquiry Email | 
+| -------- | -------- |
+| Mdm Toh Shi Min     | toh_shi_min@moe.edu.sg     | 
+|Mdm Noorshirianny Misban|noorshirianny_misban@moe.edu.sg|
+
 
 
 
