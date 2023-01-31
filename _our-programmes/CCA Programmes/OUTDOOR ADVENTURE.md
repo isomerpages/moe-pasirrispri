@@ -6,7 +6,14 @@ third_nav_title: CCA Programmes
 ---
 <h1><b>OUTDOOR ADVENTURE</b></h1>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Enquiry email</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mdm Siti Fazlinda Ahmad<br><br>Mr Neo Jia Hao<br><br>Mdm Foo Wei Lee Wendy<br><br>Mr Vincent Subramaniam</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#1E73BE;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:siti_fazlinda_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siti_fazlinda_ahmad@moe.edu.sg</span></a><br><br><a href="mailto:neo_jia_hao@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">neo_jia_hao@moe.edu.sg</span></a><br><br><a href="mailto:foo_wei_lee_wendy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_wei_lee_wendy@moe.edu.sg</span></a><br><br><a href="mailto:vincent_david@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">vincent_david@schools.gov.sg</span></a></td></tr></tbody></table>
+
+
+| Teachers in Charge | Enquiry Email |
+| -------- | -------- | 
+| Mr Neo Jia Hao    | neo_jia_hao@moe.edu.sg   | 
+|Mdm Foo Wei Lee Wendy|foo_wei_lee_wendy@moe.edu.sg|
+|Mr Vincent Subramaniam|vincent_david@schools.gov.sg|
+|Mdm Erlis Abdul Manaf|erlis_abdul_manaf@schools.gov.sg|
 
 
 
