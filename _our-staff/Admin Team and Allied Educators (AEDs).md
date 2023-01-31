@@ -28,7 +28,3 @@ description: ""
 |SEN Officers|1) Ms Wong Si Hui Genevieve|wong_si_hui_genevieve@schools.gov.sg|
 ||2) Mdm Na’imah Binte Shamsudin|naimah_shamsudin@schools.gov.sg|
 |ICT Manager|Mdm Refine Lubis|refine_lubis@schools.gov.sg|
-
-
-
-
