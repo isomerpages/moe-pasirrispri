@@ -9,6 +9,16 @@ third_nav_title: CCA Programmes
 
 
 
+|Teachers in Charge | Enquiry Email | 
+| -------- | -------- | 
+| Mr Ong Kian Kie     | ong_kian_kie@schools.gov.sg     | 
+|Miss Nurafiqah Binte Ismadi|nurafiqah_ismadi@schools.gov.sg|
+|Mdm Kamariah Bte Othman|kamariah_othman@schools.gov.sg|
+|Miss Vanissa Lee Wanling|vanissa_lee_wanling@schools.gov.sg|
+|Miss Nur Izzah Binte Mohd Haron|nur_izzah_mohammed_haron@schools.gov.sg|
+|Miss Eileen Lim Yee Ling|eileen_lim_yee_ling@schools.gov.sg|
+|Mr Gladwin Poh Kai Wen|poh_kai_wen_gladwin@schools.gov.sg|
+
 
 
 
