@@ -6,7 +6,13 @@ third_nav_title: CCA Programmes
 ---
 # **ROPE SKIPPING**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Enquiry email</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Agnes Tan<br><br>Mdm Yin Yushan</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#1E73BE;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="mailto:Tan_siew_ying_agnes@moe.edu.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Tan_siew_ying_agnes@moe.edu.sg</span></a><br><br><a href="mailto:Yin_yushan@moe.edu.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Yin_yushan@moe.edu.sg</span></a></td></tr></tbody></table>
+
+
+| Teachers in Charge| Enquiry Email | 
+| -------- | -------- | 
+| Mdm Yeo Ya Wen (Mrs Vai)     | yeo_ya_wen@schools.gov.sg    | 
+|Mdm Yin Yushan|Yin_yushan@moe.edu.sg|
+
 
 
 Rope Skipping in Pasir Ris Primary School is a fun and wholesome CCA that offers a platform for students to hone their social and emotional competencies (self-awareness, self-management, social awareness, relationship management and responsible decision making).
