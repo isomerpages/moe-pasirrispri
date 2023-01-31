@@ -11,6 +11,12 @@ third_nav_title: CCA Programmes
 
 
 
+|Teachers in Charge | Enquiry Email | 
+| -------- | -------- | 
+| Mdm Ardianawati Abd Rahman     | ardianawati_abdul_rahman@moe.edu.sg    | 
+|Mdm Noor Farhanah|noor_farhanah_mohamed_amin@schools.gov.sg
+
+
 
 
 
