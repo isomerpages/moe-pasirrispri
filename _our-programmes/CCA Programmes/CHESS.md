@@ -11,6 +11,12 @@ third_nav_title: CCA Programmes
 
 
 
+| Teachers in Charge| Enquiry Email|
+| -------- | -------- |
+| Mrs Jill Loo    | tan_mei_yee@moe.edu.sg     | 
+|Mdm Lim Li Yin| lim_li_yin@moe.edu.sg|
+
+
 
 The Chess CCA aims to nurture students’ interest and passion for the game of Chess as they learn the skills and rules of the mind sport.
 
