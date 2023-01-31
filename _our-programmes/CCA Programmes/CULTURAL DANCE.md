@@ -9,6 +9,13 @@ third_nav_title: CCA Programmes
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Enquiry email</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Teacher(s)-in-charge</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mrs Gillian Quek<br><br>Mdm Nurul Jannah Rosni</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">gillian_yeong_mei_lin@moe.edu.sg<br><br>nurul_jannah_rosni@moe.edu.sg</td></tr></tbody></table>
 
 
+
+| Teachers in Charge | Enquiry Email | 
+| -------- | -------- | 
+| Mrs Gillian Quek     | gillian_yeong_mei_lin@moe.edu.sg     | 
+|Mdm Nurul Jannah Rosni|nurul_jannah_rosni@moe.edu.sg
+
+
 Cultural Dance is one of the most vibrant CCAs offered in Pasir Ris Primary, with a lineup of performances each year for a diversity of school events. It is an intrinsic part of the school’s cultural scene which offers a fun and interactive platform allowing members to express, create and innovate. It is for students who love expressing themselves on stage and performing to an audience!
 
 The CCA aims to develop every pupil into a passionate, confident and versatile performer. The objectives are:
