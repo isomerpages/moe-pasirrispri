@@ -6,11 +6,16 @@ third_nav_title: CCE
 ---
 # **National Education**
 
-![](/images/NE.jpg)
+![](/images/Info%20Pic/CCE1.png)
+
 
 The key focus in commemorating the NE Events is to develop and implement NE-Focussed Lessons that are integrated into the Social Studies & Character & Citizenship Education lessons.
 
 And another noteworthy NE event to share is the structured time set aside in our school calendar for A3 Learning Journey Day.
+
+![](/images/NE.jpg)
+
+
 
 ### Friends from Around the Globe
 
