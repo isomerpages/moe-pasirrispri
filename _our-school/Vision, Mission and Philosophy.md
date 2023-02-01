@@ -3,6 +3,9 @@ title: Vision, Mission and Philosophy
 permalink: /our-school/vision-mission-philosophy/
 description: ""
 ---
+![](/images/Info%20Pic/School%20Photo%202.png)
+
+
 # **Vision, Mission and Philosophy**
 
 ### Vision
