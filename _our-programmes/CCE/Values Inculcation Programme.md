@@ -6,6 +6,9 @@ third_nav_title: CCE
 ---
 # **Values Inculcation Programme**
 
+
+
+
 This programme provides an important platform to generate greater discussion in unpacking our school values & the desirable character traits.
 
 It is a whole school approach as representatives from the school community, from the SLs to middle management to teachers to student leaders, are scheduled to conduct the lesson weekly.
@@ -16,4 +19,3 @@ It is a whole school approach as representatives from the school community, from
 
 <img src="/images/Values%20Inculcation%20Programme.jpg" 
      style="width:50%">
-		 
