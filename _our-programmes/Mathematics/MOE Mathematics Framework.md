@@ -4,6 +4,9 @@ permalink: /our-programmes/Mathematics/moe-mathematics-framework/
 description: ""
 third_nav_title: Mathematics
 ---
+![](/images/Info%20Pic/mathematic.png)
+
+
 # **MOE Mathematics Framework**
 
 The framework of the mathematics curriculum summarises the essence of mathematics teaching and learning in schools. The learning of mathematics at all levels involves more than the basic acquisition of concepts and skills. It also crucially involves an understanding of the underlying mathematical thinking, the general strategies of problem solving and positive attitudes to and appreciation of mathematics as an important and powerful tool in everyday life.
