@@ -25,22 +25,18 @@ sections:
       title: Passionate Learners
       image: /images/Info Pic/Passionate Learners.png
       alt: Image alt text
-      description: type certain description here
   - infopic:
       alt: Image alt text
       image: /images/Info Pic/Critical Thinkers.png
       title: Critical Thinkers
-      description: type certain description here
   - infopic:
       title: Compassionate Leaders
       alt: Image alt text
       image: /images/Info Pic/Compassionate Leaders.png
-      description: type certain description here
   - infopic:
       title: Responsible Advocates
       alt: Image alt text
       image: /images/Info Pic/Responsible Advocates.png
-      description: type certain description here
   - resources:
       title: Happenings at PRPS
       button: click here
