@@ -3,8 +3,7 @@ title: Principal’s Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-
-![](/images/Info%20Pic/School%20Photo.png)
+![](/images/Info%20Pic/School%20all%20around.png)
 
 
 
