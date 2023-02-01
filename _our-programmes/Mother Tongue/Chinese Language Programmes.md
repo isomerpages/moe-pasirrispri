@@ -6,6 +6,8 @@ third_nav_title: Mother Tongue
 ---
 # **Chinese Language Programmes**
 
+![](/images/Info%20Pic/cl.png)
+
 ### Mother Tongue Cultural Fortnight week
 
 Since 2011, we have embarked on the MT Cultural Fortnight activities. The purpose of this is to enhance the learning and love for the Chinese culture.The activities are interactive and engaging , fun for the pupils.
