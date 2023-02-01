@@ -6,6 +6,11 @@ third_nav_title: PE Art and Music
 ---
 # **PE Programmes**
 
+![](/images/Info%20Pic/PE.png)
+
+
+
+
 PE is an integral component of the school’s holistic curriculum as it plays an important role in the physical, social, mental growth and development of our pupils. The school PE department aims to equip every child with the knowledge, competencies, attitude and values towards the pursuit of a lifelong physically active and healthy lifestyle.
 
 
