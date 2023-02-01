@@ -4,6 +4,9 @@ permalink: /our-programmes/Mathematics/Innovations/
 description: ""
 third_nav_title: Mathematics
 ---
+![](/images/Info%20Pic/math%203.png)
+
+
 # **Innovations**
 
 **ENHANCED LEARNING IN MATHEMATICS THROUGH MUSIC, IN PARTNERSHIP WITH NAFA**
