@@ -12,13 +12,9 @@ description: ""
 | |Mdm Nur Umairah Bte Kasmani|nur_umairah_kasmani@schools.gov.sg|
 |P3 Empathy|Mdm Leong Si Min (Mrs Kwa)|leong_si_min@schools.gov.sg|
 | |Mdm Chew Boon Sue Dawn|chew_boon_sue@schools.gov.sg|
-|P3 Resilience|Mr Ong Kian Kie|Mr Ong Kian Kie|
+|P3 Resilience|Mr Ong Kian Kie|ong_kian_kie@schools.gov.sg|
 | |Mdm Zarina Bte Hashim|zarina_hashim@schools.gov.sg|
 |P3 Sincerity|Mr Poh Kai Wei Gladwin|poh_kai_wen_gladwin@schools.gov.sg|
 | |Mdm Noorshirianny Misban|noorshirianny_misban@schools.gov.sg|
 |P3 Tenacity|Mdm Toh Shi Min|toh_shi_min@schools.gov.sg|
 | |Mr Mohamad Sapiee B Md Sabar|mohamad_sapiee_mohamad_sabar@schools.gov.sg|
-
-
-
-
