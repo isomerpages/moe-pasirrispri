@@ -4,6 +4,10 @@ permalink: /our-programmes/Mathematics/special-programmes/
 description: ""
 third_nav_title: Mathematics
 ---
+![](/images/Info%20Pic/school%20math%20trail.png)
+
+
+
 # **Special Programmes**
 
 ### School Maths Trail
