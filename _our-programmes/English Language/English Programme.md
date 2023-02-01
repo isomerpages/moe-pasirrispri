@@ -4,6 +4,9 @@ permalink: /our-programmes/English-Language/english-programme/
 description: ""
 third_nav_title: English Language
 ---
+
+![](/images/Info%20Pic/English.png)
+
 # **English Programme**
 
 **English Language Festival (EL Fest)**
