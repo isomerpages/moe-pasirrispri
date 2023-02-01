@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 # **Malay Language Programmes**
+
+![](/images/Info%20Pic/ml.png)
+
+
+
 ### MT Cultural Fortnight Week
 
 Mother Tongue Cultural Fortnight is a platform for students to understand and develop a lifelong interest in Mother Tongue language and its culture. A variety of activities that promote experiential and engaging learning were organised to expose them to the rich Malay culture.
