@@ -6,6 +6,12 @@ third_nav_title: Science
 ---
 # **Collaboration with Parents**
 
+![](/images/Info%20Pic/Science%205.png)
+
+
+
+
+
 ### Parents’ Workshop – Answering PSLE Science Questions
 
 At PRPS, we are aware of parents being partners in our students’ academics. Therefore, we provide avenues for them to bring their concerns to us as well as to learn more about the education system.
