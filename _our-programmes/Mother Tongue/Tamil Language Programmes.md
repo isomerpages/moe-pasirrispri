@@ -6,6 +6,8 @@ third_nav_title: Mother Tongue
 ---
 # **Tamil Language Programmes**
 
+![](/images/Info%20Pic/tamil.png)
+
 **Mother Tongue Language (MTL) Fortnight Activity**
 
 Our school organizes Mother Tongue Language (MTL) annually to enable students to learn and use MTL in novel and exciting ways. A wide range of activities to create a conducive environment to promote the use of Tamil Language and learning outside the classroom. The activities include drama, storytelling, amazing race, shadow puppets and cultural games. These activities allow authentic usage and exposure to Tamil Language to provide students with an immersive environment to learn and use the language.
