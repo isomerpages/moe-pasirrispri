@@ -4,9 +4,7 @@ permalink: /our-programmes/Science/science-curriculum/
 description: ""
 third_nav_title: Science
 ---
-
-![](/images/Info%20Pic/sceince%202.png)
-
+![](/images/Info%20Pic/science3.png)
 
 # **Science Curriculum**
 
