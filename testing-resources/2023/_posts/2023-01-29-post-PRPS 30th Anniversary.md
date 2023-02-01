@@ -7,7 +7,7 @@ description: "We are celebrating our 30th Anniversary this year. "
 image: ""
 ---
 We are celebrating our 30th Anniversary this year.
-Please look up for more info. 
+ 
 
 The following are some memories from 25th Anniversary!
 
