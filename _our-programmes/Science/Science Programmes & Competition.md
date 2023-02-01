@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Science
 ---
 
-
-
+![](/images/Info%20Pic/science%204.png)
 
 
 # **Science Programmes & Competition**
