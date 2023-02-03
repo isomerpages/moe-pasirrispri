@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - CULTURAL DANCE.md
       - CHOIR.md
       - CHESS.md
       - ART CLUB.md
