@@ -16,7 +16,7 @@ description: ""
 |Admin Officers|Mdm Veron Lee|lee_yuit_wah@moe.edu.sg|
 | |Mdm Juliana Bte Abdul Malek|juliana_abdul_malek@schools.gov.sg|
 |Office Support Staff|Mdm Tan Chew Wah||
-||Ms Salmah ||
-||Ms Norkiah||
-||Mdm Yeo||
-||Mr Wong||
+||Mdm Salmah Bt Senin ||
+||Ms Norkiah Mohd Said||
+||Mdm Yeo Be Eng||
+||Mr Wong Tim Yeow||
