@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Gateway.md
       - Vendors Contact.md
       - Application Forms and Guides.md
       - P1 Registration.md
