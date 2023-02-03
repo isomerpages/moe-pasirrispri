@@ -4,7 +4,6 @@ permalink: /our-people/non-teaching-staff/
 description: ""
 ---
 
-# **Admin Team / Allied Educators (AEDs)**
 
 
 <h3>Admin Team</h3>
