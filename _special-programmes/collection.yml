@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - OUTDOOR ADVENTURE.md
       - NETBALL.md
       - INFOCOMM.md
       - GUZHENG ENSEMBLE.md
