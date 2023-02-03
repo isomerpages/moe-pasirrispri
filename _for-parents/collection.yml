@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Applications, Forms and Guides/P1 Registration.md
       - Applications, Forms and Guides/Applications, Forms and Guides.md
       - Applications, Forms and Guides/.keep
       - Vendors Contact.md
