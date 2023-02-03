@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - WUSHU.md
       - TAEKWONDO.md
       - SPEECH AND DRAMA.md
       - ROPE SKIPPING.md
