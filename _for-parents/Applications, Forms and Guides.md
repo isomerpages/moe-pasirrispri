@@ -5,7 +5,7 @@ description: ""
 ---
 # **Application Forms and Guides**
 
-
+<ul class="jekyllcodex_accordion">
 <li>
   <input type="checkbox" id="accordion1">
 
