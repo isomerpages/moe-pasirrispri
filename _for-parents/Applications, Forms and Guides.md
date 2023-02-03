@@ -8,7 +8,7 @@ description: ""
 
 <li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox" id="accordion">
 
     <label for="accordion1">Academic Matters</label>
 
