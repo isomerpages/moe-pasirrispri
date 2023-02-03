@@ -3,9 +3,6 @@ title: Admin Team
 permalink: /our-people/non-teaching-staff/
 description: ""
 ---
-
-
-
 <h3>Admin Team</h3>
 
 
@@ -20,11 +17,3 @@ description: ""
 | |2) Mdm Juliana Bte Abdul Malek|juliana_abdul_malek@schools.gov.sg|
 |Office Support Staff|Mdm Tan Chew Wah|tan_chew_wah@moe.edu.sg|
 
-<h3>Student Support Staff</h3>
-
-||||
-| -------- | -------- | -------- |
-|School Counsellor|Mdm Goh Loh Nah Luona|goh_loh_nah_luona@schools.gov.sg|
-|SEN Officers|1) Ms Wong Si Hui Genevieve|wong_si_hui_genevieve@schools.gov.sg|
-||2) Mdm Na’imah Binte Shamsudin|naimah_shamsudin@schools.gov.sg|
-|ICT Manager|Mdm Refine Lubis|refine_lubis@schools.gov.sg|
