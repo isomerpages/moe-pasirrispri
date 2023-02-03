@@ -4,11 +4,11 @@ permalink: /for-parents/forms/
 description: ""
 ---
 # **Application Forms and Guides**
-
 <ul class="jekyllcodex_accordion">
+
 <li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox1" id="accordion1">
 
     <label for="accordion1">Academic Matters</label>
 
@@ -22,7 +22,7 @@ description: ""
 
 <li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox2" id="accordion1">
 
     <label for="accordion1">Academic Matters</label>
 
