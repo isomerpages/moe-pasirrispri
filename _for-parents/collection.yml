@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Vendors Contact.md
-      - Application Forms and Guides.md
+      - Applications, Forms and Guides.md
       - P1 Registration.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
