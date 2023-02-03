@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - CHOIR.md
       - CHESS.md
       - ART CLUB.md
       - CCA.md
