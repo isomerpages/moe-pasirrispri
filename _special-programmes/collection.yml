@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - CCA/INFOCOMM.md
       - CCA/NETBALL.md
       - CCA/OUTDOOR ADVENTURE.md
       - CCA/ROPE SKIPPING.md
