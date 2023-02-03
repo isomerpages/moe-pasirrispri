@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Teachers/P2 Teachers.md
       - Teachers/P1 Teachers.md
       - Teachers/.keep
       - School Executive Committee.md
