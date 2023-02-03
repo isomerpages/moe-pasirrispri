@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Teachers/P4 Teachers.md
       - Teachers/P3 Teachers.md
       - Teachers/P2 Teachers.md
       - Teachers/P1 Teachers.md
