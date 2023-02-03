@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - ART CLUB.md
       - CCA.md
