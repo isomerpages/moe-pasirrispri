@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - FLOORBALL.md
       - CULTURAL DANCE.md
       - CHOIR.md
       - CHESS.md
