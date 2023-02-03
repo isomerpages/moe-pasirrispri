@@ -12,5 +12,5 @@ description: ""
 |  | 2) Mdm Na’imah Binte Shamsudin | [naimah\_shamsudin@schools.gov.sg](mailto:naimah_shamsudin@schools.gov.sg) |
 | ICT Manager | Mdm Refine Lubis | [refine\_lubis@schools.gov.sg](mailto:refine_lubis@schools.gov.sg) |
 |Desktop Engineers| Mr Moh Zulfadli bin Adaman||
-||Mr Ojas Abhay Ghanekar||
+||Mr Ojas Ghanekar||
 |Librarian|Mdm Sarinah Bte Baba||
