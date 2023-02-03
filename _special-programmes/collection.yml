@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - ALPP.md
       - CCA/CCA.md
       - CCA/ART CLUB.md
       - CCA/CHESS.md
