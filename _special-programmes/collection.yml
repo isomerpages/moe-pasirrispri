@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - CCA/WUSHU.md
       - CCA/.keep
       - TAEKWONDO.md
       - SPEECH AND DRAMA.md
