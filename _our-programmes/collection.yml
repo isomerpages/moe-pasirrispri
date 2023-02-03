@@ -2,26 +2,36 @@ collections:
   our-programmes:
     output: true
     order:
+      - English Language/.keep
       - English Language/English Programme.md
       - English Language/Useful Links.md
-      - English Language/.keep
+      - Mathematics/.keep
       - Mathematics/MOE Mathematics Framework.md
       - Mathematics/Special Programmes.md
       - Mathematics/Innovations.md
       - Mathematics/Links.md
-      - Mathematics/.keep
+      - Science/.keep
       - Science/Facilities.md
       - Science/Science Curriculum.md
       - Science/Science Programmes & Competition.md
       - Science/Collaboration with Parents.md
-      - Science/.keep
+      - Mother Tongue/.keep
       - Mother Tongue/Chinese Language Programmes.md
       - Mother Tongue/Malay Language Programmes.md
       - Mother Tongue/Tamil Language Programmes.md
-      - Mother Tongue/.keep
+      - PE Art and Music/.keep
       - PE Art and Music/PE Programmes.md
       - PE Art and Music/Aesthetics Programmes.md
-      - PE Art and Music/.keep
+      - CCE/.keep
+      - CCE/National Education.md
+      - CCE/Values In Action.md
+      - CCE/Internationalisation.md
+      - CCE/Student Leadership.md
+      - CCE/Values Inculcation Programme.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - CCE/Education Career Guidance (ECG).md
+      - ICT.md
+      - CCA Programmes/.keep
       - CCA Programmes/CCA.md
       - CCA Programmes/ART CLUB.md
       - CCA Programmes/CHESS.md
@@ -37,13 +47,3 @@ collections:
       - CCA Programmes/SPEECH AND DRAMA.md
       - CCA Programmes/TAEKWONDO.md
       - CCA Programmes/WUSHU.md
-      - CCA Programmes/.keep
-      - CCE/.keep
-      - CCE/National Education.md
-      - CCE/Values In Action.md
-      - CCE/Internationalisation.md
-      - CCE/Student Leadership.md
-      - CCE/Values Inculcation Programme.md
-      - CCE/MOE Sexuality Education in Schools.md
-      - CCE/Education Career Guidance (ECG).md
-      - ICT.md
