@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - CCA/ROPE SKIPPING.md
       - CCA/SPEECH AND DRAMA.md
       - CCA/TAEKWONDO.md
       - CCA/WUSHU.md
