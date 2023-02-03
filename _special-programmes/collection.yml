@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Learn for Life Programmes (LLP).md
       - Applied Learning Programmes.md
       - Co Curicular Activities (CCA)/Foreword.md
       - Co Curicular Activities (CCA)/ART CLUB.md
