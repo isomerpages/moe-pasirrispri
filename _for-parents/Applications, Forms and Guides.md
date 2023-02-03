@@ -4,7 +4,6 @@ permalink: /for-parents/forms/
 description: ""
 ---
 # **Application Forms and Guides**
-<ul class="jekyllcodex_accordion">
 
 <li>
 
