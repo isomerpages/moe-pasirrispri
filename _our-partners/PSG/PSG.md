@@ -6,7 +6,7 @@ third_nav_title: PSG
 ---
 # **PSG**
 
-
+![](/images/Info%20Pic/PSG%201.png)
 
 ### Vision
 
@@ -18,6 +18,8 @@ A feel good, feel proud and feel passionate team of parents partnering and suppo
 *   To enrich students’ learning experiences, encourage and inspire as role models
 *   To lend expertise to support school’s programmes and activities
 *   To render impartial and safe assistance; and above all, to serve with passion
+
+![](/images/Info%20Pic/PSG%202.png)
 
 ### Our Core Values
 
