@@ -26,7 +26,7 @@ sections:
       image: /images/Info Pic/Passionate Learners.png
       alt: Image alt text
       description: A Pasirian is a passionate learner who has positive self-esteem,
-        curiosity and resilience
+        curiosity and resilience.
   - infopic:
       alt: Image alt text
       image: /images/Info Pic/Critical Thinkers.png
