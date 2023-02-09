@@ -6,7 +6,7 @@ third_nav_title: PSG
 ---
 # **PSG**
 
-![](/images/2021_PSG-PHOTOS-scaled.jpg)
+
 
 ### Vision
 
