@@ -6,22 +6,17 @@ third_nav_title: Fathers@PRPS
 ---
 # **Committee**
 
-### Advisor
 
-Mr Tan King Ming
 
-Principal of Pasir Ris Primary School
 
-### Liaison Officers
+| | | 
+| -------- | -------- | 
+| Advisor     | Mr Tan King Ming, Principal of Pasir Ris Primary School     | 
+|Liason Officers| Mrs Gillian Quek|
+|Committee Members| Mdm Embok Kalthum|
+| |Mdm Faezah Main|
+| |Mr Robin Glam|
+||Mr Jesmond Ong|
 
-Mrs Gillian Quek
 
-### Committee Members
 
-Mdm Embok Kalthum
-
-Mdm Faezah Main
-
-Mr Robin Giam
-
-Mr Jesmond Ong
