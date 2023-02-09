@@ -6,6 +6,8 @@ third_nav_title: PSG
 ---
 # **PSG EXCO Team**
 
+![](/images/2021_PSG-PHOTOS-scaled.jpg)
+
 ### Chairperson
 
 Mdm Jasmit Kaur
