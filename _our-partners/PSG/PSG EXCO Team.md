@@ -8,13 +8,21 @@ third_nav_title: PSG
 
 ![](/images/2021_PSG-PHOTOS-scaled.jpg)
 
-### Chairperson
 
-Mdm Jasmit Kaur
 
-### Members
-Mdm Suhaila Jamat   
-Mdm Linggoe Lioe   
-Mdm Doreen Goh    
-Mdm Aprajita Sharma    
-Mdm Candy Qiu
+
+| |  | 
+| -------- | -------- | 
+| Chairperson  | Mdm Jasmit Kaur  | 
+|Members|Mdm Suhaila Jamat|
+| |Mdm Linggoe Lioe|
+| |Mdm Doreen Goh|
+| |Mdm Aprajita Sharma|
+| |Mdm Candy Qiu|
+
+
+
+
+
+
+
