@@ -15,10 +15,10 @@ description: ""
 |  |  | 
 | -------- | -------- | 
 | Chairman   | Ms Teo Jin Heong Doy    |
-|Vice - Chairman| Mr Lee Cher Heng|
-|Treasurer| Mr Rasiah Sundralingam|
-|Member | Mdm Santadaevi|
-|Member| Mr Henry Chan|
+|Secretary| Mr Tan King Ming|
+|Members| Mr Lee Cher Heng|
+| | Mr Henry Chan Chee Meng|
+|| Mr Ong Chee Keong|
 
 
 
@@ -26,4 +26,3 @@ description: ""
 
 
 
-![](/images/schadvisorycommittee.jpg)
