@@ -4,7 +4,6 @@ permalink: /our-staff/p1-teachers/
 description: ""
 third_nav_title: Teachers
 ---
-
 <h1><b>P1 Teachers</b></h1>
 
 
