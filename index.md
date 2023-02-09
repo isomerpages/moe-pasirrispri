@@ -4,7 +4,7 @@ title: Pasir Ris Primary School
 description: Established in 1993 and officially open in 1995. Pasir Ris Primary
   School is a government primary school. Our school has a heritage of excellent
   all-round education.
-image: /images/logo.png
+image: /images/Hero Background/Prps Zoom Background 2023.png
 permalink: /
 notification: ""
 sections:
@@ -50,3 +50,4 @@ sections:
       title: Happenings at PRPS
       button: click here
 ---
+
