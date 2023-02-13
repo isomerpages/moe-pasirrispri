@@ -11,40 +11,43 @@ third_nav_title: PE Art and Music
 
 
 
-PE is an integral component of the school’s holistic curriculum as it plays an important role in the physical, social, mental growth and development of our pupils. The school PE department aims to equip every child with the knowledge, competencies, attitude and values towards the pursuit of a lifelong physically active and healthy lifestyle.
+Physical Education (PE) is a crucial aspect of the school's curriculum as it plays a vital role in the holistic development of our students. The PE department aims to foster a lifelong love of physical activity and healthy living in every child. This is achieved through a dynamic and engaging curriculum that teaches essential physical skills, such as coordination, agility, balance, and endurance, while also promoting sportsmanship, teamwork, and leadership.
 
 
 <img src="/images/PE_2022.jpg" 
      style="width:50%">
 
+Our PE program adopts a spiral and progressive approach to skill and knowledge development, ensuring that students receive a comprehensive and well-rounded education. At the lower primary level, students will be introduced to fundamental movements and psychomotor skills, which will lay the foundation for their motor learning. As they progress to the upper primary levels, they will build upon these skills, developing an understanding of games concepts such as possession, attacking, and defense. This approach allows students to continuously build upon their skills and knowledge, resulting in a deeper understanding of Physical Education and a lifelong appreciation for an active and healthy lifestyle.
 
-To facilitate the learning experiences of our students, 7 learning areas are covered during PE:
+In PE classes, students will also have the opportunity to develop their social and emotional skills. Through the various physical sports activities and a focus on sportsmanship, students will learn how to work effectively with others, communicate effectively, and build positive relationships. Our PE teachers are dedicated to ensuring that every student, regardless of their level of interest or ability, is included and feels comfortable participating. The inclusive and supportive learning environment encourages all students to reach their potential and fosters a positive and healthy school culture.
+To enhance the educational journey of our students, the PE curriculum covers seven key learning areas. It ensures that students receive a diverse range of experiences and are exposed to different sports activities and skills, promoting physical, social, and emotional growth and development. The seven learning areas provide a balanced approach to PE and allow students to gain a deep understanding of the benefits of an active and healthy lifestyle while developing their physical skills and abilities. 
 
-*   Athletics (P3 – P6)
-*   Dance (P1 – P6)
-*   Games and Sports (P1 – P6)
-*   Gymnastics (P1 – P6)
-*   Outdoor Education (P1 –P6)
-*   Physical Health Fitness (P1 – P6)
-*   Swimming (P3)
+
+
+| Learning Areas| Level(s) | 
+| -------- | -------- | 
+| Athletics    | P3-P6     | 
+|Dance| P1-P6|
+|Games and Sports| P1-P6|
+|Gymnastics|P1-P6|
+|Outdoor Education|P1-P6|
+|Physical Health Fitness| P1-P6|
+|Swimming|P3|
+
 
 ![](/images/pe1.jpg)
 
-Through PE, students acquire a variety of skills and knowledge that involve them in healthy physical activities. Students will learn the basic skills and rules necessary to participate in games at the recreational level. With a spiral and progressive approach to skill and knowledge development, students at the lower primary are equipped with fundamental movements and psychomotor skills that lay the foundations for their motor learning. These skills will be further developed at the upper primary levels together with games concept such as keeping possession, creating attack and defending space. In addition, through the cooperative lessons and modified games, our pupils develop valuable character traits such as team work, resilience, responsibility and respect amongst peers.
+The PE Department has been implementing Assessment for Learning since 2016, with the goal of providing students with meaningful feedback to help them progress and succeed in their PE classes. Our PE teachers utilize performance indicators and rubrics to assess student performance and provide targeted feedback on both psychomotor skills and cognitive understanding of the concepts and techniques taught.
+
+This approach allows students to reflect on their own performance and evaluate their progress, as well as gain valuable insights through constructive feedback from their teachers. The feedback given is intended to increase students' motivation and engagement, creating a positive and supportive learning environment.
 
 ![](/images/pe2.jpg)
 
-The PE Department has also embarked on Assessment for Learning. PE teachers use rubrics and performance indicators to provide students with meaningful feedback to further enhance their learning. As part of the assessment, students are also given time to reflect and evaluate their/peer performance. Teachers provide constructive meaningful feedback and guidance to students to improve their psychomotor (movement/skills) and cognitive understanding of the concept and techniques taught. Feedback given helps to increase students’ motivation and engagement and helps create a positive learning environment.
+At the end of each semester, parents will receive a comprehensive report on their child's holistic development in Physical Education, including a summary of their performance, areas of strength, and areas for improvement. This report will provide a valuable insight into their child's growth and development and help support their ongoing success in Physical Education.
 
-This is an on-going process across all levels for all students. At the end of every semester, a holistic development report will be provided for parents.
+In addition to regular Physical Education classes, the PE Department also organizes a range of programs and events to further broaden and enrich the students' learning experiences. These initiatives are designed to enhance their physical, social, and emotional development, promoting a lifelong love of physical activity and healthy living.
 
-The PE Department also organizes the following programs and events to provide our pupils with a broad and balanced curriculum for all to experience the joy of learning:
+![](/images/Department/PE.jpg)
 
-*   Program for Active Learning (PAL) P1 & P2
-*   FITOPIA (P1 -P6)
-*   Active Workout (P1 -P6)
-*   Lower Primary Tele-match (P1 & P2)
-*   Sports Fiesta (P3 – P6)
-*   Inter-Class Games (P3 -P6)
-*   NAPFA (P4 & P6)
-*   P5 Outdoor Adventure Camp
+
+
