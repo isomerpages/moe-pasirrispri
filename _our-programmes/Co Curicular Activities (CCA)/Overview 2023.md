@@ -36,5 +36,4 @@ The program is designed to give our students an opportunity to explore their int
 
 The following CCA is open to all Primary 3 to Primary 6 students and is designed to provide students with opportunities to explore their interests, develop new skills, and engage with their peers. Participation in CCA is highly encouraged and is an integral part of a well-rounded education. To ensure that students have the chance to focus and develop their skills in a single area, each student is limited to participating in only **one CCA** from any of the available groups.
 
-
-
+![](/images/Department/P3%20CCA.png)
