@@ -1,0 +1,15 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - School Executive Committee.md
+      - Teachers/.keep
+      - Teachers/P1 Teachers.md
+      - Teachers/P2 Teachers.md
+      - Teachers/P3 Teachers.md
+      - Teachers/P4 Teachers.md
+      - Teachers/P5 Teachers.md
+      - Teachers/P6 Teachers.md
+      - Teachers/Non Form Teachers.md
+      - Student Support Staff.md
+      - Admin Team.md

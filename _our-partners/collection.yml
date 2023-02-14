@@ -1,0 +1,16 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - PSG/PSG.md
+      - PSG/PSG EXCO Team.md
+      - PSG/Terms of Reference.md
+      - PSG/.keep
+      - Fathers@PRPS/.keep
+      - Fathers@PRPS/Committee.md
+      - Fathers@PRPS/Fathers@PRPS.md
+      - Fathers@PRPS/Useful Links.md
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Contact Us.md
