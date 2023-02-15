@@ -37,8 +37,8 @@ sections:
       title: Compassionate Leaders
       alt: Image alt text
       image: /images/Info Pic/Compassionate Leaders.png
-      description: A Pasirian is a critical thinker who persistently seeks solutions
-        and makes responsible decisions.
+      description: A Pasirian is a compassionate leader who shows empathy and
+        motivates others.
   - infopic:
       title: Responsible Advocates
       alt: Image alt text
