@@ -44,10 +44,10 @@ sections:
       title: Responsible Advocates
       alt: Image alt text
       image: /images/Info Pic/Responsible Advocates.png
-      description: "A Pasirian is a compassionate leader who shows empathy and
-        motivates others. "
+      description: A Pasirian is a responsible advocate who positively influences the
+        school and community, garnering the support of others by being an
+        effective communicator.
   - resources:
       title: Happenings at PRPS
       button: click here
 ---
-
