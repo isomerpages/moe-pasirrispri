@@ -44,10 +44,10 @@ description: ""
 |Level Head (Mathematics)|Mrs Shela Woo|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
 |Level Head (Science)|Mdm Dawn Tan Ai Ling|[tan_ai_ling_dawn@schools.gov.sg](mailto:tan_ai_ling_dawn@schools.gov.sg)|
 |Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|[chua_siew_ping_sharon@schools.gov.sg](mailto:chua_siew_ping_sharon@schools.gov.sg)|
-|Subject Head (Discipline)|Mr Feisal Omar Baobed|feisal_omar_baobed@schools.gov.sg|
-|Subject Head (Student Well-Being)|Mdm Lee Xin Fen Edna|lee_xin_fen_edna@schools.gov.sg|
-|Subject Head (CL)|Mrs Jovis Lim|tan_toon_lin@schools.gov.sg|
-|Subject Head (CCE) (Acting)|Ms Bai Yu|bai_yu@schools.gov.sg|
+|Subject Head (Discipline)|Mr Feisal Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
+|Subject Head (Student Well-Being)|Mdm Lee Xin Fen Edna|[lee_xin_fen_edna@schools.gov.sg](mailto:lee_xin_fen_edna@schools.gov.sg)|
+|Subject Head (CL)|Mrs Jovis Lim|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
+|Subject Head (CCE) (Acting)|Ms Bai Yu|[bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
 
 <h3>Senior Teachers</h3>
 
