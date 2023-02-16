@@ -19,15 +19,16 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| English     | Mdm Venetia Lim  | lim_soh_hoon@schools.gov.sg    |
-|Mathematics|Mrs Polly Chew|chew_soon_lee@schools.gov.sg|
-|Science|Mdm Haryana Md Isahak|haryana_mohd_isahak@schools.gov.sg|
-|Mother Tongue Languages|Mdm Zarina Hashim|zarina_hashim@schools.gov.sg|
-|Physical Health & Fitness/ CCA|Mr Khairudin Md Hassan|khairudin_hassan_maricar@schools.gov.sg|
-|Character & Citizenship Education (CCE)|Mr Tee Leng Teck|tee_leng_teck@schools.gov.sg|
-|ICT|Mr Tony Hui|hui_keen_lon@schools.gov.sg|
-|School Staff Developer|Mdm Joyce Tang|tang_sok_cheng_joyce@schools.gov.sg|
+| English     | Mdm Venetia Lim  | [lim_soh_hoon@schools.gov.sg ](mailto:lim_soh_hoon@schools.gov.sg )  |
+|Mathematics|Mrs Polly Chew|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
+|Science|Mdm Haryana Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
+|Mother Tongue Languages|Mdm Zarina Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
+|Physical Health & Fitness/ CCA|Mr Khairudin Md Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
+|Character & Citizenship Education (CCE)|Mr Tee Leng Teck|[tee_leng_teck@schools.gov.sg](mailto:tee_leng_teck@schools.gov.sg)
+|ICT|Mr Tony Hui|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
+|School Staff Developer|Mdm Joyce Tang|[tang_sok_cheng_joyce@schools.gov.sg](mailto:tang_sok_cheng_joyce@schools.gov.sg)|
 
+[goh\_loh\_nah\_luona@schools.gov.sg](mailto:goh_loh_nah_luona@schools.gov.sg)
 
 <h3>Year Heads/ Assistant Year-Heads</h3>
 
