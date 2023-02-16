@@ -34,8 +34,9 @@ description: ""
 
 |  |  | |
 | -------- | -------- | -------- |
-| Assistant Year Head (P1 to P3)    | Ms Nor Hazurah Mohamed Azhar     | nor_hazurah_mohamed_azhar@moe.edu.sg     |
-|Year-Head (P4 to P6)|Mrs Jalene Chang|lim_swee_moi_jalene@schools.gov.sg|
+| Assistant Year Head (P1 to P3)    | Ms Nor Hazurah Mohamed Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
+|Year-Head (P4 to P6)|Mrs Jalene Chang|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
+|
 
 <h3>Subject Heads / Level Heads</h3>
 
