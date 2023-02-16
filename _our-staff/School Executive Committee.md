@@ -28,8 +28,6 @@ description: ""
 |ICT|Mr Tony Hui|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
 |School Staff Developer|Mdm Joyce Tang|[tang_sok_cheng_joyce@schools.gov.sg](mailto:tang_sok_cheng_joyce@schools.gov.sg)|
 
-[goh\_loh\_nah\_luona@schools.gov.sg](mailto:goh_loh_nah_luona@schools.gov.sg)
-
 <h3>Year Heads/ Assistant Year-Heads</h3>
 
 |  |  | |
@@ -42,10 +40,10 @@ description: ""
 
 | |  |  |
 | -------- | -------- | -------- |
-| Level Head (English)   | Mdm Suriani Bte Sabtu    | suriani_sabtu@schools.gov.sg    |
-|Level Head (Mathematics)|Mrs Shela Woo|yeo_si_qi@schools.gov.sg|
-|Level Head (Science)|Mdm Dawn Tan Ai Ling|tan_ai_ling_dawn@schools.gov.sg|
-|Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|chua_siew_ping_sharon@schools.gov.sgg|
+| Level Head (English)   | Mdm Suriani Bte Sabtu    | [suriani_sabtu@schools.gov.sg](mailto:suriani_sabtu@schools.gov.sg )   |
+|Level Head (Mathematics)|Mrs Shela Woo|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
+|Level Head (Science)|Mdm Dawn Tan Ai Ling|[tan_ai_ling_dawn@schools.gov.sg](mailto:tan_ai_ling_dawn@schools.gov.sg)|
+|Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|[chua_siew_ping_sharon@schools.gov.sg](mailto:chua_siew_ping_sharon@schools.gov.sg)|
 |Subject Head (Discipline)|Mr Feisal Omar Baobed|feisal_omar_baobed@schools.gov.sg|
 |Subject Head (Student Well-Being)|Mdm Lee Xin Fen Edna|lee_xin_fen_edna@schools.gov.sg|
 |Subject Head (CL)|Mrs Jovis Lim|tan_toon_lin@schools.gov.sg|
