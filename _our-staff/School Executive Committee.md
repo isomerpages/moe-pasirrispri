@@ -10,7 +10,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Principal   | Mr Tan King Ming    | prps@moe.edu.sg    |
+| Principal   | Mr Tan King Ming    | [prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
 |Vice- principal (EO)|Mdm Thilagamani d/o Sivanandam|prps@moe.edu.sg|
 |Vice- principal (EO)|Mdm Heng Wei Shan|prps@moe.edu.sg|
 
@@ -56,4 +56,3 @@ description: ""
 | Senior Teacher (EL)    | Mrs Caroline Silva    | caroline_kulandeisamy_l@schools.gov.sg    |
 |Senior Teacher (CCE)|Mdm Jaspal Kaur|jaspal_kaur@schools.gov.sg|
 |Acting Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam (Mrs See)|lai_sock_khim@schools.gov.sg|
-
