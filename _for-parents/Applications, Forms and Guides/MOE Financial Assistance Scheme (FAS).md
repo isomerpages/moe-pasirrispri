@@ -9,6 +9,6 @@ third_nav_title: Applications, Forms and Guides
 
 **MOE Financial Assistance Scheme FAS**
 
-[MOE FAS Application Information](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/FAS-2023-Guidelines-for-School_edited.pdf)
+[MOE FAS Application Information](https://drive.google.com/file/d/1zaR0nHluCvAAF3vP8ihksX1gKHqfQlXB/view?usp=share_link)
 
-[Application of 2023 MOE FAS Form](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS_Form.pdf)
+[Application of 2023 MOE FAS Form](https://drive.google.com/file/d/1B_hWFx0n0MKuFQ7YYcGIVEBStC8fupwM/view?usp=share_link)
