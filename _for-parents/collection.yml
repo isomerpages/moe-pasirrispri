@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Applications, Forms and Guides/.keep
       - Vendors Contact.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
