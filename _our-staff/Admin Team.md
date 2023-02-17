@@ -9,11 +9,11 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Admin Manager | Mrs Cherine Chan     | tiong_chiow_yin@schools.gov.sg   |
-|Operations Manager| Mr Chong Kwek Fah|chong_kwek_fah@schools.gov.sg|
-| | Mr Ong Chin Sai|ong_chin_sai@schools.gov.sg|
-|Admin Executives|Mdm Tan Li San|tan_li_san_A@schools.gov.sg|
-|Admin Officers|Mdm Juliana Abdul Malek|juliana_abdul_malek@schools.gov.sg|
+| Admin Manager | Mrs Cherine Chan     | [tiong_chiow_yin@schools.gov.sg](mailto:tiong_chiow_yin@schools.gov.sg)   |
+|Operations Manager| Mr Chong Kwek Fah|[chong_kwek_fah@schools.gov.sg](mailto:chong_kwek_fah@schools.gov.sg)|
+| | Mr Ong Chin Sai|[ong_chin_sai@schools.gov.sg](mailto:ong_chin_sai@schools.gov.sg)|
+|Admin Executives|Mdm Tan Li San|[tan_li_san_A@schools.gov.sg](mailto:tan_li_san_A@schools.gov.sg)|
+|Admin Officers|Mdm Juliana Abdul Malek[|juliana_abdul_malek@schools.gov.sg](mailto:juliana_abdul_malek@schools.gov.sg)|
 | |Mdm Veron Lee||
 |Office Support Staff|Mdm Tan Chew Wah||
 ||Mdm Salmah Bt Senin ||
