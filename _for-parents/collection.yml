@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Applications, Forms and Guides/.keep
-      - Applications, Forms and Guides/Online Travel Declaration Submission.md
       - Applications, Forms and Guides/Resources.md
       - Vendors Contact.md
       - Student Care Centre.md
