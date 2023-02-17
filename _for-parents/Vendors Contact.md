@@ -3,7 +3,6 @@ title: Vendors Contact
 permalink: /for-parents/parents-information/
 description: ""
 ---
-
 # **Vendor Contacts**
 
 
@@ -12,7 +11,7 @@ description: ""
 
 
 Tel: 9723 1801/ 9007 3126
-Email: pehbusservice@gmail.com
+Email: [pehbusservice@gmail.com](mailto:pehbusservice@gmail.com)
 
 
 ### School Uniform – Jeep Sing Fashion ###
@@ -27,7 +26,7 @@ Puchase of School Uniform and PE attire are now available at Jeep Sing Fashion's
 ### Bookshop - Pacific Bookstores Pte Ltd ###
 
 **Booklist 2023**    
-[Click here for P1 to P6 Booklist](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/11/P1-P6-Booklist_Final.pdf)
+[Click here for P1 to P6 Booklist](https://drive.google.com/file/d/1q8pi-ohezZWYr01_ylSWIBgBxjKp38Pt/view?usp=share_link)
 
 Tel: 6282 5611
 
