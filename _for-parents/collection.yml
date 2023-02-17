@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Applications, Forms and Guides/NEU PC Plus Programme.md
       - Applications, Forms and Guides/LEAVE OF ABSENCE (LOA).md
       - Applications, Forms and Guides/MOE Financial Assistance Scheme (FAS).md
       - Applications, Forms and Guides/.keep
