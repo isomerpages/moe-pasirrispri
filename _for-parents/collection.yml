@@ -2,13 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Forms/.keep
-      - Forms/MOE Financial Assistance Scheme (FAS).md
-      - Forms/NEU PC Plus Programme.md
-      - Forms/P1 Registration.md
-      - Forms/Parent Volunteers @ Pasir Ris Primary.md
-      - Forms/Leave of Absence (LOA).md
-      - Forms/Online Travel Declaration Submission.md
       - Vendors Contact.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
