@@ -4,14 +4,13 @@ permalink: /our-people/non-form-teachers/
 description: ""
 third_nav_title: Teachers
 ---
-
 <h1><b>Non-Form Teachers</b></h1>
 <br>
 
 
 |  |  | 
 | -------- | -------- |
-| Mdm Tay Kah Gek    | tay_kah_gek@schools.gov.sg     | 
+| Mdm Tay Kah Gek    | [tay_kah_gek@schools.gov.sg](mailto:tay_kah_gek@schools.gov.sg)    | 
 |Ms Sim Yeow Ling|sim_yeow_ling@schools.gov.sg|
 |Mdm Siti Rabeah|siti_rabeah_zakariyah@schools.gov.sg|
 |Mrs Yeo Choon Kuan Jennie|yeo_choon_kuan_jennie@schools.gov.sg|
