@@ -4,10 +4,6 @@ permalink: /for-parents/online-travel-declaration-submission/
 description: ""
 third_nav_title: Applications, Forms and Guides
 ---
-
-
-
-
 # **Online Travel Declaration Submission**
 
 **TRAVEL DECLARATION**  
