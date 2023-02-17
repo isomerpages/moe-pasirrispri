@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Applications, Forms and Guides/Resources.md
       - Applications, Forms and Guides/Online Travel Declaration Submission.md
       - Applications, Forms and Guides/Application for Waiting List.md
       - Applications, Forms and Guides/Parent Volunteers @ Pasir Ris Primary.md
