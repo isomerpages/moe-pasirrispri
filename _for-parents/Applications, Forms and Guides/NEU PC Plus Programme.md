@@ -13,4 +13,4 @@ NPP aims to provide low-income households with students and Persons-with-Disabil
 
 [NPP-Application-Form-for-MOE-SPED-FAS](https://go.gov.sg/nuemoeapplication)
 
-[NPP-Application-Form-v12.6-1-January-22-for-NON-MOE-SPED-FAS]https://go.gov.sg/nuenonmoeapplication)
+[NPP-Application-Form-v12.6-1-January-22-for-NON-MOE-SPED-FAS](https://go.gov.sg/nuenonmoeapplication)
