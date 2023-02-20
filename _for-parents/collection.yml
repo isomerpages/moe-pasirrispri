@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Resources.md
       - Applications, Forms and Guides/.keep
       - Applications, Forms and Guides/P1 Registration.md
       - Applications, Forms and Guides/NEU PC Plus Programme.md
@@ -14,3 +13,4 @@ collections:
       - Vendors Contact.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
+      - Resources.md
