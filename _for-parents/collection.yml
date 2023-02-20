@@ -2,14 +2,14 @@ collections:
   for-parents:
     output: true
     order:
-      - Applications, Forms and Guides/Online Travel Declaration Submission.md
-      - Applications, Forms and Guides/P1 Registration.md
       - Applications, Forms and Guides/.keep
+      - Applications, Forms and Guides/P1 Registration.md
       - Applications, Forms and Guides/NEU PC Plus Programme.md
       - Applications, Forms and Guides/Leave of Absence (LOA).md
       - Applications, Forms and Guides/MOE Financial Assistance Scheme (FAS).md
       - Applications, Forms and Guides/Parent Volunteers @ Pasir Ris Primary.md
       - Applications, Forms and Guides/Application for Waiting List.md
+      - Applications, Forms and Guides/Online Travel Declaration Submission.md
       - Vendors Contact.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
