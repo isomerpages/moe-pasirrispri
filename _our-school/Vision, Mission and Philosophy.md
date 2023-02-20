@@ -19,8 +19,8 @@ Nurturing Pasirians to be confident and compassionate critical thinkers.
 
 We believe that :
 
-*   _Every Child is a Winner_.
-*   _Every Child can Learn and Achieve_ to the maximum of his potential given the proper guidance and nurturing.
+**Every Child is a Winner.**
+**Every Child can Learn and Achieve** to the maximum of his potential given the proper guidance and nurturing.
 *   as teachers, we are in “the business of enhancing lives”.
 *   we make a great difference in every child’s behaviour, motivation and achievement.
 *   by keeping fit and by taking care of our own health and professional growth, we can contribute more to our children’s growth and development.

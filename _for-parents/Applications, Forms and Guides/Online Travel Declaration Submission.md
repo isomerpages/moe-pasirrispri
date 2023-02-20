@@ -1,13 +1,11 @@
 ---
 title: Online Travel Declaration Submission
-permalink: /for-parents/online-travel-declaration-submission/
+permalink: /for-parents/Applications-Forms-and-Guides/travel/
 description: ""
 third_nav_title: Applications, Forms and Guides
 ---
-
-
-
-# **Online Travel Declaration Submission**
+**Online Travel Declaration Submission**
+========================================
 
 **TRAVEL DECLARATION**  
 
@@ -27,4 +25,4 @@ Only 1 parent is required to declare. You may refer to the following steps or th
 
 2\. Go to \[SERVICES > DECLARE TRAVELS\] to make your declaration.
 
-[Travel Declaration Guide via PG](/files/Parents-Guide-for-PG-Travel-Declaration-Update-Particulars-8-May-19.pdf)
+[Travel Declaration Guide via PG](https://go.gov.sg/prpstraveldeclaration)

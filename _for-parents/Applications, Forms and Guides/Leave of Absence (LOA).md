@@ -1,7 +1,21 @@
 ---
 title: Leave of Absence (LOA)
-permalink: /for-parents/Applications-Forms-and-Guides/permalink/
+permalink: /for-parents/Applications-Forms-and-Guides/LOA/
 description: ""
 third_nav_title: Applications, Forms and Guides
 ---
-[Application form for LOA](https://pasirrispri.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS_Form.pdf)
+
+
+
+
+
+
+
+
+
+
+
+**Leave of Absence (LOA)**
+==========================
+
+[Application Form for LOA](https://form.gov.sg/60c14e655259b6001101c41f)
