@@ -8,6 +8,8 @@ third_nav_title: Fathers@PRPS
 
 
 
+save and remove first from the site:
+
 The formation of Fathers@Schools movement aims to further the Dads for Life programme. Dads for Life is a community-owned programme, driven by the Fathers Action Network, a workgroup of the National Family Council. The programme was officially launched on 19 November 2009.
 
 Fathers@Schools movement seeks to provide the platform for more active and deliberate engagement of fathers in the school environment. The focus is on fathers of school-going children. Fathers@Schools seeks to further the aims of Dads for Life programme by:
