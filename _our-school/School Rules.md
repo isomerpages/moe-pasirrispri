@@ -29,11 +29,11 @@ For details refer to our student's handbook page 7,8,9 and 10.
 
 ### Hair & Appearance
 
-1\.  Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed.    
-2\.  Boys are not allowed to grow a beard or keep a moustache.   
-3\.  Boys are not permitted to dye or keep long hair.    
-4\.  Girls are to keep their hair short. Those who wish to keep their hair long are to tie/plait their hair using dark or black ribbon, hair clips or bands.    
-5\.  Pupils are not permitted to tint their hair.   
+1. Boys are not allowed to grow a beard or keep a moustache.
+2. Boys are not permitted to dye or keep long hair.
+3. Girls are to keep their hair short. Those who wish to keep their hair long are to tie/plait their hair using dark or black ribbon, hair clips or bands.  
+4. Pupils are not permitted to tint their hair.  
+
 
 ### Attendance & Decorum
 
