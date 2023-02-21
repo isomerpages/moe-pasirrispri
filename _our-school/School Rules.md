@@ -31,14 +31,13 @@ For details refer to our student's handbook page 7,8,9 and 10.
 
 1. Boys are not allowed to grow a beard or keep a moustache.
 2. Boys are not permitted to dye or keep long hair.
-3. Girls are to keep their hair short. Those who wish to keep their hair long are to tie/plait their hair using dark or black ribbon, hair clips or bands.  
-4. Pupils are not permitted to tint their hair.  
+3. Girls are to keep their hair short. Those who wish to keep their hair long are to tie/plait their hair using dark or black ribbon, hair clips or bands. 
+4. Accessories and/or jewelries are not allowed to be worn. However girls may wear small, plain ear studs. 
+
 
 
 ### Attendance & Decorum
 
-1\.  Attendance at the Flag Raising and Flag Lowering Ceremonies or Pledge-Taking is compulsory for all pupils.      
-2\.  Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart.          
-3\.  Pupils must be punctual for school.      
-4\.  Pupils are required to obtain permission if need to leave school earlier than normal school hours. Parents are required to sign on the early dismissal book before bringing their child home.      
-5\.  Pupils who are absent from school are required to produce letters of excuse or medical certficates upon their return.
+1. Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the pledge with the right fist placed over the heart.
+2. Attendance at the Flag-Raising and Pledge-Taking at 7.30 am is compulsory for all students. Students who are not present at the flag raising ceremony with their classes are considered late. Frequent latecomers will be subjected to disciplinary consequences. 
+3. 
