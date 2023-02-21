@@ -7,11 +7,13 @@ description: ""
 
 ### General
 
-1\.  All pupils should keep the school compound and premises clean.    
+1\.  All students should keep the school compound and premises clean.    
 2\.  No wearing of any form of jewellery is allowed. However, girls may wear small plain gold studs or earings.      
-3\.  Pupils should observe silence in the Teaching Block.    
+3\.  Students should observe silence in the Teaching Block.    
 4\.  No running or playing is allowed along corridors and in the canteen.    
 5\.  Pupils leaving the classrooms must get permission from their teacher.    
+
+(put from point 1.1 to 1.8)
 
 ### Pupil’s Attire
 
