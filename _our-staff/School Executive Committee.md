@@ -3,7 +3,7 @@ title: School Executive Committee
 permalink: /our-staff/school-management-committee/
 description: ""
 ---
-<h1><b>School Executive Committee</b></h1>
+<h1><b>School EXCO</b></h1>
 
 
 <h3>School Leaders</h3>
