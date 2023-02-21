@@ -32,8 +32,8 @@ description: ""
 
 |  |  | |
 | -------- | -------- | -------- |
-| Assistant Year Head (P1 to P3)    | Ms Nor Hazurah Mohamed Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
-|Year-Head (P4 to P6)|Mrs Jalene Chang|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
+| Follow e-handbook   | Ms Nor Hazurah Mohamed Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
+|Follow e-handbook|Mrs Jalene Chang|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
 |
 
 <h3>Subject Heads / Level Heads</h3>
@@ -55,4 +55,4 @@ description: ""
 | -------- | -------- | -------- |
 | Senior Teacher (EL)    | Mrs Caroline Silva    | [caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)   |
 |Senior Teacher (CCE)|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-|Acting Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam (Mrs See)|[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
+|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam (Mrs See)|[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
