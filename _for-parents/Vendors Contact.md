@@ -30,6 +30,6 @@ Puchase of School Uniform and PE attire are now available at Jeep Sing Fashion's
 
 Tel: 6282 5611
 
-### Dental Clinic ###
+### School Dental Clinic ###
 
 Tel: 8940 6770
