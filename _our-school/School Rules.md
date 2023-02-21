@@ -19,28 +19,13 @@ description: ""
 
 ### Student Attire
 
-**For the school uniforms,**
-
-<img src="/images/Boy_uniform.jpg" 
-     style="width:40%">
-The name tag must be worn above the top left pocket of the shirt for boys and on the top left of the pinafore for girls.
-
-<img src="/images/Girl.jpg" 
-     style="width:40%">
-The name tag must be worn above the top left pocket of the shirt for boys and on the top left of the pinafore for girls.
-
-<img src="/images/PE.jpg" 
-     style="width:40%">
-For the P.E attire, the name tag must be worn above the school crest.
-
-( 2.1, 2.2) replace all 
+1. Students to wear the prescribed school uniform and modification to the uniform is not allowed. 
+2. Students may report to school in their PE attire on days when they have PE lessons. 
+On Fridays, they may report to school in their PE attire or coloured school T-Shirt (Red,Blue, Green or Yellow) in place of their PE T-Shirt. 
 
 For details refer to our student's handbook page 7,8,9 and 10.
 
-(replace all P1 and P2)
 
-
-change all pupils to students
 
 ### Hair & Appearance
 
