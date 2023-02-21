@@ -15,7 +15,7 @@ description: ""
 
 (put from point 1.1 to 1.8)
 
-### Pupil’s Attire
+### Student Attire
 
 **For the school uniforms,**
 
@@ -31,10 +31,14 @@ The name tag must be worn above the top left pocket of the shirt for boys and on
      style="width:40%">
 For the P.E attire, the name tag must be worn above the school crest.
 
+( 2.1, 2.2) replace all 
+
+For details refer to our student's handbook page 7,8,9 and 10.
+
+(replace all P1 and P2)
 
 
-
-
+change all pupils to students
 
 ### Hair & Appearance
 
