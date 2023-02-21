@@ -7,13 +7,15 @@ description: ""
 
 ### General
 
-1\.  All students should keep the school compound and premises clean.    
-2\.  No wearing of any form of jewellery is allowed. However, girls may wear small plain gold studs or earings.      
-3\.  Students should observe silence in the Teaching Block.    
-4\.  No running or playing is allowed along corridors and in the canteen.    
-5\.  Pupils leaving the classrooms must get permission from their teacher.    
+1. All students should show respect towards school staff and schoolmates.No student is to hurt another person, physically or psychologically. The school does not condone bullying.
+2. All students should keep the school compound and premises clean and litter free.
+3. Students leaving the classroom must get the permission from the teacher.
+4. No student is allowed to remain in the classroom during recess.
+5. No student is allowed to enter the Staff Room.
+6. Students should observe silence and exercise consideration in the teaching and learning block.
+7. Students are not to run or shout along the corridors and in the canteen.
+8. All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others. 
 
-(put from point 1.1 to 1.8)
 
 ### Student Attire
 
