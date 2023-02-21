@@ -3,7 +3,6 @@ title: School EXCO
 permalink: /our-staff/school-management-committee/
 description: ""
 ---
-
 <h1><b>School EXCO</b></h1>
 
 
@@ -12,8 +11,8 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Principal   | Mr Tan King Ming    | [prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
-|Vice- principal (EO)|Mdm Thilagamani d/o Sivanandam|[prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
-|Vice- principal (EO)|Mdm Heng Wei Shan|[prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
+|Vice-Principal (EO)|Mdm Thilagamani d/o Sivanandam|[prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
+|Vice-Principal (EO)|Mdm Heng Wei Shan|[prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
 
 
 <h3>Head of Departments</h3>
