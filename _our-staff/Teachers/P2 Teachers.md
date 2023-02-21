@@ -21,4 +21,4 @@ third_nav_title: Teachers
 |P2 Sincerity|Mdm Maslina Jumari|[maslina_jumari@schools.gov.sg](mailto:maslina_jumari@schools.gov.sg)|
 | |Mdm Ardianawati Binte A Rahman|[ardianawati_abdul_rahman@schools.gov.sg](mailto:ardianawati_abdul_rahman@schools.gov.sg)|
 |P2 Tenacity|Mdm Kamariah Othman|[kamariah_othman@schools.gov.sg](mailto:kamariah_othman@schools.gov.sg)|
-| |Mdm Tan Toon Lin Jovis|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
+| |Mdm Tan Toon Lin Jovis (Mrs Lim)|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
