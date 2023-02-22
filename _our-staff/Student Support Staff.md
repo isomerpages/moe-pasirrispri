@@ -13,4 +13,4 @@ description: ""
 | ICT Manager | Mdm Refine Lubis | [refine\_lubis@schools.gov.sg](mailto:refine_lubis@schools.gov.sg) |
 |Desktop Engineers| Mr Moh Zulfadli bin Adaman||
 |Desktop Engineers|Mr Ojas Ghanekar||
-|Librarian|Mdm Sarinah Bte Baba||
+|School Librarian|Mdm Sarinah Bte Baba||
