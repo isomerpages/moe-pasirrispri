@@ -7,14 +7,16 @@ description: ""
 
 **School Curriculum Hours**
 
-
-
 |  |  | 
 | -------- | -------- | 
 | Monday to Thursday   | 7.30 am to 1.30 pm    | 
 |Friday|7.30 am to 12.40 pm|
 
 All students shall report to school punctually and assembly for the flag-raising ceremony, which begins promptly at 7.30 am daily. 
+
+General Office Operating Hours
+
+
 
 **School Gate Operating Hours**
 
@@ -34,3 +36,4 @@ All students shall report to school punctually and assembly for the flag-raising
 *Parents are advised not to send their children to school before 6.30 am*
 
 Visitors to the school are required to enter via the <b>RED Gate</b> to obtain a visitor’s pass from the security officer.
+
