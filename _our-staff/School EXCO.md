@@ -19,7 +19,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| English     | Mdm Venetia Lim  | [lim_soh_hoon@schools.gov.sg ](mailto:lim_soh_hoon@schools.gov.sg )  |
+| English     | Mdm Lim Soh Hoon Venetia  | [lim_soh_hoon@schools.gov.sg ](mailto:lim_soh_hoon@schools.gov.sg )  |
 |Mathematics|Mrs Polly Chew|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
 |Science|Mdm Haryana Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
 |Mother Tongue Languages|Mdm Zarina Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
