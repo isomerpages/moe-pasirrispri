@@ -16,6 +16,15 @@ All students shall report to school punctually and assembly for the flag-raising
 
 General Office Operating Hours
 
+| During School Term |  | 
+| -------- | -------- | 
+| Monday to Friday    | 7.00 am to 5.30 pm  | 
+| During School Holidays |  | 
+| Monday to Friday    | 8.00 am to 5.00 pm  | 
+
+
+
+
 
 
 **School Gate Operating Hours**
@@ -36,4 +45,3 @@ General Office Operating Hours
 *Parents are advised not to send their children to school before 6.30 am*
 
 Visitors to the school are required to enter via the <b>RED Gate</b> to obtain a visitor’s pass from the security officer.
-
