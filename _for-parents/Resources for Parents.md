@@ -1,9 +1,9 @@
 ---
-title: Resources
+title: Resources for Parents
 permalink: /for-parents/resources/
 description: ""
 ---
-**Resources**
+**Resources for Parents**
 =============
 
 [Direct School Admission](https://www.moe.gov.sg/secondary/dsa)

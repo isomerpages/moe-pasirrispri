@@ -2,8 +2,9 @@
 title: Tamil Language Programmes
 permalink: /our-programmes/Mother-Tongue/Tamil-Language-Programmes/
 description: ""
-third_nav_title: Mother Tongue
+third_nav_title: Mother Tongue Languages
 ---
+
 # **Tamil Language Programmes**
 
 ![](/images/Info%20Pic/tamil.png)

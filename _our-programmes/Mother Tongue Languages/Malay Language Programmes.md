@@ -2,8 +2,9 @@
 title: Malay Language Programmes
 permalink: /our-programmes/Mother-Tongue/Malay-Language-Programmes/
 description: ""
-third_nav_title: Mother Tongue
+third_nav_title: Mother Tongue Languages
 ---
+
 # **Malay Language Programmes**
 
 ![](/images/Info%20Pic/ml.png)

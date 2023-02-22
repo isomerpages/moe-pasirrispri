@@ -19,4 +19,4 @@ third_nav_title: Teachers
 |P6 Resilience|Mdm Mok Xiu Wen (Mrs Lim)|[mok_xiuwen@schools.gov.sg](mailto:mok_xiuwen@schools.gov.sg)|
 | |Mr Khairudin Bin Mohamed Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
 |P6 Tenacity|Mrs Sylvia Pereira|[sylvia_pereira@schools.gov.sg](mailto:sylvia_pereira@schools.gov.sg)|
-| |Mdm Caroline d/o Kulandeisamy L|[caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)|
+| |Mdm Caroline d/o Kulandeisamy L (Mrs Silva)|[caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)|

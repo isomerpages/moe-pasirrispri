@@ -2,8 +2,9 @@
 title: NEU PC Plus Programme
 permalink: /for-parents/Applications-Forms-and-Guides/NEU/
 description: ""
-third_nav_title: Applications, Forms and Guides
+third_nav_title: Application Forms and Guides
 ---
+
 **NEU PC Plus Programme**
 =========================
 

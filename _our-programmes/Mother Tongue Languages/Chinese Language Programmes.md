@@ -2,8 +2,9 @@
 title: Chinese Language Programmes
 permalink: /our-programmes/Mother-Tongue/Chinese-Language-Programmes/
 description: ""
-third_nav_title: Mother Tongue
+third_nav_title: Mother Tongue Languages
 ---
+
 # **Chinese Language Programmes**
 
 ![](/images/Info%20Pic/cl.png)
