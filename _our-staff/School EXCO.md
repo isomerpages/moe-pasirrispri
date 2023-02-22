@@ -21,7 +21,7 @@ description: ""
 | -------- | -------- | -------- |
 | English     | Mdm Lim Soh Hoon Venetia  | [lim_soh_hoon@schools.gov.sg ](mailto:lim_soh_hoon@schools.gov.sg )  |
 |Mathematics|Mrs Chew Soon Lee Polly|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
-|Science|Mdm Haryana Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
+|Science|Mdm Haryana Binte Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
 |Mother Tongue Languages|Mdm Zarina Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
 |Physical Health & Fitness/ CCA|Mr Khairudin Md Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
 |Character & Citizenship Education (CCE)|Mr Tee Leng Teck|[tee_leng_teck@schools.gov.sg](mailto:tee_leng_teck@schools.gov.sg)
