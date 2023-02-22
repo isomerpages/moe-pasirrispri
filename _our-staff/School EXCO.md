@@ -55,4 +55,4 @@ description: ""
 | -------- | -------- | -------- |
 | Senior Teacher (EL)    | Mrs Caroline Silva    | [caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)   |
 |Senior Teacher (CCE)|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam (Mrs See)|[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
+|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
