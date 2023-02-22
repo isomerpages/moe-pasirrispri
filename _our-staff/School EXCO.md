@@ -41,18 +41,18 @@ description: ""
 | |  |  |
 | -------- | -------- | -------- |
 | Level Head (English)   | Mdm Suriani Bte Sabtu    | [suriani_sabtu@schools.gov.sg](mailto:suriani_sabtu@schools.gov.sg )   |
-|Level Head (Mathematics)|Mrs Shela Woo|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
+|Level Head (Mathematics)|Mrs Yeo Si Qi Shela (Mrs Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
 |Level Head (Science)|Mdm Dawn Tan Ai Ling|[tan_ai_ling_dawn@schools.gov.sg](mailto:tan_ai_ling_dawn@schools.gov.sg)|
 |Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|[chua_siew_ping_sharon@schools.gov.sg](mailto:chua_siew_ping_sharon@schools.gov.sg)|
 |Subject Head (Discipline)|Mr Feisal Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
 |Subject Head (Student Well-Being)|Mdm Lee Xin Fen Edna|[lee_xin_fen_edna@schools.gov.sg](mailto:lee_xin_fen_edna@schools.gov.sg)|
-|Subject Head (CL)|Mrs Jovis Lim|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
+|Subject Head (CL)|Mrs Tan Toon Lin Jovis|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
 |Subject Head (CCE) (Acting)|Ms Bai Yu|[bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
 
 <h3>Senior Teachers</h3>
 
 |  | |  |
 | -------- | -------- | -------- |
-| Senior Teacher (EL)    | Mrs Caroline Silva    | [caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)   |
+| Senior Teacher (EL)    | Mrs Caroline d/o Kulandeisamy L (Mrs Silva)    | [caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)   |
 |Senior Teacher (CCE)|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
+|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam (Mrs See) |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
