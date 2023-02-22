@@ -32,8 +32,8 @@ description: ""
 
 |  |  | |
 | -------- | -------- | -------- |
-| AYH P1&P2 (cov P3)   | Ms Nor Hazurah Mohamed Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
-|YH P5&P6 (cov P4)|Mrs Jalene Chang|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
+| AYH P1&P2 (cov P3)   | Ms Nor Hazurah Bte Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
+|YH P5&P6 (cov P4)|Mdm Lim Swee Moi Jalene (Mrs Chang)|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
 |
 
 <h3>Subject Heads / Level Heads</h3>
