@@ -5,7 +5,7 @@ description: ""
 ---
 # **School Information**
 
-**School Curriculum Hours**
+### **School Curriculum Hours**
 
 |  |  | 
 | -------- | -------- | 
@@ -14,7 +14,7 @@ description: ""
 
 All students shall report to school punctually and assembly for the flag-raising ceremony, which begins promptly at 7.30 am daily. 
 
-General Office Operating Hours
+### **General Office Operating Hours**
 
 | During School Term |  | 
 | -------- | -------- | 
@@ -27,7 +27,7 @@ General Office Operating Hours
 
 
 
-**School Gate Operating Hours**
+### **School Gate Operating Hours**
 
 | **Main Gate & Red Gate:** | |
 | -------- | -------- | 
