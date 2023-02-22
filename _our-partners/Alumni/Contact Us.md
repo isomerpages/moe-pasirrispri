@@ -8,11 +8,11 @@ third_nav_title: Alumni
 
 Feel free to contact us.
 
-For further clarifications and information on membership, please contact
+For further clarifications and information on membership, please contact [Pasir Ris Primary School](mailto: prps@moe.edu.sg)
 
 
 
-**Prps contact**
+
 
 For further information regarding to participate
 **For alumni interested to participate in school events**
