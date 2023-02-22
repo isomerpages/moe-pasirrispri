@@ -22,8 +22,7 @@ remove the recess time table, remove the sentence to reduce congensted keep the 
 <br>
 
 
-We would like to remind parents/caregivers to avoid congregating at the school gates and to maintain a safe distance from one another whilst waiting for the children.
-<br>
+
 <br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" colspan="2">School Side Gate (Yellow &amp; Blue) Operating Hours</th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Monday to Thursday</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:middle;word-break:normal">7.00 am to 7.25 am   /  1.30 pm to 1.50 pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Friday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:middle;word-break:normal">7.00 am to 7.25 am   /   12.40 pm to 1.00 pm</td></tr></tbody></table>
 
