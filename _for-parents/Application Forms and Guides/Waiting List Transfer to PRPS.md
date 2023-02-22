@@ -4,11 +4,10 @@ permalink: /for-parents/Applications-Forms-and-Guides/waitinglist/
 description: ""
 third_nav_title: Application Forms and Guides
 ---
-
-
-**Application for Waiting List**
+**Waiting List - transfer to PRPS**
 ================================
 
-**Please note that the waiting list does not guarantee your child a place in the school.**
+**Thank you for your interest in transferring your child to Pasir Ris Primary School. 
+Please note that the waiting list does not guarantee your child a place in the school.**
 
-[Wait List Application Form](https://go.gov.sg/waitlistform2122)
+[Waiting List Application Form](https://go.gov.sg/waitlistform2122)
