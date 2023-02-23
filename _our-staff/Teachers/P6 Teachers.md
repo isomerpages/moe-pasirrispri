@@ -16,7 +16,9 @@ third_nav_title: Teachers
 | |Mr Jespal Singh Mann|[jespal_singh_mann@schools.gov.sg](mailto:jespal_singh_mann@schools.gov.sg)|
 |P6 Empathy|Ms Tan Li Ting|[tan_li_ting_b@schools.gov.sg](mailto:tan_li_ting_b@schools.gov.sg)|
 | | Mdm Lee Xin Fen Edna| [lee_xin_fen_edna@schools.gov.sg](mailto:lee_xin_fen_edna@schools.gov.sg)|
-|P6 Resilience|Mdm Mok Xiu Wen (Mrs Lim)|[mok_xiuwen@schools.gov.sg](mailto:mok_xiuwen@schools.gov.sg)|
+|P6 Resilience| Mdm Priscilla Lai Sock Khim (Mrs See)|[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
+| |Mdm Lim Soh Hoon Venetia|[lim_soh_hoon@schools.gov.sg](mailto:lim_soh_hoon@schools.gov.sg)|
+|P6 Sincerity|Mdm Mok Xiu Wen (Mrs Lim)|[mok_xiuwen@schools.gov.sg](mailto:mok_xiuwen@schools.gov.sg)|
 | |Mr Khairudin Bin Mohamed Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
 |P6 Tenacity|Mrs Sylvia Pereira|[sylvia_pereira@schools.gov.sg](mailto:sylvia_pereira@schools.gov.sg)|
 | |Mdm Caroline d/o Kulandeisamy L (Mrs Silva)|[caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)|
