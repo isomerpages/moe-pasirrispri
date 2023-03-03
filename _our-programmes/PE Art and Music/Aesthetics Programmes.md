@@ -13,7 +13,7 @@ third_nav_title: PE Art and Music
 Arts Education Policy
 ---------------------
 
-Every pupil is to be developed to his fullest potential in the Visual and Performing Arts.
+Every student is to be developed to his fullest potential in the Visual and Performing Arts.
 
 Philosophy
 ----------
