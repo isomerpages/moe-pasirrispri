@@ -19,7 +19,7 @@ The Science Department is proud to announce the completion of our innovation pro
 ![](/images/facilities.jpg)
 
 
-We have always wanted to bring Science outdoor learning closer and more easily accessible to both pupils and teachers. The school currently has an access balcony sitting outside the two adjacent Science Rooms on the third storey of the school building. It has been a working corner for experimental projects, (e.g. growing of maize plants) which usually lasts between 3 months to 8 months.
+We have always wanted to bring Science outdoor learning closer and more easily accessible to both students and teachers. The school currently has an access balcony sitting outside the two adjacent Science Rooms on the third storey of the school building. It has been a working corner for experimental projects, (e.g. growing of maize plants) which usually lasts between 3 months to 8 months.
 
 With the completion of the rooftop garden, we now have another outdoor experimental site and learning centre in the setting of a garden, one that is both educational and aesthetically welcoming.
 
