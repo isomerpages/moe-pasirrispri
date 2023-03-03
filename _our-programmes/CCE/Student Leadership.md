@@ -10,9 +10,9 @@ third_nav_title: CCE
 
 A leader is not just a position or a title. An effective leader is a good role model who has the ability to lead his or her own life, is a positive example for others to follow and has a positive influence on his or her peers, the school and the community.
 
-Our aim is to equip our pupils with the skills needed to be a good leader and role model through formal and informal training. Opportunities are also created for pupils to put into practice the knowledge and skills acquired. School student leaders are assessed and duly rewarded and recognised for their hard work and contributions to the school and the community.
+Our aim is to equip our students with the skills needed to be a good leader and role model through formal and informal training. Opportunities are also created for students to put into practice the knowledge and skills acquired. School student leaders are assessed and duly rewarded and recognised for their hard work and contributions to the school and the community.
 
-We want our pupils to grow up to be resilient, respectful, responsible and responsive citizens who are ready to step up and take the lead as they face the challenges of society.
+We want our students to grow up to be resilient, respectful, responsible and responsive citizens who are ready to step up and take the lead as they face the challenges of society.
 
 ### Opportunities
 
