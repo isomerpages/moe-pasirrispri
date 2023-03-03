@@ -18,7 +18,7 @@ In John Ruskin’s words, we believe that ‘the highest reward for man’s toil
 
 ### Values In Action @ PRPS
 
-*   Show & Tell to kindergarten pupils
+*   Show & Tell to kindergarten students
 *   Recycling of plastic bottles/newspapers
 *   Use-Your-Hands Campaign
 *   Heartland Ambassadors
