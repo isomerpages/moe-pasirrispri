@@ -23,7 +23,7 @@ third_nav_title: Co Curicular Activities (CCA)
 
 If you love to sing and want to build your confidence in performing, join us and be a member of PRPS choir!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LMwlDZl20Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yu_drHx1QbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Our choir comprises of students of all ages who are talented and enthusiastic. Our members are committed to hone their craft in singing. In the choir sessions, they learn to appreciate and sing songs in different languages and genres. Our choir put up performances throughout the year. They participate in choir exchanges with other schools and also in the Singapore Youth Festival. These opportunities give our members platforms to showcase their talents and learn from other choirs. Through choir, they also embrace our school values, develop their social skills and build stronger friendship with their teachers, peers and instructors.
 
