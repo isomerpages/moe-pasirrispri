@@ -4,11 +4,6 @@ permalink: /our-programmes/CCA-Programmes/art-club/
 description: ""
 third_nav_title: Co Curicular Activities (CCA)
 ---
-
-
-
-
-
 # **ART CLUB**
 
 
@@ -34,7 +29,7 @@ Objectives:
 *   To celebrate talents of our pupils in art
 *   To foster a love of art
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5ZKfpa709w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yfsth-E01bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 During the 2019 Singapore Youth Festival (SYF) Art Exhibition, several art club members were given the exciting opportunity to participate in the Artist Talk.  The pupils facilitated a wire workshop at The National Museum of Singapore to peers from another primary school.
 

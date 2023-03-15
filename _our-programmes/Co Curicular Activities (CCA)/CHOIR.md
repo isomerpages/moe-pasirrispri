@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programmes/choir/
 description: ""
 third_nav_title: Co Curicular Activities (CCA)
 ---
-
-
-
-
 # **CHOIR**
 
 
