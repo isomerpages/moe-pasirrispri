@@ -4,7 +4,6 @@ permalink: /for-parents/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
-
 <h1><b>MOE Sexuality Education in Schools</b></h1>
 
 
@@ -67,7 +66,7 @@ b.       Character and Citizenship Education (CCE)
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">The Changes in Me (60 min)</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>
       This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 6</td>
+      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 2 Week 5</td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Did You Know? (60 min)</td>
