@@ -43,12 +43,3 @@ bring joy and cheer to one and all …
 
 The motto _**Be Our Best**_ urges the school community to give their best to achieve the school core values which are:
 
-**I**  ntegrity
-
-**P** assion for Learning
-
-**R** espect for all
-
-**P** ursuit of Excellence
-
-**S** hare & Care
