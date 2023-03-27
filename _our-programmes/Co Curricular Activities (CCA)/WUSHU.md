@@ -2,8 +2,9 @@
 title: WUSHU
 permalink: /our-programmes/cca-programmes/wushu/
 description: ""
-third_nav_title: Co Curicular Activities (CCA)
+third_nav_title: Co Curricular Activities (CCA)
 ---
+
 
 
 

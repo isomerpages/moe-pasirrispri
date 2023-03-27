@@ -2,8 +2,9 @@
 title: Overview 2023
 permalink: /our-programmes/CCA-Programmes/
 description: ""
-third_nav_title: Co Curicular Activities (CCA)
+third_nav_title: Co Curricular Activities (CCA)
 ---
+
 # **CCA**
 
 ![](/images/Info%20Pic/cca.png)

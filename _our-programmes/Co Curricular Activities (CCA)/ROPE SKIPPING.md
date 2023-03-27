@@ -2,8 +2,9 @@
 title: ROPE SKIPPING
 permalink: /our-programmes/cca-programmes/rope-skipping/
 description: ""
-third_nav_title: Co Curicular Activities (CCA)
+third_nav_title: Co Curricular Activities (CCA)
 ---
+
 
 
 

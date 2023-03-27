@@ -2,8 +2,9 @@
 title: ART CLUB
 permalink: /our-programmes/CCA-Programmes/art-club/
 description: ""
-third_nav_title: Co Curicular Activities (CCA)
+third_nav_title: Co Curricular Activities (CCA)
 ---
+
 # **ART CLUB**
 
 
