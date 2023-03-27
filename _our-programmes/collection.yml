@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Learn for Life Programme – E3 Sports.md
       - English Language/.keep
       - English Language/English Programme.md
       - English Language/Useful Links.md
