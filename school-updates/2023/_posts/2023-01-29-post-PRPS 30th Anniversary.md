@@ -9,6 +9,10 @@ image: ""
 We are celebrating our 30th Anniversary this year.
 
 ![](/images/Info%20Pic/30thAnniversary.jpg)
+
+**Share your Pasirian journey with us**
+
+![](/images/Info%20Pic/30thanniversary.jpg)
  
 
 The following are some memories from 25th Anniversary!
