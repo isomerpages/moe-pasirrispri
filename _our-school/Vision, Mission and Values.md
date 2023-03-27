@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Info%20Pic/Student%20Photo%201.png)
 
-# **Vision, Mission and Philosophy**
+# **Vision, Mission and Values**
 
 ### Vision
 
