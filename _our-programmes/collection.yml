@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - Learn for Life Programme – E3 Sports.md
       - English Language/.keep
       - English Language/English Programme.md
