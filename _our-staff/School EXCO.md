@@ -23,8 +23,8 @@ description: ""
 |Mathematics|Mrs Chew Soon Lee Polly|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
 |Science|Mdm Haryana Binte Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
 |Mother Tongue Languages|Mdm Zarina Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
-|Physical Health & Fitness/ CCA|Mr Khairudin Md Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
-|Character & Citizenship Education (CCE)|Mr Tee Leng Teck|[tee_leng_teck@schools.gov.sg](mailto:tee_leng_teck@schools.gov.sg)
+|Physical Health &amp; Fitness/ CCA|Mr Khairudin Md Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
+|Character &amp; Citizenship Education (CCE)|Mr Tee Leng Teck|[tee_leng_teck@schools.gov.sg](mailto:tee_leng_teck@schools.gov.sg)
 |ICT|Mr Tony Hui|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
 |School Staff Developer|Mdm Joyce Tang|[tang_sok_cheng_joyce@schools.gov.sg](mailto:tang_sok_cheng_joyce@schools.gov.sg)|
 
@@ -32,8 +32,8 @@ description: ""
 
 |  |  | |
 | -------- | -------- | -------- |
-| AYH P1&P2 (cov P3)   | Ms Nor Hazurah Bte Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
-|YH P5&P6 (cov P4)|Mdm Lim Swee Moi Jalene (Mrs Chang)|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
+| AYH P1&amp;P2 (cov P3)   | Ms Nor Hazurah Bte Azhar     | [nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)    |
+|YH P5&amp;P6 (cov P4)|Mdm Lim Swee Moi Jalene (Mrs Chang)|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
 |
 
 <h3>Subject Heads / Level Heads</h3>
@@ -55,4 +55,4 @@ description: ""
 | -------- | -------- | -------- |
 | Senior Teacher (EL)    | Mrs Caroline d/o Kulandeisamy L (Mrs Silva)    | [caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)   |
 |Senior Teacher (CCE)|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khiam (Mrs See) |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
+|Senior Teacher (SCI)|Mdm Priscilla Lai Sock Khim (Mrs See) |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
