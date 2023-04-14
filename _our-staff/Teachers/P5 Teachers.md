@@ -16,6 +16,7 @@ third_nav_title: Teachers
 | |Mr Feisal B Omar Baobed|[feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
 |P5 Resilience|Mr Neo Jia Hao Jackson|[neo_jia_hao@schools.gov.sg](mailto:neo_jia_hao@schools.gov.sg)|
 | |Mdm Yeong Mei Lin Gillian (Mrs Quek)|[gillian_yeong_mei_lin@schools.gov.sg](mailto:gillian_yeong_mei_lin@schools.gov.sg)|
+| |Mdm Noor Farhanah Binte Mohamed Amin|[noor_farhanah_mohamed_amin@schools.gov.sg](mailto:noor_farhanah_mohamed_amin@schools.gov.sg)|
 |P5 Sincerity|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
 | |Mdm Lim Li Yin|[lim_li_yin@schools.gov.sg](mailto:lim_li_yin@schools.gov.sg)|
 |P5 Tenacity|Mdm Tang Sok Cheng Joyce|[tang_sok_cheng_joyce@schools.gov.sg](mailto:tang_sok_cheng_joyce@schools.gov.sg)|
