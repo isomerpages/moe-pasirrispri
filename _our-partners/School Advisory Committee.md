@@ -19,4 +19,4 @@ description: ""
 |Secretary| Mr Tan King Ming|
 |Members| Mr Henry Chan Chee Meng|
 | | Mr Ong Chee Keong|
-|| Mr Ong Chee Keong|
+|| Ms Esther Chia Li Hwang|
