@@ -15,7 +15,8 @@ description: ""
 |  |  | 
 | -------- | -------- | 
 | Chairman   | Ms Teo Jin Heong Doy    |
+|Vice-Chairman| Mr Lee Cher Heng |
 |Secretary| Mr Tan King Ming|
-|Members| Mr Lee Cher Heng|
-| | Mr Henry Chan Chee Meng|
+|Members| Mr Henry Chan Chee Meng|
+| | Mr Ong Chee Keong|
 || Mr Ong Chee Keong|
