@@ -13,6 +13,15 @@ description: ""
 Tel: 9723 1801/ 9007 3126
 Email: [pehbusservice@gmail.com](mailto:pehbusservice@gmail.com)
 
+School Bus Fares
+
+The bus fares listed below are the maximum fares for each distance cap. Actual bus fares are based on other commercial considerations such as distance, route, number of students on buses and the size of school bus etc. 
+
+![](/images/Info%20Pic/bus%20fares.PNG)
+
+
+
+
 
 ### School Uniform – Jeep Sing Fashion ###
 
