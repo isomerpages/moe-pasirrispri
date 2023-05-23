@@ -35,6 +35,24 @@ description: ""
 |Email| prps@moe.edu.sg |
 |Contact Person| Mr Chong Kwek Fah|
 
-How to get there?
+**How to get there?**
 
+* Nearest MRT: Pasir Ris MRT (EW1 line)
+* Take Bus number 3 from Pasir Ris Bus Interchange. Alight at the 4th Bus Stop (78209)
+
+**Interest applicants must meet the following criteria:**
+
+1. Singapore citizen or Singapore Permanent Resident (SPR) for stall-holder and stall assistant.
+2. Able to provide good service and quality food with prices determined in consultation with the school.
+3. Able to provide cooked food that meets the health/ nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in School Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+4. Able to maintain high standard of food safety and personal hygiene.
+5. Healthy and fit to operate the stall.
+
+**Applicants should preferably fulfill the following criteria:**
+
+1. Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+2. Possess catering experience or experience operating in a school environment.
+3. Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. *
 
