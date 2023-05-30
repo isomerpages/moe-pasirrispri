@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cooked Food    | 25 May 2023     | Rice of noodle stalls are acceptable    |
+| Muslim Cooked Food    | 23 June 2023     | Rice of noodle stalls are acceptable    |
 
 
 **Application Procedure**
@@ -33,7 +33,7 @@ description: ""
 | Address  | 5 Pasir Ris Street 21, Singapore 518968    | 
 |Contact No| 6582 2606|
 |Email| prps@moe.edu.sg |
-|Contact Person| Mr Chong Kwek Fah|
+|Contact Person| Mr Ong Chin Sai|
 
 **How to get there?**
 
