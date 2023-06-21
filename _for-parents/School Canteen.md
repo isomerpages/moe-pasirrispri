@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Cooked Food    | 23 June 2023     | Rice or noodle stalls are acceptable    |
+| Muslim Cooked Food    | 28 July 2023     | Rice or noodle stalls are acceptable    |
 
 
 **Application Procedure**
