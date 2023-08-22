@@ -4,11 +4,6 @@ permalink: /our-programmes/cca-programmes/rope-skipping/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
-
 # **ROPE SKIPPING**
 
 
@@ -21,6 +16,8 @@ third_nav_title: Co Curricular Activities (CCA)
 
 
 Rope Skipping in Pasir Ris Primary School is a fun and wholesome CCA that offers a platform for students to hone their social and emotional competencies (self-awareness, self-management, social awareness, relationship management and responsible decision making).
+
+
 
 As a sports, Rope Skipping aims to strengthen students’ bodies, build cardiovascular fitness, agility and fitness.
 
