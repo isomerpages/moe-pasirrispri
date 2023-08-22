@@ -4,11 +4,6 @@ permalink: /our-programmes/cca-programmes/floorball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
-
 # **FLOORBALL**
 
 
@@ -31,11 +26,17 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Floorball is a simple and fast-paced sport played with a floorball stick and a ball. Since it was established, Floorball remains one of the most popular CCAs in PRPS. Currently, there are more than 120 active and committed members in floorball.
 
+![](/images/CCA/image%20p4.jpg)
+
+![](/images/CCA/image%20p3.jpg)
+
 Floorball is exciting to play due to the fast pace and variability during matches. Beyond just about the fun, however, students are also able to improve their stamina, strength and agility. They become stronger and more resilient players.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhpOFZaJo0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IhpOFZaJo0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 In PRPS’ Floorball CCA, we do not just get students to focus on their skills and fitness; instead, we look at the holistic development of students. Our student outcomes and school values are the foundation when we plan and conduct trainings in schools. We aim to groom students into resilient and responsible leaders, compassionate and confident Pasirians.
+
+![](/images/CCA/image%201.jpg)
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">Training Schedule</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Venue</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Modular Experience Programme<br><br>(P2)</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Monday<br><br>2.00pm – 3.30pm</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" rowspan="4">Indoor Sports Hall (ISH) Level 4</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Development Group<br><br>(P3 – P6)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Friday<br><br>2.00pm – 3.30pm,<br>3.30pm-5.00pm</td></tr><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">School Junior Team<br><br>(P4 &amp; P5)</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Tuesday and Thursday<br><br>2.00pm – 5.00pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">School Senior Team<br><br>(P6)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Tuesday and Thursday<br><br>2.00 – 5.00pm</td></tr></tbody></table>

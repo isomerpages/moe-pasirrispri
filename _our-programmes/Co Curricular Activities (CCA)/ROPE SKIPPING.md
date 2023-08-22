@@ -4,11 +4,6 @@ permalink: /our-programmes/cca-programmes/rope-skipping/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
-
 # **ROPE SKIPPING**
 
 
@@ -22,9 +17,33 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Rope Skipping in Pasir Ris Primary School is a fun and wholesome CCA that offers a platform for students to hone their social and emotional competencies (self-awareness, self-management, social awareness, relationship management and responsible decision making).
 
+![](/images/CCA/ropeskipping%201.jpeg)
+
+![](/images/CCA/ropeskipping%202.jpeg)
+
+
+
 As a sports, Rope Skipping aims to strengthen students’ bodies, build cardiovascular fitness, agility and fitness.
 
+![](/images/CCA/ropeskipping%203.jpeg)
+
+![](/images/CCA/ropeskipping%204.jpeg)
+
 Most importantly, students build a strong foundation to establish a healthy lifestyle and discover their potential as they shine and excel in their own way. We welcome any students who have the passion and determination to learn new skills to join the CCA.
+
+| Achievement|  | 
+| -------- | -------- |
+| 2023    | Double Dutch Mixed Team (Senior boys and girls) - 1st   | 
+||Double Dutch Mixed Team (Junior boys and girls) - 1st|
+||Double Dutch Team (Junior girls) - 4th|
+||Speed Relay Team (Junior girls) - 8th|
+|2022|Speed Relay Team (Senior girls) - 2nd|
+||Double Dutch Team (Senior girls) - 6th|
+|2021|Participation in National School Games|
+|2020|Game suspended due to Covid -19|
+|2019|Speed Event Individual (Junio Girls and Junior Boys) Bronze|
+
+
 
 We offer training, skill development and exposure to competitive rope skipping activities on National platforms.
 
