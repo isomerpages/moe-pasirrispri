@@ -20,13 +20,18 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Pasir Ris Primary Football focuses on the holistic development of our pupils. Under the guidance of our experienced teachers and coaches, we strive to enable our pupils to attain their maximal potential in the sport. This is achieved through our comprehensive football development programme that is built on sportsmanship, discipline, confidence and perseverance. Our football programme is also differentiated to meet the different needs and aspirations of our pupils.
 
-Our achievements:
-Senior Boys:
-East Zone top 4
-National top 8
+![](/images/junior%20boys%202023.jpeg)
 
-Junior Boys:
-Tier 1 - 2nd in group
+Our achievements:
+| Senior Boys | | 
+| -------- | -------- | 
+| East Zone | Top 4    | 
+| National | Top 8|
+
+| Junior Boys | | 
+| -------- | -------- | 
+| Tier1  | 2nd in group   | 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EoTYlKI5WfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
