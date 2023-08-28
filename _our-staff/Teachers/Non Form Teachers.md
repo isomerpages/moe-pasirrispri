@@ -4,7 +4,6 @@ permalink: /our-people/non-form-teachers/
 description: ""
 third_nav_title: Teachers
 ---
-
 <h1><b>Non-Form Teachers</b></h1>
 <br>
 
@@ -22,5 +21,4 @@ third_nav_title: Teachers
 |Mdm Lim Siew Haw|[lim_siew_haw@schools.go.sg](mailto:lim_siew_haw@schools.go.sg)|
 |Mdm Lim Tsui Ning Grace|[lim_tsui_ning@schools.gov.sg](mailto:lim_tsui_ning@schools.gov.sg)|
 |Ms Nur Aiiesyah Binte Barzah|[nur_aiiesyah_barzah@schools.gov.sg](mailto:nur_aiiesyah_barzah@schools.gov.sg)|
-|Mdm Hafizah Bte Azhar|[hafizah_md_azhar@schools.gov.sg](mailto:hafizah_md_azhar@schools.gov.sg)|
 |Mdm Chua Bee Leng Connie|[chua_bee_leng_connie@schools.gov.sg](mailto:chua_bee_leng_connie@schools.gov.sg)|
