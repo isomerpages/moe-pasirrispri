@@ -21,4 +21,4 @@ third_nav_title: Teachers
 |P1 Sincerity|Mdm Siti Fazlinda Bte Ahmad|[siti_fazlinda_ahmad@schools.gov.sg](mailto:siti_fazlinda_ahmad@schools.gov.sg)|
 | |Miss Chan Xiu Jing|[chan_xiu_jing@schools.gov.sg](mailto:chan_xiu_jing@schools.gov.sg)|
 |P1 Tenacity|Mdm Yeo Si Qi Shela (Mrs Woo)|[nurul_jannah_rosni@schools.gov.sg](mailto:nurul_jannah_rosni@schools.gov.sg)|
-| |Mr Muhammad Naqib Bin Asmin |[](mailto:teo_choy_pui_jing@schools.gov.sg)|
+| |Mr Muhammad Naqib Bin Asmin |[muhammad_naqib_asmin@schools.gov.sg](mailto:muhammad_naqib_asmin@schools.gov.sg)|
