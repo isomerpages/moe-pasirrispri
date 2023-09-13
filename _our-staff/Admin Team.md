@@ -9,7 +9,6 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-|Administration Manager| Ms Gan Lai Li|[gan_lai_li@schools.gov.sg](mailto:gan_lai_li@schools.gov.sg)
 |Operations Manager| Mr Chong Kwek Fah|[chong_kwek_fah@schools.gov.sg](mailto:chong_kwek_fah@schools.gov.sg)|
 | Operations Manager| Mr Ong Chin Sai|[ong_chin_sai@schools.gov.sg](mailto:ong_chin_sai@schools.gov.sg)|
 |Admin Executive|Mdm Tan Li San|[tan_li_san_A@schools.gov.sg](mailto:tan_li_san_A@schools.gov.sg)|
