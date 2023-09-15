@@ -17,7 +17,7 @@ School Bus Fares
 
 The bus fares listed below are the maximum fares for each distance cap. Actual bus fares are based on other commercial considerations such as distance, route, number of students on buses and the size of school bus etc.
 
-![](/images/Info%20Pic/bus%20fares.PNG)
+![](/images/revised%20bus%20fares_2024.jpg)
 
 
 
