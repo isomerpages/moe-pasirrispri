@@ -19,7 +19,7 @@ The bus fares listed below are the maximum fares for each distance cap. Actual b
 
 ***Revised bus fares with effect from 1 January 2024:***
 
-![](/images/bus%20table.PNG)
+![](/images/revised%20bus%20fares_2024.jpg)
 
 
 
