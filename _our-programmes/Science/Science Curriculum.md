@@ -14,17 +14,14 @@ A community of learning and thinking individuals with an active care and concern
 
 ### Mission
 
-To develop every pupil into an innovative and thinking individual, imbued with a lively spirit of inquiry,  a genuine curiosity about nature,  a passion for learning and  a commitment to caring  for his environment.
+To develop every pupil into an innovative and thinking individual, imbued with a lively spirit of inquiry,&nbsp; a genuine curiosity about nature,&nbsp; a passion for learning and&nbsp; a commitment to caring&nbsp; for his environment.
 
 ### Key Features
 *   Thematic approach
-*   Expansion of the process skills listed in  the current syllabus
+*   Expansion of the process skills listed in&nbsp; the current syllabus
 *   Experiential Learning
 *   Holistic Assessment
 
-### MOE Science Syllabus (2014)
-
-[2014-Primary-Science-Syllabus.pdf](/files/2014-Primary-Science-Syllabus.pdf)
 
 ### Syllabus
 
