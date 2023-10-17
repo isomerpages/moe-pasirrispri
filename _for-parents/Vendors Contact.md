@@ -11,7 +11,7 @@ description: ""
 
 
 Tel: 9723 1801/ 9007 3126
-Email: [pehbusservice@gmail.com](mailto:pehbusservice@gmail.com)
+Email: [prpsbus@gmail.com](mailto:prpsbus@gmail.com)
 
 School Bus Fares
 
