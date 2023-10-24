@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Cooked Food    | 20 October 2023     | Rice or noodle stalls are acceptable    |
+| Hot Drinks & Snacks    | 20 November 2023     | Hot Drinks, Light Bites and Snacks (Halal)    |
 
 
 **Application Procedure**
