@@ -37,4 +37,4 @@ We believe in open communication to cultivate a strong bonding in the tripartite
 We believe in diversity and that every parent can contribute in a way that can make a difference in enhancing the overall development of our students.
 
 **Recruitment**  
-Please register [here](hhttps://go.gov.sg/prpspsgregistration) if you are interested to be part of the PSG team.
+Please register [here](https://go.gov.sg/prpspsgregistration) if you are interested to be part of the PSG team.
