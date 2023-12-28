@@ -3,6 +3,7 @@ title: PSG
 permalink: /our-partners/PSG/
 description: ""
 third_nav_title: PSG
+variant: markdown
 ---
 # **PSG**
 
@@ -36,4 +37,4 @@ We believe in open communication to cultivate a strong bonding in the tripartite
 We believe in diversity and that every parent can contribute in a way that can make a difference in enhancing the overall development of our students.
 
 **Recruitment**  
-Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSczb86L66GWNj8SDXEi5oZgJ1wpSGsUgTshUyCKjiclOdq_eg/viewform?vc=0&c=0&w=1) if you are interested to be part of the PSG team.
+Please register [here](hhttps://go.gov.sg/prpspsgregistration) if you are interested to be part of the PSG team.
