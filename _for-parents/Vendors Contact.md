@@ -2,6 +2,7 @@
 title: Vendors Contact
 permalink: /for-parents/parents-information/
 description: ""
+variant: markdown
 ---
 # **Vendor Contacts**
 
@@ -25,19 +26,21 @@ The bus fares listed below are the maximum fares for each distance cap. Actual b
 
 
 
-### School Uniform – Jeep Sing Fashion ###
+### School Uniform – Magdalene Sewing Centre Pte Ltd ###
 
-Tel: 6074 3163
+Tel: 6293 58400
+WhatsApp only: 8683 6993
+Email: info@magdalene.com.sg
 
-[Website](https://jeepsinguniform.com/)
+[Website](https://www.magdalene.com.sg/)
 
-Puchase of School Uniform and PE attire are now available at Jeep Sing Fashion's online store. 
-[Click here](https://jeepsinguniform.com/collections/pasir-ris-primary-school)
+Puchase of School Uniform and PE attire are now available at Magdalene Sewing Centre's online store. 
+
 
 ### Bookshop - Pacific Bookstores Pte Ltd ###
 
-**Booklist 2023**&nbsp;   
-[Click here for P1 to P6 Booklist](https://drive.google.com/file/d/1q8pi-ohezZWYr01_ylSWIBgBxjKp38Pt/view?usp=share_link)
+**Booklist 2024**&nbsp;   
+[Click here for P1 to P6 Booklist](https://go.gov.sg/booklist2024)
 
 Tel: 6282 5611
 

@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /for-parents/canteenads/
 description: ""
+variant: markdown
 ---
 **School Canteen Advertisement**
 
@@ -9,8 +10,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Cooked Food    | 20 November 2023     | Rice or noodle stalls are acceptable  |
-| Hot Drinks & Snacks    | 20 November 2023     | Hot Drinks, Light Bites and Snacks (Halal)    |
+| Chinese Cooked Food    | 26 January 2024     | Rice or noodle stalls are acceptable  |
+| Hot Drinks & Snacks    | 26 Januray 2024     | Hot Drinks, Light Bites and Snacks (Halal)    |
 
 **Application Procedure**
 
