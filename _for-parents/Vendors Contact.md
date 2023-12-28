@@ -29,12 +29,14 @@ The bus fares listed below are the maximum fares for each distance cap. Actual b
 ### School Uniform – Magdalene Sewing Centre Pte Ltd ###
 
 Tel: 6293 58400
+
 WhatsApp only: 8683 6993
+
 Email: info@magdalene.com.sg
 
 [Website](https://www.magdalene.com.sg/)
 
-Puchase of School Uniform and PE attire are now available at Magdalene Sewing Centre's online store. 
+Purchase of School Uniform and PE attire are now available at Magdalene Sewing Centre's online store. 
 
 
 ### Bookshop - Pacific Bookstores Pte Ltd ###
