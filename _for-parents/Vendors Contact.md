@@ -40,7 +40,7 @@ Puchase of School Uniform and PE attire are now available at Magdalene Sewing Ce
 ### Bookshop - Pacific Bookstores Pte Ltd ###
 
 **Booklist 2024**&nbsp;   
-[Click here for P1 to P6 Booklist](https://drive.google.com/file/d/1q8pi-ohezZWYr01_ylSWIBgBxjKp38Pt/view?usp=share_link)
+[Click here for P1 to P6 Booklist](https://go.gov.sg/booklist2024)
 
 Tel: 6282 5611
 
