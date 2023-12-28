@@ -2,6 +2,7 @@
 title: School EXCO
 permalink: /our-staff/school-management-committee/
 description: ""
+variant: markdown
 ---
 <h1><b>School EXCO</b></h1>
 
@@ -10,7 +11,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Principal   | Mr Tan King Ming    | [prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
+| Principal   | Ms Liza Rahmat    | [prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
 |Vice-Principal (EO)|Mdm Thilagamani d/o Sivanandam|[prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
 |Vice-Principal (EO)|Mdm Heng Wei Shan|[prps@moe.edu.sg](mailto:prps@moe.edu.sg)|
 
@@ -22,10 +23,7 @@ description: ""
 | English     | Mdm Lim Soh Hoon Venetia  | [lim_soh_hoon@schools.gov.sg ](mailto:lim_soh_hoon@schools.gov.sg )  |
 |Mathematics|Mrs Chew Soon Lee Polly|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
 |Science|Mdm Haryana Binte Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
-|Mother Tongue Languages|Mdm Zarina Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
 |Physical Health &amp; Fitness/ CCA|Mr Khairudin Md Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
-|Character &amp; Citizenship Education (CCE)|Mr Tee Leng Teck|[tee_leng_teck@schools.gov.sg](mailto:tee_leng_teck@schools.gov.sg)
-|ICT|Mr Tony Hui|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
 |School Staff Developer|Mdm Joyce Tang|[tang_sok_cheng_joyce@schools.gov.sg](mailto:tang_sok_cheng_joyce@schools.gov.sg)|
 
 <h3>Year Heads/ Assistant Year-Heads</h3>
