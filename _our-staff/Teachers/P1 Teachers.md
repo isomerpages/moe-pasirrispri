@@ -3,6 +3,7 @@ title: P1 Teachers
 permalink: /our-staff/p1-teachers/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 <h1><b>P1 Teachers</b></h1>
 
@@ -10,15 +11,15 @@ third_nav_title: Teachers
 
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
-| P1 Compassion    | Mdm Ang Ying Chuang Angelia    | [ang_ying_chuang_angelia@schools.gov.sg](mailto:ang_ying_chuang_angelia@schools.gov.sg)     |
-| |Mdm Lin Xiuhui|[lin_xiuhui@schools.gov.sg](mailto:lin_xiuhui@schools.gov.sg)|
-|P1 Empathy|Ms Eileen Lim Yee Ling|[eileen_lim_yee_ling@schools.gov.sg](eileen_lim_yee_ling@schools.gov.sg)|
-| |Ms Nur Izzah Binte Mohd Haron|[nur_izzah_mohammed_haron@schools.gov.sg](mailto:nur_izzah_mohammed_haron@schools.gov.sg)|
-|P1 Integrity|Mdm Buvaneshwary Ilangovan|[buvaneshwary_ilangovan@schools.gov.sg](mailto:buvaneshwary_ilangovan@schools.gov.sg)|
-| |Mdm Loh Rita (Mrs Kaan)|[loh_rita@schools.gov.sg](mailto:loh_rita@schools.gov.sg)|
-|P1 Resilience|Mdm Foo Wei Lee Wendy|[foo_wei_lee_wendy@schools.gov.sg](mailto:foo_wei_lee_wendy@schools.gov.sg)|
-| |Mdm Suriani Bte Sabtu|[suriani_sabtu@schools.gov.sg](mailto:suriani_sabtu@schools.gov.sg)|
-|P1 Sincerity|Mdm Siti Fazlinda Bte Ahmad|[siti_fazlinda_ahmad@schools.gov.sg](mailto:siti_fazlinda_ahmad@schools.gov.sg)|
-| |Miss Chan Xiu Jing|[chan_xiu_jing@schools.gov.sg](mailto:chan_xiu_jing@schools.gov.sg)|
-|P1 Tenacity|Mdm Yeo Si Qi Shela (Mrs Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg)|
-| |Mr Muhammad Naqib Bin Asmin |[muhammad_naqib_asmin@schools.gov.sg](mailto:muhammad_naqib_asmin@schools.gov.sg)|
+| P1 Compassion    | Mdm Ardianawati Binte A Rahman    | [ardianawati_abdul_rahman@schools.gov.sg](mailto:ardianawati_abdul_rahman@schools.gov.sg)     |
+| |Mdm Tan Toon Lin Jovis|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
+|P1 Empathy|Mdm Zuraidah Binte Md Tahir|[zuraidah_md_tahir@schools.gov.sg](zuraidah_md_tahir@schools.gov.sg)|
+| |Ms Sarah Yee (Yu Wanxuan)|[sarah_yee@schools.gov.sg](mailto:sarah_yee@schools.gov.sg)|
+|P1 Integrity|Mdm Noraini Bte Niat|[noraini_niat@schools.gov.sg](mailto:noraini_niat@schools.gov.sg)|
+| |Mr Vincent s/o Subramaniam David|[vincent_david@schools.gov.sg](mailto:vincent_david@schools.gov.sg)|
+|P1 Resilience|Mdm Nur’ hazwani Bte Azman|[nurhazwani_azman@schools.gov.sg](mailto:nurhazwani_azman@schools.gov.sg)|
+| |Miss Vanissa Lee Wanling|[vanissa_lee_wanling@schools.gov.sg](mailto:vanissa_lee_wanling@schools.gov.sg)|
+|P1 Sincerity|Mdm Chew Boon Sue Dawn|[chew_boon_sue@schools.gov.sg](mailto:chew_boon_sue@schools.gov.sg)|
+| |Ms Nurul Ameera Zackaria|[nurul_ameera_zackaria@schools.gov.sg](mailto:nurul_ameera_zackaria@schools.gov.sg)|
+|P1 Tenacity|Mrs Fiona Lee|[govinden_fiona_stephanie@schools.gov.sg](mailto:govinden_fiona_stephanie@schools.gov.sg)|
+| |Mdm Maslina Jumari |[maslina_jumari@schools.gov.sg](mailto:maslina_jumari@schools.gov.sg)|
