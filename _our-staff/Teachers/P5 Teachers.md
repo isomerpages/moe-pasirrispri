@@ -3,6 +3,7 @@ title: P5 Teachers
 permalink: /our-staff/p5-teachers/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 <h1><b>P5 Teachers</b></h1>
 
@@ -10,14 +11,13 @@ third_nav_title: Teachers
 
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
-| P5 Compassion     | Mr Tee Leng Teck     | [tee_leng_teck@schools.gov.sg](mailto:tee_leng_teck@schools.gov.sg)  |
-| |Mdm Erlis Binte Abdul Manaf|[erlis_abdul_manaf@schools.gov.sg](mailto:erlis_abdul_manaf@schools.gov.sg)|
-|P5 Empathy|Mdm Toh Wan Ling Karen (Mrs Goh)| [toh_wan_ling@schools.gov.sg](mailto:toh_wan_ling@schools.gov.sg)|
-| |Mr Feisal B Omar Baobed|[feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
-|P5 Resilience|Mr Neo Jia Hao Jackson|[neo_jia_hao@schools.gov.sg](mailto:neo_jia_hao@schools.gov.sg)|
-| |Mdm Yeong Mei Lin Gillian (Mrs Quek)|[gillian_yeong_mei_lin@schools.gov.sg](mailto:gillian_yeong_mei_lin@schools.gov.sg)|
-| |Mdm Noor Farhanah Binte Mohamed Amin|[noor_farhanah_mohamed_amin@schools.gov.sg](mailto:noor_farhanah_mohamed_amin@schools.gov.sg)|
-|P5 Sincerity|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-| |Mdm Lim Li Yin|[lim_li_yin@schools.gov.sg](mailto:lim_li_yin@schools.gov.sg)|
-|P5 Tenacity|Mdm Tang Sok Cheng Joyce|[tang_sok_cheng_joyce@schools.gov.sg](mailto:tang_sok_cheng_joyce@schools.gov.sg)|
-| |Mr Hui Keen Lon, Tony|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
+| P5 Compassion     | Mdm Tan Mei Yee Jill (Mrs Loo)     | [tan_mei_yee@schools.gov.sg](mailto:tan_mei_yee@schools.gov.sg)  |
+| |Mr Khairudin Bin Mohamed Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
+|P5 Empathy|Mdm Yeong Mei Lin Gillian (Mrs Quek)| [gillian_yeong_mei_lin@schools.gov.sg](mailto:gillian_yeong_mei_lin@schools.gov.sg)|
+| |Ms Nurafiqah Binte Ismadi|[nurafiqah_ismadi@schools.gov.sg](mailto:nurafiqah_ismadi@schools.gov.sg)|
+|P5 Resilience|Mdm Lim Soh Hoon Venetia|[lim_soh_hoon@schools.gov.sg](mailto:lim_soh_hoon@schools.gov.sg)|
+| |Mr Muhammad Hidhir Bin Mohd Yazid|[muhammad_hidhir_mohd_yazid@schools.gov.sg](mailto:muhammad_hidhir_mohd_yazid@schools.gov.sg)|
+|P5 Sincerity|Mdm Mok Xiu Wen (Mrs Lim)|[mok_xiuwen@schools.gov.sg](mailto:mok_xiuwen@schools.gov.sg)|
+| |Mdm Yin Yushan|[yin_yushan@schools.gov.sg](mailto:yin_yushan@schools.gov.sg)|
+|P5 Tenacity|Mdm Caroline d/o Kulandeisamy L (Mrs Silva)|[caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)|
+| |Mdm Nur Shiela Binte Muhamad Safinyi|[nur_shiela_muhamad@schools.gov.sg](mailto:nur_shiela_muhamad@schools.gov.sg)|
