@@ -2,6 +2,7 @@
 title: Admin Team
 permalink: /our-people/non-teaching-staff/
 description: ""
+variant: markdown
 ---
 <h3>Admin Team</h3>
 
@@ -9,7 +10,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-|Operations Manager| Mr Chong Kwek Fah|[chong_kwek_fah@schools.gov.sg](mailto:chong_kwek_fah@schools.gov.sg)|
+| Admin Manager| Ms Gan Lai Li|[Gan_Lai_Li@schools.gov.sg](mailto:Gan_Lai_Li@schools.gov.sg)|
 | Operations Manager| Mr Ong Chin Sai|[ong_chin_sai@schools.gov.sg](mailto:ong_chin_sai@schools.gov.sg)|
 |Admin Executive|Mdm Tan Li San|[tan_li_san_A@schools.gov.sg](mailto:tan_li_san_A@schools.gov.sg)|
 |Admin Executive| Mdm Astrid Sim Zheng Ling|[Astrid_Sim_Zheng_Ling@schools.gov.sg](mailto:Astrid_Sim_Zheng_Ling@schools.gov.sg)|
