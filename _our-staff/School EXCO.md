@@ -45,9 +45,8 @@ variant: markdown
 |Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|[chua_siew_ping_sharon@schools.gov.sg](mailto:chua_siew_ping_sharon@schools.gov.sg)|
 |Subject Head (Discipline)|Mr Feisal Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
 |Subject Head (CCE)|Ms Bai Yu| [bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
-|Subject Head (SWB)|Mr Tan Yew Shen, Sebastian|[Tan_YEW_SHEN=SEBASTIAN@schools.gov.sg](mailto:Tan_YEW_SHEN=SEBASTIAN@schools.gov.sg)|
+|Subject Head (SWB)|Mr Tan Yew Shen, Sebastian|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
 |Subject Head (CL)|Mrs Tan Toon Lin Jovis (Mrs Lim)|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
 |Subject Head (ML)|Mdm Zarina bte Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
 |AYH P1&amp;P2|Mdm Nur'Hazwani Azman|[nurhazwani_azman@schools.gov.sg](mailto:nurhazwani_azman@schools.gov.sg)|
 |AYH P3&amp;P4|Ms Nor Hazurah Bte Azhar|[nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)|
-
