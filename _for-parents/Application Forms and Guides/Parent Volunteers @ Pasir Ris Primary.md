@@ -21,6 +21,6 @@ Key Activities to Note:
 | 3    | Notification of Status of Application    | By 14 Jun 2024     |
 | 4    | Volunteer Period    | 24 Jun 2024 to 30 May 2025     |
 
-Complete application form (here:https://go.gov.sg/prpspvapplication)
+Complete application form [here](https://go.gov.sg/prpspvapplication)
 
 For any enquiries please email us at prps@moe.edu.sg
