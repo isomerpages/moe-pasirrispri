@@ -32,7 +32,7 @@ Tel: 6293 58400
 
 WhatsApp only: 8683 6993
 
-Email: [info@magdalene.com.sg](info@magdalene.com.sg)
+Email: [info@magdalene.com.sg](mailto:info@magdalene.com.sg)
 
 Website: [https://www.magdalene.com.sg](https://www.magdalene.com.sg/)
 
