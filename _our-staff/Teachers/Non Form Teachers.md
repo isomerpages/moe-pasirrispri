@@ -17,6 +17,6 @@ variant: markdown
 |Mdm Lim See Moi|[lim_see_moi@schools.gov.sg](mailto:lim_see_moi@schools.gov.sg)|
 |Mdm Choo Lay Kim Elizabeth|[choo_lay_kim_elizabeth@schools.gov.sg](mailto:choo_lay_kim_elizabeth@schools.gov.sg)|
 |Mdm Pushpa Latha Vellu|[pushpa_latha_vellu@schools.gov.sg](mailto:pushpa_latha_vellu@schools.gov.sg)|
-|Mdm Lim Tsui Ning Grace|[lim_tsui_ning@schools.gov.sg](mailto:lim_tsui_ning@schools.gov.sg)|
+|Mdm Lim Tsui Ning Grace|[lim_tsui_ning_a@schools.gov.sg](mailto:lim_tsui_ning_a@schools.gov.sg)|
 |Ms Nur Aiiesyah Binte Barzah|[nur_aiiesyah_barzah@schools.gov.sg](mailto:nur_aiiesyah_barzah@schools.gov.sg)|
 |Mdm Chua Bee Leng Connie|[chua_bee_leng_connie@schools.gov.sg](mailto:chua_bee_leng_connie@schools.gov.sg)|
