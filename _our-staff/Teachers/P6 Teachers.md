@@ -19,6 +19,6 @@ variant: markdown
 |P6 Resilience| Mr Tan Yew Shen, Sebastian Gerard|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
 | |Mdm Noor Farhanah Binte Mohamed Amin|[noor_farhanah_mohamed_amin@schools.gov.sg](mailto:noor_farhanah_mohamed_amin@schools.gov.sg)|
 |P6 Sincerity|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-| |Mrs Chew Soon Lee Polly|[chew_soon_lee@schools.gov.sgg](mailto:chew_soon_lee@schools.gov.sg)|
+| |Mrs Chew Soon Lee Polly|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
 |P6 Tenacity|Mdm Lim Li Yin|[lim_li_yin@schools.gov.sg](mailto:lim_li_yin@schools.gov.sg)|
-| |Mr Hui Keen Lon, Tony|[hui_keen_lon@schools.gov.sgg](mailto:hui_keen_lon@schools.gov.sg)|
+| |Mr Hui Keen Lon, Tony|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
