@@ -17,7 +17,7 @@ variant: markdown
 |P3 Resilience|Mdm Kamariah Othman|[kamariah_othman@schools.gov.sg](mailto:kamariah_othman@schools.gov.sg)|
 | |Mdm Goh Sihui Candice|[goh_sihui_candice@schools.gov.sg](mailto:goh_sihui_candice@schools.gov.sg)|
 |P3 Sincerity|Ms Noor Atiqah Binte Sa’ad Magad|[noor_atiqah_saad_magad@schools.gov.sg](mailto:noor_atiqah_saad_magad@schools.gov.sg)|
-| |Ms Bai Yu|[bai_yu@schools.gov.sg](mailto:noorshirianny_misban@schools.gov.sg)|
+| |Ms Bai Yu|[bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
 |P3 Tenacity|Ms Nor Hazurah Bte Azhar|[nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sgg)|
 ||Mdm Priscilla Lai Sock Khim (Mrs See) |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
 ||Mr Neo Jia Hao Jackson|[neo_jiahao_jackson@schools.gov.sg](mailto:neo_jiahao_jackson)|
