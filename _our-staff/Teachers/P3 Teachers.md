@@ -20,4 +20,4 @@ variant: markdown
 | |Ms Bai Yu|[bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
 |P3 Tenacity|Ms Nor Hazurah Bte Azhar|[nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sgg)|
 ||Mdm Priscilla Lai Sock Khim (Mrs See) |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
-||Mr Neo Jia Hao Jackson|[neo_jia_hao@schools.gov.sg](mailto:nneo_jia_hao@schools.gov.sg)|
+||Mr Neo Jia Hao Jackson|[neo_jia_hao@schools.gov.sg](mailto:neo_jia_hao@schools.gov.sg)|
