@@ -1,0 +1,51 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learn for Life Programme – E3 Sports.md
+      - English Language/.keep
+      - English Language/English Programme.md
+      - English Language/Useful Links.md
+      - Mathematics/.keep
+      - Mathematics/MOE Mathematics Framework.md
+      - Mathematics/Special Programmes.md
+      - Mathematics/Innovations.md
+      - Mathematics/Links.md
+      - Science/.keep
+      - Science/Science Curriculum.md
+      - Science/Science Programmes & Competition.md
+      - Science/Collaboration with Parents.md
+      - Science/Facilities.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese Language Programmes.md
+      - Mother Tongue Languages/Malay Language Programmes.md
+      - Mother Tongue Languages/Tamil Language Programmes.md
+      - PE Art and Music/.keep
+      - PE Art and Music/PE Programmes.md
+      - PE Art and Music/Aesthetics Programmes.md
+      - CCE/.keep
+      - CCE/National Education.md
+      - CCE/Values In Action.md
+      - CCE/Internationalisation.md
+      - CCE/Student Leadership.md
+      - CCE/Values Inculcation Programme.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - CCE/Education Career Guidance (ECG).md
+      - ICT.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Overview 2023.md
+      - Co Curricular Activities (CCA)/ART CLUB.md
+      - Co Curricular Activities (CCA)/CHESS.md
+      - Co Curricular Activities (CCA)/CHOIR.md
+      - Co Curricular Activities (CCA)/CULTURAL DANCE.md
+      - Co Curricular Activities (CCA)/FLOORBALL.md
+      - Co Curricular Activities (CCA)/FOOTBALL.md
+      - Co Curricular Activities (CCA)/GUZHENG ENSEMBLE.md
+      - Co Curricular Activities (CCA)/INFOCOMM.md
+      - Co Curricular Activities (CCA)/NETBALL.md
+      - Co Curricular Activities (CCA)/OUTDOOR ADVENTURE.md
+      - Co Curricular Activities (CCA)/ROPE SKIPPING.md
+      - Co Curricular Activities (CCA)/SPEECH AND DRAMA.md
+      - Co Curricular Activities (CCA)/TAEKWONDO.md
+      - Co Curricular Activities (CCA)/WUSHU.md

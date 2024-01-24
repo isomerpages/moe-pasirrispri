@@ -1,0 +1,10 @@
+collections:
+  pe-art-and-music:
+    output: true
+    order:
+      - Aesthetics Programmes/Aesthetics Programmes.md
+      - Aesthetics Programmes/Arts Exposure Programmes.md
+      - Aesthetics Programmes/Innovation in the Arts.md
+      - Aesthetics Programmes/Visual Arts Programmes.md
+      - Aesthetics Programmes/Music Programmes.md
+      - Aesthetics Programmes/.keep
