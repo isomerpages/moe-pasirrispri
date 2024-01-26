@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - 2024/Letter to Parents.md
-      - 2024/.keep
       - Application Forms and Guides/.keep
       - Application Forms and Guides/P1 Registration.md
       - Application Forms and Guides/Leave of Absence (LOA).md
