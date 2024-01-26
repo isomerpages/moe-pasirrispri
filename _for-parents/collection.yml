@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 2024.md
       - Letter to Parents.md
       - Application Forms and Guides/.keep
       - Application Forms and Guides/P1 Registration.md
