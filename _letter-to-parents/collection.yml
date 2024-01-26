@@ -1,0 +1,4 @@
+collections:
+  letter-to-parents:
+    output: true
+    order: []
