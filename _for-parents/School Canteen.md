@@ -10,8 +10,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Cooked Food    | 26 January 2024     | Rice or noodle stalls are acceptable  |
-| Hot Drinks & Snacks    | 26 Januray 2024     | Hot Drinks, Light Bites and Snacks (Halal)    |
+| Chinese Cooked Food    | 23 February 2024     | Rice or noodle stalls are acceptable  |
+
 
 **Application Procedure**
 
