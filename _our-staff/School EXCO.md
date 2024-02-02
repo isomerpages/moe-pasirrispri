@@ -30,7 +30,7 @@ variant: markdown
 
 |  |  | |
 | -------- | -------- | -------- |
-| YH P1&amp;P2   | Mr Rames s/o Ponpanden    | [rames_ponpanden@schools.gov.sg](mailto:rames_ponpadenr@schools.gov.sg)    |
+| YH P1&amp;P2   | Mr Rames s/o Ponpanden    | [rames_ponpanden@schools.gov.sg](mailto:rames_ponpaden@schools.gov.sg)    |
 | YH P3&amp;P4   | Mdm Edna Lee Xin Fen    | [lee_xin_fen_edna@schools.gov.sg](mailto:lee_xin_find_edna@schools.gov.sg)    |
 |YH P5&amp;P6 |Mdm Lim Swee Moi Jalene (Mrs Chang)|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
 |
