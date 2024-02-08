@@ -33,16 +33,18 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
-<p></p>
 <p><a href="/files/School Matter/Triple_P_P5_and_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting Seminars for Parents</a>
 </p>
 <p><a href="/files/School Matter/LRD_letter_to_parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Red Dot Subscription</a>
+</p>
+<p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
 <p></p>
 <p><strong>Primary 6</strong>
 </p>
-<p></p>
 <p><a href="/files/School Matter/Triple_P_P5_and_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting Seminars for Parents</a>
 </p>
 <p><a href="/files/School Matter/LRD_letter_to_parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Red Dot Subscription</a>
+</p>
+<p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
