@@ -5,14 +5,30 @@ variant: tiptap
 description: ""
 third_nav_title: Parent's Notification
 ---
-<p>Primary 1</p>
+<p><strong>Primary 1</strong>
+</p>
 <p></p>
-<p>Primary 2</p>
 <p></p>
-<p>Primary 3</p>
+<p><strong>Primary 2</strong>
+</p>
 <p></p>
-<p>Primary 4</p>
 <p></p>
-<p>Primary 5</p>
+<p><strong>Primary 3</strong>
+</p>
 <p></p>
-<p>Primary 6</p>
+<p></p>
+<p><strong>Primary 4</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>Primary 5</strong>
+</p>
+<p></p>
+<p><a href="/files/School Matter/Triple_P_P5_and_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting Seminars for Parents</a>
+</p>
+<p></p>
+<p><strong>Primary 6</strong>
+</p>
+<p></p>
+<p><a href="/files/School Matter/Triple_P_P5_and_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting Seminars for Parents</a>
+</p>
