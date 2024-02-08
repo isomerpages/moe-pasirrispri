@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent's Notification/Parent's Notification.md
+      - Parent's Notification/School Matter.md
       - Parent's Notification/.keep
       - Application Forms and Guides/.keep
       - Application Forms and Guides/P1 Registration.md
