@@ -7,11 +7,17 @@ third_nav_title: Parent's Notification
 ---
 <p><strong>Primary 1</strong>
 </p>
-<p></p>
+<p><a href="/files/School Matter/CL_Mag___PG_Notification_2024_SM_004.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
+</p>
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
-<p></p>
+<p><a href="/files/School Matter/CL_Mag___PG_Notification_2024_SM_004.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
+</p>
 <p></p>
 <p><strong>Primary 3</strong>
 </p>
@@ -20,6 +26,10 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/letter_P3_LJ_Zoo_6_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Science Learning Journey to Singapore Zoological Gardens</a>
 </p>
 <p><a href="/files/School Matter/TL_Newspaper_Maanavar_Murasu__Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Reading Programme - Subscription of Maanavar Murasu</a>
+</p>
+<p><a href="/files/School Matter/CL_Mag___PG_Notification_2024_SM_004.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
 </p>
 <p></p>
 <p><strong>Primary 4</strong>
@@ -30,6 +40,10 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/TL_Newspaper_Maanavar_Murasu__Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Reading Programme - Subscription of Maanavar Murasu</a>
 </p>
+<p><a href="/files/School Matter/CL_Mag___PG_Notification_2024_SM_004.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
+</p>
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
@@ -39,6 +53,10 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
+<p><a href="/files/School Matter/CL_Mag___PG_Notification_2024_SM_004.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
+</p>
 <p></p>
 <p><strong>Primary 6</strong>
 </p>
@@ -47,4 +65,8 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/LRD_letter_to_parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Red Dot Subscription</a>
 </p>
 <p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
+</p>
+<p><a href="/files/School Matter/CL_Mag___PG_Notification_2024_SM_004.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
 </p>
