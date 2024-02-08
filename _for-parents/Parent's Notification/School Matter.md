@@ -1,6 +1,6 @@
 ---
 title: School Matter
-permalink: /for-parents/permalink/
+permalink: /for-parents/parents-notification/school-matter/
 variant: tiptap
 description: ""
 third_nav_title: Parent's Notification

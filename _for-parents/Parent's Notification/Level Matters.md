@@ -1,6 +1,6 @@
 ---
 title: Level Matters
-permalink: /for-parents/permalink/
+permalink: /for-parents/parents-notification/level-matter/
 variant: tiptap
 description: ""
 third_nav_title: Parent's Notification
