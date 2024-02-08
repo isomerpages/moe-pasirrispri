@@ -5,8 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Parent's Notification
 ---
+<p><strong>January 2024</strong>
+</p>
+<p><a href="/files/School Matter/January_Letter_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for January 2024</a>
+</p>
 <p></p>
 <p><strong>February 2024</strong>
 </p>
 <p><a href="/files/School Matter/Feb_Letter_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for February 2024</a>
+</p>
+<p><a href="/files/School Matter/ArtsMania_School_Letter_2024__edited_on_6_Feb_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Arts Mania 2024</a>
 </p>
