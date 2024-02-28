@@ -3,19 +3,19 @@ title: PSG EXCO Team
 permalink: /our-partners/PSG/committee/
 description: ""
 third_nav_title: PSG
+variant: markdown
 ---
 # **PSG EXCO Team**
 
-![](/images/2021_PSG-PHOTOS-scaled.jpg)
+![](/images/PSG.png)
 
 
 
 
 | |  | 
 | -------- | -------- | 
-| Chairperson  | Mdm Jasmit Kaur  | 
+| Chairperson  | Mdm June Tangsakul  | 
 |Members|Mdm Suhaila Jamat|
-| |Mdm Linggoe Lioe|
-| |Mdm Doreen Goh|
-| |Mdm Aprajita Sharma|
-| |Mdm Candy Qiu|
+| |Mdm Nur Shila|
+| |Mr Robin Giam|
+| |Mdm Jolean Lim|
