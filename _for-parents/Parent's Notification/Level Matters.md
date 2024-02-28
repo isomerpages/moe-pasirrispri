@@ -30,5 +30,4 @@ third_nav_title: Parent's Notification
 <p><strong>Primary 6</strong>
 </p>
 <p></p>
-<p><a href="/files/School Matter/ML_Mag_Mari_Membaca_P1_P6___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Reading Programme - Subscription of Mari Membaca</a>
-</p>
+<p></p>
