@@ -33,12 +33,16 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
+<p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 - P6 Tamil Reading Programme - Subscription of Sutti Mayil</a>
+</p>
 <p><a href="/files/School Matter/2024_P5_Assessment_Matters__WA1updated2Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Compassion &amp; 5 Empathy Assessment Matters</a>
 </p>
 <p><a href="/files/School Matter/2024_P5_Assessment_Matters__WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Matters</a>
 </p>
 <p></p>
 <p><strong>Primary 6</strong>
+</p>
+<p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 - P6 Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
 <p><a href="/files/School Matter/2024_P6_Assessment_Matters_WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Matters</a>
 </p>
