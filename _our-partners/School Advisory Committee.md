@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 # **School Advisory Committee**
 
@@ -16,7 +17,7 @@ description: ""
 | -------- | -------- | 
 | Chairman   | Ms Teo Jin Heong Doy    |
 |Vice-Chairman| Mr Lee Cher Heng |
-|Secretary| Mr Tan King Ming|
+|Secretary| Ms Liza Rahmat|
 |Members| Mr Henry Chan Chee Meng|
 | | Mr Ong Chee Keong|
 || Ms Esther Chia Li Hwang|
