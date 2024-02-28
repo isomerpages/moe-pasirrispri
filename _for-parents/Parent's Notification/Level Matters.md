@@ -7,11 +7,12 @@ third_nav_title: Parent's Notification
 ---
 <p><strong>Primary 1</strong>
 </p>
-<p></p>
+<p><a href="/files/School Matter/P1_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Assessment Matters</a>
+</p>
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
-<p><a href="/files/School Matter/P2_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Assessment Matters _Semester 1</a>
+<p><a href="/files/School Matter/P2_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Matters</a>
 </p>
 <p></p>
 <p><strong>Primary 3</strong>
@@ -25,12 +26,18 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/TL_Newspaper_Maanavar_Murasu__Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3-P4 Tamil Reading Programme - Subscription of Maanavar Murasu (மாணவர் முரசு)</a>
 </p>
+<p><a href="/files/School Matter/2024_P4_Assessment_Matters__WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Matters</a>
+</p>
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
-<p></p>
+<p><a href="/files/School Matter/2024_P5_Assessment_Matters__WA1updated2Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Compassion &amp; 5 Empathy Assessment Matters</a>
+</p>
+<p><a href="/files/School Matter/2024_P5_Assessment_Matters__WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Matters</a>
+</p>
 <p></p>
 <p><strong>Primary 6</strong>
 </p>
-<p></p>
+<p><a href="/files/School Matter/2024_P6_Assessment_Matters_WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Matters</a>
+</p>
 <p></p>
