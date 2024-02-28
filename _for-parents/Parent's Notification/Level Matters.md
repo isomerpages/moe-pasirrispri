@@ -21,6 +21,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/TL_Newspaper_Maanavar_Murasu__Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3-P4 Tamil Reading Programme - Subscription of Maanavar Murasu (மாணவர் முரசு)</a>
 </p>
+<p><a href="/files/School Matter/2024_P3_Assessment_Matters__WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Matters</a>
+</p>
 <p></p>
 <p><strong>Primary 4</strong>
 </p>
