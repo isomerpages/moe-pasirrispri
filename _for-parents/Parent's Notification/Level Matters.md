@@ -11,7 +11,8 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
-<p></p>
+<p><a href="/files/School Matter/P2_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Assessment Matters _Semester 1</a>
+</p>
 <p></p>
 <p><strong>Primary 3</strong>
 </p>
