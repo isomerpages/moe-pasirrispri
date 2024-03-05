@@ -40,7 +40,7 @@ variant: markdown
 | |  |  |
 | -------- | -------- | -------- |
 | Level Head (English)   | Mdm Suriani Bte Sabtu    | [suriani_sabtu@schools.gov.sg](mailto:suriani_sabtu@schools.gov.sg )   |
-|Level Head (Mathematics)|Mrs Yeo Si Qi Shela (Mrs Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
+|Level Head (Mathematics)|Mdm Yeo Si Qi Shela (Mdm Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
 |Level Head (Science)|Mdm Dawn Tan Ai Ling|[tan_ai_ling_dawn@schools.gov.sg](mailto:tan_ai_ling_dawn@schools.gov.sg)|
 |Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|[chua_siew_ping_sharon@schools.gov.sg](mailto:chua_siew_ping_sharon@schools.gov.sg)|
 |Subject Head (Discipline)|Mr Feisal Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
