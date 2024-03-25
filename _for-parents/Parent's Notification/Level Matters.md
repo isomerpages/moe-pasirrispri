@@ -39,6 +39,10 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/2024_P5_Assessment_Matters__WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Matters</a>
 </p>
+<p><a href="/files/School Matter/PG_Letter_for_Math_Workshops_at_Science_Centre___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Mathematics Workshop at Singapore Science Centre</a>
+</p>
+<p><a href="/files/School Matter/P5_D2C_PG_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">D2C@PRPS- Applied Learning Programme (ALP)</a>
+</p>
 <p></p>
 <p><strong>Primary 6</strong>
 </p>
