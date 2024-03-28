@@ -29,3 +29,7 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/Triple_P_Pri_Sch_L2_Apr_and_May_Runs___Care_Corner_Singapore.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P Level 2 April &amp; May 2024 seminars</a>
 </p>
 <p></p>
+<p><strong>April 2024</strong>
+</p>
+<p><a href="/files/School Matter/April_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for April 2024</a>
+</p>
