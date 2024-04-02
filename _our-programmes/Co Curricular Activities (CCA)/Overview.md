@@ -1,10 +1,10 @@
 ---
-title: Overview 2023
-permalink: /our-programmes/CCA-Programmes/
+title: Overview
+permalink: /our-programmes/cca-programmes/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-
 # **CCA**
 
 ![](/images/Info%20Pic/cca.png)
