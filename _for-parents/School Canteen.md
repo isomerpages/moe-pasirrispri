@@ -10,7 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Cooked Food    | 26 April 2024     | Rice or noodle stalls are acceptable  |
+| Chinese Cooked Food    | 31 May 2024     | Rice or noodle stalls are acceptable  |
 
 
 **Application Procedure**
