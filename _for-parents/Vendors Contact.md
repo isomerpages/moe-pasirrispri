@@ -45,6 +45,7 @@ Purchase of School Uniform and PE attire are now available at Magdalene Sewing C
 [Click here for P1 to P6 Booklist](https://go.gov.sg/booklist2024)
 
 Tel: 6382 6789 ext 122
+
 Operating Day and Hours
 Monday to Friday
 8:00 am to 11:30am, 12:30pm, to 3.00pm
