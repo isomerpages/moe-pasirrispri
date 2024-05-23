@@ -40,6 +40,15 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/May_Letter_to_Parents_Guardians_.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for May 2024</a>
 </p>
+<p><a href="/files/School Matter/Infographic__Fathers_PRPS_.pdf" rel="noopener noreferrer nofollow" target="_blank">Fathers@PRPS: Barista Workshop</a>
+</p>
+<p></p>
+<p><strong>June 2024</strong>
+</p>
+<p><a href="/files/School Matter/June_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">June Letter to Parents/ Guardians</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p><a href="/files/School Matter/SCSA_2024_WhizKid_P3_6_Student_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Sony Creative Science Award 2024 (WhizKid)</a>
 </p>
