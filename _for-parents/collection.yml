@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Group Personal Accident (GPA) Insurance.md
       - Parent's Notification/.keep
       - Parent's Notification/School Matter.md
       - Parent's Notification/Level Matters.md
