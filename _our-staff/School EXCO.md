@@ -32,8 +32,9 @@ variant: markdown
 | -------- | -------- | -------- |
 | YH P1&amp;P2   | Mr Rames s/o Ponpanden    | [rames_ponpanden@schools.gov.sg](mailto:rames_ponpaden@schools.gov.sg)    |
 | YH P3&amp;P4   | Mdm Edna Lee Xin Fen    | [lee_xin_fen_edna@schools.gov.sg](mailto:lee_xin_find_edna@schools.gov.sg)    |
-|YH P5&amp;P6 |Mdm Lim Swee Moi Jalene (Mrs Chang)|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)
-|
+|YH P5&amp;P6 |Mdm Lim Swee Moi Jalene (Mrs Chang)|[lim_swee_moi_jalene@schools.gov.sg](mailto:lim_swee_moi_jalene@schools.gov.sg)|
+|AYH P1&amp;P2|Mdm Nur'Hazwani Azman|[nurhazwani_azman@schools.gov.sg](mailto:nurhazwani_azman@schools.gov.sg)|
+|AYH P3&amp;P4|Ms Nor Hazurah Bte Azhar|[nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)|
 
 <h3>Subject Heads / Level Heads</h3>
 
@@ -48,5 +49,3 @@ variant: markdown
 |Subject Head (SWB)|Mr Tan Yew Shen, Sebastian|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
 |Subject Head (CL)|Mrs Tan Toon Lin Jovis (Mrs Lim)|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
 |Subject Head (ML)|Mdm Zarina bte Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
-|AYH P1&amp;P2|Mdm Nur'Hazwani Azman|[nurhazwani_azman@schools.gov.sg](mailto:nurhazwani_azman@schools.gov.sg)|
-|AYH P3&amp;P4|Ms Nor Hazurah Bte Azhar|[nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sg)|
