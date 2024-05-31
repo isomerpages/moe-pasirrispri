@@ -6,12 +6,12 @@ third_nav_title: Application Forms and Guides
 variant: tiptap
 ---
 <h1><strong>Parent Volunteers @ Pasir Ris Primary</strong></h1>
-<h2><strong>Parent Volunteer Scheme for 2026 Primary 1 Admission</strong></h2>
+<h4><strong>Parent Volunteer Scheme for 2026 Primary 1 Admission</strong></h4>
 <p>Application for Parent Volunteers whose child/children were born between <strong>2 Jan 2019</strong> and <strong>1 Jan 2020</strong> (both
 dates inclusive) is now closed and we will no longer accept new applications.</p>
 <p>For parents who have applied, you will be informed of the outcome by email
 14 Jun 2024.</p>
-<h2><strong>Parent Volunteer Scheme for 2027 Primary 1 Admission</strong></h2>
+<h4><strong>Parent Volunteer Scheme for 2027 Primary 1 Admission</strong></h4>
 <p>Applicant for Parent Volunteers whose child/children were born between <strong>2 Jan 2020</strong> and <strong>1 Jan 2021</strong> (both
 dates inclusive) will be opened from 1 Feb 2025 to 30 Apr 2025. Details
 will be posted on our school websites on 1 Feb 2025.</p>
