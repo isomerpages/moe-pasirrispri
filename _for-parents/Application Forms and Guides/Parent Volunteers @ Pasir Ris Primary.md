@@ -16,7 +16,7 @@ For parents who have applied, you will be informed of the outcome by email 14 Ju
 
 **Parent Volunteer Scheme for 2027 Primary 1 Admission**
 
-Applicant for Parent Volunteers whose child/children were born between **2 Jan 2020** and **1 Jan 2021 **(both dates inclusive) will be opened from 1 Feb 2025 to 30 Apr 2025. Details will be posted on our school websites on 1 Feb 2025. 
+Applicant for Parent Volunteers whose child/children were born between **2 Jan 2020** and **1 Jan 2021** (both dates inclusive) will be opened from 1 Feb 2025 to 30 Apr 2025. Details will be posted on our school websites on 1 Feb 2025. 
 
 **TERMS AND CONDITIONS**
 
