@@ -19,13 +19,13 @@ variant: markdown
 
 [Download Application Form](https://file.go.gov.sg/canteenstall.pdf)
 
-2.  Attached the following documents together with the application form:
+2. Attached the following documents together with the application form:
 
 
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc. 
 
-3.  Submit the completed application form and documents by closing date via email OR to the school's General Office.
+3. Submit the completed application form and documents by closing date via email OR to the school's General Office.
 
 
 
