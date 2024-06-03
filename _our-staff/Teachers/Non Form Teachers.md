@@ -20,3 +20,4 @@ variant: markdown
 |Mdm Lim Tsui Ning Grace|[lim_tsui_ning_a@schools.gov.sg](mailto:lim_tsui_ning_a@schools.gov.sg)|
 |Ms Nur Aiiesyah Binte Barzah|[nur_aiiesyah_barzah@schools.gov.sg](mailto:nur_aiiesyah_barzah@schools.gov.sg)|
 |Mdm Chua Bee Leng Connie|[chua_bee_leng_connie@schools.gov.sg](mailto:chua_bee_leng_connie@schools.gov.sg)|
+|Ms Kaiyisah Amaliana Binte Jaffar|[kaiyisah_amalina_jaffar_a@schools.gov.sg](mailto:kaiyisah_amalina_jaffar_a@schools.gov.sg)|
