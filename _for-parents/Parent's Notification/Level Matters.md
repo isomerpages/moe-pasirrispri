@@ -34,6 +34,10 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/2024_P4_Assessment_Matters_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Matters Term 2</a>
 </p>
+<p><a href="/files/School Matter/letter_P4_D2C_PG_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Applied Learning Programme (ALP): ‘Discover, Dream and Create Possibilities’ (D2C)</a>
+</p>
+<p><a href="/files/School Matter/P4_LJ_to_National_Gallery_2024___PG_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Learning Journey to National Gallery Singapore - Museum Based Learning for Art Education</a>
+</p>
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
@@ -57,5 +61,7 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/2024_P6_Assessment_Matters_WA1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Matters</a>
 </p>
 <p><a href="/files/School Matter/2024_P6_Assessment_Matters_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Matters Term 2</a>
+</p>
+<p><a href="/files/School Matter/Letter_P6_LJ_Mangrove_Swamp_2024_a.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Science Learning Journey to Pasir Ris Mangrove Swamp</a>
 </p>
 <p></p>
