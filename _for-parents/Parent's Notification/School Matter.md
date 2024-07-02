@@ -56,3 +56,5 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/Annex_A_School_Calendar_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar Term 3 2024</a>
 </p>
+<p><a href="/files/School Matter/Positive_Parenting_in_the_21st_Century.pdf" rel="noopener noreferrer nofollow" target="_blank">Positive Parenting in the 21st Century (Mandarin)</a>
+</p>
