@@ -47,8 +47,12 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/June_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">June Letter to Parents/ Guardians</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p><a href="/files/School Matter/SCSA_2024_WhizKid_P3_6_Student_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Sony Creative Science Award 2024 (WhizKid)</a>
+</p>
+<p></p>
+<p><strong>July 2024</strong>
+</p>
+<p><a href="/files/School Matter/July_Letter_to_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">July Letter to Parents/ Guardians</a>
+</p>
+<p><a href="/files/School Matter/Annex_A_School_Calendar_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar Term 3 2024</a>
 </p>
