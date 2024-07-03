@@ -3,6 +3,7 @@ title: Aesthetics Programmes
 permalink: /pe-art-and-music/Aesthetics-Programmes/aesthetics-programmes/
 description: ""
 third_nav_title: Aesthetics Programmes
+variant: markdown
 ---
 # **Aesthetics Programmes**
 
@@ -18,13 +19,3 @@ Our Arts Education engages pupils in experiences that prepare them to be the gen
 
 ![](/images/aesthetics.jpg)
 
-### Art Teachers
-
-*   Mdm Cindy Tan
-*   Ms Tia Amelia
-*   Mdm Angelia Ang
-
-### Music Teachers
-
-*   Ms Chua Siew Ping Sharon
-*   Mdm Toh Shi Min
