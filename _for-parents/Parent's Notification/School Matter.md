@@ -60,3 +60,5 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/Positive_Parenting_in_the_21st_Century.pdf" rel="noopener noreferrer nofollow" target="_blank">Positive Parenting in the 21st Century (Mandarin)</a>
 </p>
+<p><a href="/files/School Matter/School_Letter_for_MTL_Fortnight_P2_to_P6_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Fortnight (Chinese Language) activities for Primary 2 to 6</a>
+</p>
