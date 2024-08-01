@@ -11,10 +11,14 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/School_Letter_for_MTL_Fortnight_P1_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Fortnight (Chinese Language) for Primary 1</a>
 </p>
+<p><a href="/files/School Matter/2024_P1_Assessment_Matters_Sem_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Assesment Matters Semester 2</a>
+</p>
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
 <p><a href="/files/School Matter/P2_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Matters</a>
+</p>
+<p><a href="/files/School Matter/2024_P2_Assessment_Matters_Sem_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P2 Assesment Matters Semester 2</a>
 </p>
 <p></p>
 <p><strong>Primary 3</strong>
