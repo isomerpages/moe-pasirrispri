@@ -64,6 +64,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/Parenting_In_Digital_Age__R10.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting in the Digital Age</a>
 </p>
+<p><a href="/files/School Matter/Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme (GEP) Screening Exercise 2024</a>
+</p>
 <p></p>
 <p><strong>August 2024</strong>
 </p>
