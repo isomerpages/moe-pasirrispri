@@ -23,4 +23,3 @@ variant: markdown
 | |Miss Chan Xiu Jing|[chan_xiu_jing@schools.gov.sg](mailto:chan_xiu_jing@schools.gov.sg)|
 |P2 Tenacity|Mdm Yeo Si Qi Shela (Mrs Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg)|
 | |Mdm Nurul Jannah Binte Rosni|[nurul_jannah_rosni@schools.gov.sg](mailto:nurul_jannah_rosni@schools.gov.sg)|
-| |Mr Muhammad Naqib Bin Asmin|[muhammad_naqib_asmin@schools.gov.sg](mailto:muhammad_naqib_asmin@schools.gov.sg)|
