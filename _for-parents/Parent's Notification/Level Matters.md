@@ -9,6 +9,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/P1_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Assessment Matters</a>
 </p>
+<p><a href="/files/School Matter/School_Letter_for_MTL_Fortnight_P1_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Fortnight (Chinese Language) for Primary 1</a>
+</p>
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
@@ -37,6 +39,8 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/letter_P4_D2C_PG_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Applied Learning Programme (ALP): ‘Discover, Dream and Create Possibilities’ (D2C)</a>
 </p>
 <p><a href="/files/School Matter/P4_LJ_to_National_Gallery_2024___PG_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Learning Journey to National Gallery Singapore - Museum Based Learning for Art Education</a>
+</p>
+<p><a href="/files/School Matter/CPES_P4_MTL_2024_PG_letter_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 CL Cultural Performance Exposure Scheme (CPES)</a>
 </p>
 <p></p>
 <p><strong>Primary 5</strong>
