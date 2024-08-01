@@ -10,7 +10,6 @@ variant: markdown
 | --- | --- | --- |
 | Senior School Counsellor | Mdm Goh Loh Nah Luona | [goh\_loh\_nah\_luona@schools.gov.sg](mailto:goh_loh_nah_luona@schools.gov.sg) |
 | Lead Teacher/ SEN | Mdm Quek Sr Ling | [quek_sr_ling@schools.gov.sg](mailto:quek_sr_ling@schools.gov.sg) |
-| SEN Officers | Ms Wong Si Hui Genevieve | [wong\_si\_hui\_genevieve@schools.gov.sg](mailto:wong_si_hui_genevieve@schools.gov.sg) |
 | SEN Officers | Mdm Na’imah Binte Shamsudin | [naimah\_shamsudin@schools.gov.sg](mailto:naimah_shamsudin@schools.gov.sg) |
 | SEN Officers | Ms Karthiga Ganesan | [Karthiga_Ganesan@schools.gov.sg](mailto:Karthiga_Ganesan@schools.gov.sg) |
 | ICT Manager | Mdm Refine Lubis | [refine\_lubis@schools.gov.sg](mailto:refine_lubis@schools.gov.sg) |

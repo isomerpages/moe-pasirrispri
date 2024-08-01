@@ -11,8 +11,9 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | Operations Manager| Mr Ong Chin Sai|[ong_chin_sai@schools.gov.sg](mailto:ong_chin_sai@schools.gov.sg)|
-|Admin Executive|Mdm Tan Li San|[tan_li_san_A@schools.gov.sg](mailto:tan_li_san_A@schools.gov.sg)|
+|Administration Manager|Mdm Tan Li San|[tan_li_san_A@schools.gov.sg](mailto:tan_li_san_A@schools.gov.sg)|
 |Admin Executive| Mdm Astrid Sim Zheng Ling|[Astrid_Sim_Zheng_Ling@schools.gov.sg](mailto:Astrid_Sim_Zheng_Ling@schools.gov.sg)|
+|Admin Executive| Ms Nur Aiiesyah Binte Barzah|[nur_aiiesyah_barzah@schools.gov.sg](mailto:nur_aiiesyah_barzah@schools.gov.sg)|
 |Admin Officers|Mdm Juliana Abdul Malek|[juliana_abdul_malek@schools.gov.sg](mailto:juliana_abdul_malek@schools.gov.sg)|
 |Admin Officers |Mdm Veronica Lee|[lee_yuit_wah@schools.gov.sg](mailto:lee_yuit_wah@schools.gov.sg)|
 |Operations Support Staff|Ms Norkiah Mohd Said||
