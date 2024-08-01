@@ -21,5 +21,6 @@ variant: markdown
 | |Mdm Foo Wei Lee Wendy|[foo_wei_lee_wendy@schools.gov.sg](mailto:foo_wei_lee_wendy@schools.gov.sg)|
 |P2 Sincerity|Mdm Siti Fazlinda Bte Ahmadi|[siti_fazlinda_ahmad@schools.gov.sg](mailto:siti_fazlinda_ahmad@schools.gov.sg)|
 | |Miss Chan Xiu Jing|[chan_xiu_jing@schools.gov.sg](mailto:chan_xiu_jing@schools.gov.sg)|
+| |Ms Adelia Binte Dahlan|[adelia_dahlan@schools.gov.sg](mailto:adelia_dahlan@schools.gov.sg)|
 |P2 Tenacity|Mdm Yeo Si Qi Shela (Mrs Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg)|
 | |Mdm Nurul Jannah Binte Rosni|[nurul_jannah_rosni@schools.gov.sg](mailto:nurul_jannah_rosni@schools.gov.sg)|
