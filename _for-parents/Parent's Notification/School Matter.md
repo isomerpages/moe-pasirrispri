@@ -62,3 +62,10 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/School_Letter_for_MTL_Fortnight_P2_to_P6_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Fortnight (Chinese Language) activities for Primary 2 to 6</a>
 </p>
+<p><a href="/files/School Matter/Parenting_In_Digital_Age__R10.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting in the Digital Age</a>
+</p>
+<p></p>
+<p><strong>August 2024</strong>
+</p>
+<p><a href="/files/School Matter/August_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">August Letter to Parents/ Guardians</a>
+</p>
