@@ -41,4 +41,4 @@ bring joy and cheer to one and all …
 
 ### School&nbsp;Motto
 
-The motto&nbsp;_**Be Our Best**_&nbsp;urges the school community to give their best to achieve the school core values which are:
+The motto&nbsp;_**Be Our Best**_&nbsp;urges the school community to give their best to achieve the school core values.
