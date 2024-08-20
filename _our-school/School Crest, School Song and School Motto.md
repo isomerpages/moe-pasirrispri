@@ -1,5 +1,5 @@
 ---
-title: School Crest, School Song and School Moto
+title: School Crest, School Song and School Motto
 permalink: /our-school/school-crest-school-song-and-school-moto/
 description: ""
 variant: markdown
@@ -41,4 +41,4 @@ bring joy and cheer to one and all …
 
 ### School&nbsp;Motto
 
-The motto&nbsp;_**Be Our Best**_&nbsp;urges the school community to give their best to achieve the school core values which are:
+The motto&nbsp;_**Be Our Best**_&nbsp;urges the school community to give their best to achieve the school core values.
