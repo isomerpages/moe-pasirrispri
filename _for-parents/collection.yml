@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Bus Advertisement.md
       - Parent's Notification/.keep
       - Parent's Notification/School Matter.md
       - Parent's Notification/Level Matters.md
@@ -16,6 +15,7 @@ collections:
       - Group Personal Accident (GPA) Insurance.md
       - Vendors Contact.md
       - School Canteen Advertisement.md
+      - School Bus Advertisement.md
       - Student Care Centre.md
       - SLS Support for Home based Learning (HBL).md
       - Resources for Parents.md
