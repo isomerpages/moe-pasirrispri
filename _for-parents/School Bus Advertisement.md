@@ -4,14 +4,14 @@ permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""
 ---
-<h3>School  Bus Advertisement</h3>
+<h3>School Bus Advertisement</h3>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p><strong>Service Requirement</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Call_for_Proposals_PRPS_2024___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/1_Call_for_Proposals_PRPS_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 <li>
@@ -27,7 +27,7 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="/files/1_Call_for_Proposals_PRPS_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
+<p>Complete the <a href="/files/Call_for_Proposals_PRPS_2024___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
 Required from Vendor)</p>
 </li>
 <li>
@@ -39,7 +39,7 @@ to the school's General Office
 <br>Email: prps@moe.edu.sg
 <br>Contact Person: Ms Tan Li San</p>
 <p></p>
-<p><strong>How to get there?   </strong>
+<p><strong>How to get there?</strong>
 </p>
 </li>
 </ol>
