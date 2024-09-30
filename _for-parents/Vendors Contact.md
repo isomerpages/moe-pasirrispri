@@ -14,13 +14,13 @@ variant: markdown
 Tel: 9723 1801/ 9007 3126 
 Email: [prpsbus@gmail.com](mailto:prpsbus@gmail.com)
 
-School Bus Fares
+
 
 The bus fares listed below are the maximum fares for each distance cap. Actual bus fares are based on other commercial considerations such as distance, route, number of students on buses and the size of school bus etc.
 
-***Revised bus fares with effect from 1 January 2024:***
+***Period: 1 Jan 2024 to 31 Dec 2027***
 
-![](/images/school%20bus%20table.PNG)
+![](/images/Screenshot_2024_09_30_130455.png)
 
 
 
