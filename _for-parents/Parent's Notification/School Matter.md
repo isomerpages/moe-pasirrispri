@@ -71,3 +71,14 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/August_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">August Letter to Parents/ Guardians</a>
 </p>
+<p></p>
+<p><strong>September 2024</strong>
+</p>
+<p><a href="/files/School Matter/September__Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">September Letter to Parents/ Guardians</a>
+</p>
+<p></p>
+<p><strong>October 2024</strong>
+</p>
+<p><a href="/files/School Matter/October_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">October Letter to Parents/ Guardians</a>
+</p>
+<p></p>
