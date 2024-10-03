@@ -71,10 +71,17 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/August_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">August Letter to Parents/ Guardians</a>
 </p>
-<p></p>
+<p><a href="/files/School Matter/Musical_Box_Workshop_Infographic_Updated.pdf" rel="noopener nofollow" target="_blank">Musical Box Workshop</a>
+</p>
+<p><a href="/files/School Matter/Parent_s_Engagement___2024_Science_Webinar_for_P3_Parents.pdf" rel="noopener nofollow" target="_blank">Parent's Engagement 2024 Science Webinar for P3 Parents</a>
+</p>
 <p><strong>September 2024</strong>
 </p>
 <p><a href="/files/School Matter/September__Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">September Letter to Parents/ Guardians</a>
+</p>
+<p><a href="/files/School Matter/Triple_P_Grandparenting_Seminars__in_Malay_.pdf" rel="noopener nofollow" target="_blank">Triple P Grandparenting Seminars in Malay</a>
+</p>
+<p><a href="/files/School Matter/Triple_P_Grandparenting_Seminars__in_Mandarin_.pdf" rel="noopener nofollow" target="_blank">Triple P Grandparenting Seminars in Mandarin</a>
 </p>
 <p></p>
 <p><strong>October 2024</strong>
