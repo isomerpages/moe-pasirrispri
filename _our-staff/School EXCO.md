@@ -47,5 +47,5 @@ variant: markdown
 |Subject Head (Discipline)|Mr Feisal Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
 |Subject Head (CCE)|Ms Bai Yu| [bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
 |Subject Head (SWB)|Mr Tan Yew Shen, Sebastian|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
-|Subject Head (CL)|Mrs Tan Toon Lin Jovis (Mrs Lim)|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
+|Subject Head (CL)/(TL)|Mrs Tan Toon Lin Jovis (Mrs Lim)|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
 |Subject Head (ML)|Mdm Zarina bte Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
