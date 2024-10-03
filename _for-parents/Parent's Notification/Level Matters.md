@@ -46,6 +46,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/CPES_P4_MTL_2024_PG_letter_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 CL Cultural Performance Exposure Scheme (CPES)</a>
 </p>
+<p><a href="/files/School Matter/P4_LJ_Kg_Buangkok_PG_Letter_2024.pdf" rel="noopener nofollow" target="_blank">P4 Lawatan ke Kampung Buangkok</a>
+</p>
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
