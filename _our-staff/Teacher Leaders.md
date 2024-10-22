@@ -98,7 +98,8 @@ description: Teacher-Leaders
 <p>Mdm Noriani Niat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noraini_niat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_niat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
