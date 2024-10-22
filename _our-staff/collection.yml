@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Example Title.md
       - School EXCO.md
       - Teachers/.keep
       - Teachers/P1 Teachers.md
