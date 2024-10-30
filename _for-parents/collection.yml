@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - PAT & OYEA 2025.md
       - Parent's Notification/.keep
       - Parent's Notification/School Matter.md
       - Parent's Notification/Level Matters.md
+      - PAT & OYEA 2025.md
       - Application Forms and Guides/.keep
       - Application Forms and Guides/P1 Registration.md
       - Application Forms and Guides/Leave of Absence (LOA).md
