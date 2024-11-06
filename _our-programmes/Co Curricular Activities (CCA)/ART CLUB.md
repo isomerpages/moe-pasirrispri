@@ -3,45 +3,262 @@ title: ART CLUB
 permalink: /our-programmes/CCA-Programmes/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-
-# **ART CLUB**
-
-
-
-
-
-|Teachers in Charge | Enquiry Email | 
-| -------- | -------- | 
-|Mdm Ang Ying Chuang Angelia   | ang_ying_chuang_angelia@moe.edu.sg   | 
-|Mdm Nur Umairah Kasmani   | nur_umairah_kasmani@moe.edu.sg   | 
-|Mr Sebastian Tan   | tan_yew_shen_sebastian@schools.gov.sg   | 
-|Mdm Goh Sihui Candice   | goh_sihui_candice@schools.gov.sg   | 
-
-
-
-The Art Club CCA encourages Pasirians to express their creativity in a safe place.  Pupils experience key programmes such as creating sculptures, wire art, clay art, batik painting, digital art, wood mural, cross-stitch and working with mixed media.
-
-Objectives:
-
-*   To nurture an interest in art
-*   To develop creativity, self-expression and critical thinking
-*   To promote team spirit among pupils
-*   To celebrate talents of our pupils in art
-*   To foster a love of art
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yfsth-E01bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-During the 2019 Singapore Youth Festival (SYF) Art Exhibition, several art club members were given the exciting opportunity to participate in the Artist Talk.  The pupils facilitated a wire workshop at The National Museum of Singapore to peers from another primary school.
-
-
-
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">Training Schedule</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Venue</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">All  Group<br><br>(P2 – P6)</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Tuesday<br><br>2.00pm – 3.30pm</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Art Room 1<br><br>Art Room 2<br><br>3 Tenacity Classroom</td></tr></tbody></table>
-
-\*Actual training dates will be informed via PG to parents.
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">Achievements</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">2021</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Singapore Youth Festival (SYF) 2019 Art Exhibition (Cat A) Certificate of Participation<br><br>Singapore Youth Festival (SYF) 2019 Art Exhibition (Cat B) Certificate of Recognition<br><br>Singapore Youth Festival (SYF) 2019 Art Exhibition (Cat C) Certificate of Recognition</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">2019</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Singapore Youth Festival (SYF) 2019 Art Exhibition Certificate of Participation<br><br>Singapore Youth Festival (SYF) 2019 Art Exhibition Certificate of Recognition<br><br>Singapore Youth Festival (SYF) 2019 Artist Talk participation</td></tr></tbody></table>
+<h1><strong>ART CLUB</strong></h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Enquiry Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Ying Chuang Angelia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_ying_chuang_angelia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Umairah Kasmani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_umairah_kasmani@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sebastian Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yew_shen_sebastian@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Sihui Candice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_sihui_candice@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Art Club CCA encourages Pasirians to express their creativity in a
+safe place.&nbsp; Pupils experience key programmes such as creating sculptures,
+wire art, clay art, batik painting, digital art, wood mural, cross-stitch
+and working with mixed media.</p>
+<p>Objectives:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To nurture an interest in art</p>
+</li>
+<li>
+<p>To develop creativity, self-expression and critical thinking</p>
+</li>
+<li>
+<p>To promote team spirit among pupils</p>
+</li>
+<li>
+<p>To celebrate talents of our pupils in art</p>
+</li>
+<li>
+<p>To foster a love of art</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yfsth-E01bE"></iframe>
+</div>
+<p>During the 2019 Singapore Youth Festival (SYF) Art Exhibition, several
+art club members were given the exciting opportunity to participate in
+the Artist Talk.&nbsp; The pupils facilitated a wire workshop at The National
+Museum of Singapore to peers from another primary school.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Achievements</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2019 Art Exhibition (Cat A) Certificate
+of Participation
+<br>
+<br>Singapore Youth Festival (SYF) 2019 Art Exhibition (Cat B) Certificate
+of Recognition
+<br>
+<br>Singapore Youth Festival (SYF) 2019 Art Exhibition (Cat C) Certificate
+of Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2019 Art Exhibition Certificate of Participation
+<br>
+<br>Singapore Youth Festival (SYF) 2019 Art Exhibition Certificate of Recognition
+<br>
+<br>Singapore Youth Festival (SYF) 2019 Artist Talk participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Start/End Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Duration</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 MEP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Development Team (P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Development Team (P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Development Team (P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Development Team (P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF School Team 1 (Cat A - Selected P2s)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.15 pm to 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF School Team 2 (Cat B - Selected P3s/P4s)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays &amp; Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm and 1.15 pm to 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h each</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF School Team 3 (Cat C - Selected P5s/P6s)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays &amp; Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm and 1.15 pm to 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 h each</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
