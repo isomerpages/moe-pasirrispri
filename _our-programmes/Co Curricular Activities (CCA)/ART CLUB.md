@@ -271,17 +271,8 @@ of Recognition</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="4">
+<p>Term 1</p>
 </th>
 </tr>
 <tr>
@@ -289,27 +280,342 @@ of Recognition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*SYF AE (ITQ) 3D Pen Art</p>
+<p><strong>*SYF AE 3D Pen Art</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*SYF AE (ITQ) Augmented Reality</p>
+<p><strong>*SYF AE Augmented Reality</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*SYF AE (ITQ) Mixed Media</p>
+<p><strong>*SYF AE  Mixed Media</strong>
+</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2025 - Mar 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2025 - Mar 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2025- Mar 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>18 X 1.5 h = 27 h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>18 X 1.5 h = 27 h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>18 X 1.5 h = 27 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day/ Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays
+<br>2.15 pm to 3.45 pm</p>
+<p></p>
+<p>Fridays</p>
+<p>1.15 pm to 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays
+<br>2.15 pm to 3.45 pm</p>
+<p></p>
+<p>Fridays</p>
+<p>1.15 pm to 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays
+<br>2.15 pm to 3.45 pm</p>
+<p></p>
+<p>Fridays</p>
+<p>1.15 pm to 2.45 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Target Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Term 2</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Clay Sculpture </strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Graffiti Mural </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Acrylic Painting</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar 2025 - May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar 2025 - May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar 2025 - May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 X 1.5 h = 12 h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 X 1.5 h = 12 h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 X 1.5 h = 12 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day/ Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+<p>2.15 pm to 3.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+<p>2.15 pm to 3.45 pm</p>
+<p>(Concurrent session to look into deployment)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+<p>2.15 pm to 3.45 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Target Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected P4 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Term 3 and 4</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Digital Art (Picture Book Illustration)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June 2025 - October 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 X 1.5 = 12 h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day/ Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+<p>2.15 pm to 3.45 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Target Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4, and P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No. of Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
 </td>
 </tr>
 </tbody>
