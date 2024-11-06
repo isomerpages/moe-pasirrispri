@@ -288,7 +288,7 @@ of Recognition</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>*SYF AE  Mixed Media</strong>
+<p><strong>*SYF AE Mixed Media</strong>
 </p>
 </td>
 </tr>
@@ -425,11 +425,11 @@ of Recognition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Clay Sculpture </strong>
+<p><strong>Clay Sculpture</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Graffiti Mural </strong>
+<p><strong>Graffiti Mural</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
