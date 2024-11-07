@@ -3,8 +3,8 @@ title: Tamil Language Programmes
 permalink: /our-programmes/Mother-Tongue/Tamil-Language-Programmes/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
-
 # **Tamil Language Programmes**
 
 ![](/images/Info%20Pic/tamil.png)
@@ -30,5 +30,3 @@ Pupils have the opportunity to immerse themselves in Indian tradition, understan
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img src="/images/TL-LJ-2-300x225.jpg" alt="Tl Lj 2" width="108" height="81"><br><br><img src="/images/TL-LJ-3-225x300.jpg" alt="Tl Lj 3" width="108" height="144"></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img src="/images/TL-LJ-1.jpg" alt="Tl Lj 1" width="108" height="144"></td></tr></thead></table>
 
-<h3>Useful Links</h3>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img src="/images/01-300x36.png" alt="01" width="231" height="28"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img src="/images/tamilcube-300x69.png" alt="Tamilcube" width="211" height="49"></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">          <a href="http://sangamam.moe.edu.sg/"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">http://sangamam.moe.edu.sg</span></a></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">                     <a href="http://tamilcube.com/"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">http://tamilcube.com</span></a></td></tr></tbody></table>
