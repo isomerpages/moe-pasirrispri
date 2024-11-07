@@ -18,4 +18,3 @@ Mother Tongue Cultural Fortnight is a platform for students to understand and de
 There are different activities planned for each level, for example, Gamelan for Primary 3 students,&nbsp;Silat for Primary 4 students and traditional games for Primary 5 students.
 
 ![](/images/malayprogramme.jpg)
-
