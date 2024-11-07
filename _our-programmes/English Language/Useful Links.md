@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /our-programmes/English-Language/useful-links/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
 # **Useful Links**
 
@@ -14,8 +15,6 @@ third_nav_title: English Language
 ### English Language Website
 
 [http://classicreader.com](http://classicreader.com/)
-
-[http://funbrain.com](http://funbrain.com/)
 
 [http://dictionary.reference.com](http://dictionary.reference.com/)
 
