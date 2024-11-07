@@ -3,6 +3,7 @@ title: Chinese Language Programmes
 permalink: /our-programmes/Mother-Tongue/Chinese-Language-Programmes/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 # **Chinese Language Programmes**
 
@@ -24,5 +25,4 @@ All P3 and P4 students were encouraged to subscribe to a weekly news magazine �
 
 ##### 官方网站
 
-1.  学乐 [https://xuele.moe.edu.sg/xuele/slot/u107/index1.html](https://xuele.moe.edu.sg/xuele/slot/u107/index1.html)
-2.  知识网 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
+知识网 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
