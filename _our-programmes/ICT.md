@@ -2,6 +2,7 @@
 title: ICT
 permalink: /our-programmes/ict/
 description: ""
+variant: markdown
 ---
 <h1><b>ICT</b></h1>
 
@@ -32,18 +33,12 @@ In PRPS, selected students are trained to take on the role of Cyber Wellness Amb
 
 Cyber Wellness Talks are conducted during Assemblies and Life skills lessons are integrated into the curriculum to further guide our students in protecting themselves in the Cyber World.
 
-<img src="/images/WhatsApp-Image-2021-02-10.jpeg" 
-     style="width:50%">
+<img src="/images/WhatsApp-Image-2021-02-10.jpeg" style="width:50%">
 <br>
-<img src="/images/WhatsApp-Image-2021-02-10-1.jpeg" 
-     style="width:50%">
+<img src="/images/WhatsApp-Image-2021-02-10-1.jpeg" style="width:50%">
 <br>
-<img src="/images/WhatsApp-Image-2021-02-10-2.jpeg" 
-     style="width:50%">
+<img src="/images/WhatsApp-Image-2021-02-10-2.jpeg" style="width:50%">
 		 
-Media Literacy Council   
-[https://www.betterinternet.sg/Resources](https://www.betterinternet.sg/Resources)
-
 S.U.R.E by National Library   
 [http://www.nlb.gov.sg/sure/](http://www.nlb.gov.sg/sure/)
 
