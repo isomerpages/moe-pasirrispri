@@ -59,7 +59,25 @@ can hone critical-thinking skills, build resilience and practise teamwork.
 Opportunities to show their social-emotional competencies and the 5 Practice
 of Exemplary Leadership are also weaved into the activities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_08_23.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_08_23__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_08_23__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_09_48.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_09_48__1_.jpg">
+</div>
 <p>Members have enjoyed and learned from various activities such as Dragon-boating,
 Rock-climbing, Inline-skating, Cycling, First-Aid and many other activities
 that will build your confident and resilience.</p>
