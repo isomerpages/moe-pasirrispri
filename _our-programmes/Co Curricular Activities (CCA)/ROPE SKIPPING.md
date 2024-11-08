@@ -184,6 +184,39 @@ to learn new skills to join the CCA.</p>
 <p>Speed Event Individual (Junior Girls and Junior Boys) Bronze</p>
 </td>
 </tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Mixed Team (Senior boys and girls) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Mixed Team (Junior boys and girls) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pair Freestyle (Senior Girls) - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Freestyle (Senior Girls) - 5 th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Freestyle (Senior Boys) - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Double Under (Senior Boys) - 5th</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>We offer training, skill development and exposure to competitive rope
