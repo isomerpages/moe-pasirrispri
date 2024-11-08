@@ -58,6 +58,8 @@ variant: tiptap
 can hone critical-thinking skills, build resilience and practise teamwork.
 Opportunities to show their social-emotional competencies and the 5 Practice
 of Exemplary Leadership are also weaved into the activities.</p>
+<p></p>
+<p></p>
 <p>Members have enjoyed and learned from various activities such as Dragon-boating,
 Rock-climbing, Inline-skating, Cycling, First-Aid and many other activities
 that will build your confident and resilience.</p>
@@ -95,4 +97,4 @@ that will build your confident and resilience.</p>
 </tr>
 </tbody>
 </table>
-<p>*Actual training dates will be informed via PG to parents.</p>
+<p></p>
