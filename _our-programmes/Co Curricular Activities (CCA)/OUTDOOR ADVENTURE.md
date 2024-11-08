@@ -3,29 +3,116 @@ title: OUTDOOR ADVENTURE
 permalink: /our-programmes/cca-programmes/outdoor-adventure/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-
-
-
-
-
-<h1><b>OUTDOOR ADVENTURE</b></h1>
-
-
-
-| Teachers in Charge | Enquiry Email |
-| -------- | -------- | 
-| Mr Neo Jia Hao    | neo_jia_hao@moe.edu.sg   | 
-|Mdm Foo Wei Lee Wendy|foo_wei_lee_wendy@moe.edu.sg|
-|Mr Vincent Subramaniam|vincent_david@schools.gov.sg|
-|Mdm Erlis Abdul Manaf|erlis_abdul_manaf@schools.gov.sg|
-
-
-
-Outdoor Adventure Club hopes to provide learning experiences where members can hone critical-thinking skills, build resilience and practise teamwork. Opportunities to show their social-emotional competencies and the 5 Practice of Exemplary Leadership are also weaved into the activities.
-
-Members have enjoyed and learned from various activities such as Dragon-boating, Rock-climbing, Inline-skating, Cycling, First-Aid and many other activities that will build your confident and resilience.
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">Training Schedule</span></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Venue</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">All Groups<br><br>(P4 – P6)</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Tuesday<br><br>2.00pm – 3.30pm</td><td style="background-color:#E6E6E6;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Visual Learning Space Room</td></tr></tbody></table>
-
-\*Actual training dates will be informed via PG to parents.
+<h1><strong>OUTDOOR ADVENTURE</strong></h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Enquiry Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Wei Lee Wendy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>foo_wei_lee_wendy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vincent_david@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Karen Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>toh_wan_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr H Fayaz Ahamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>h_fayaz-ahamed@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Outdoor Adventure Club hopes to provide learning experiences where members
+can hone critical-thinking skills, build resilience and practise teamwork.
+Opportunities to show their social-emotional competencies and the 5 Practice
+of Exemplary Leadership are also weaved into the activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_08_23.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_08_23__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_08_23__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_09_48.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_11_07_at_14_09_48__1_.jpg">
+</div>
+<p>Members have enjoyed and learned from various activities such as Dragon-boating,
+Rock-climbing, Inline-skating, Cycling, First-Aid and many other activities
+that will build your confident and resilience.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Training Schedule</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All Groups
+<br>
+<br>(P4 – P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>2.10 pm to 3.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual Learning Space Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
