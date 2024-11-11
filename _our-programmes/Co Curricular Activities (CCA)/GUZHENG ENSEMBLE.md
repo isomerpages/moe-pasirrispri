@@ -22,26 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Si Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_si_min@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Buvaneshwary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>buvaneshwary_ilangovan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Xiu Jing</p>
+<p>Miss Chan Xiu Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_xiu_jing@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Peh Lim Suk Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_suk_ching@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -139,6 +131,23 @@ from the piano and harp.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival (SYF) 2018 Arts Presentation – Certificate of
+Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF assessment suspended due to reopening post-pandemic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2018 Arts Presentation - Certificate of
 Distinction</p>
 </td>
 </tr>
