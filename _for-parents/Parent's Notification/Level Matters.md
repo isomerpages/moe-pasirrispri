@@ -20,6 +20,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/2024_P2_Assessment_Matters_Sem_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P2 Assesment Matters Semester 2</a>
 </p>
+<p><a href="/files/School Matter/PG_for_Selected_P2_students_for_P3_HMTL_2024_final_Liza_endorsed.pdf" rel="noopener nofollow" target="_blank">PG for Selected P2 Students for P3 HMTL 2024</a>
+</p>
 <p></p>
 <p><strong>Primary 3</strong>
 </p>
