@@ -23,7 +23,6 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>March 2024</strong>
 </p>
-<p></p>
 <p><a href="/files/School Matter/March_Letter_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for March 2024</a>
 </p>
 <p><a href="/files/School Matter/Triple_P_Pri_Sch_L2_Apr_and_May_Runs___Care_Corner_Singapore.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P Level 2 April &amp; May 2024 seminars</a>
@@ -52,7 +51,7 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>July 2024</strong>
 </p>
-<p><a href="/files/School Matter/July_Letter_to_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">July Letter to Parents/ Guardians</a>
+<p><a href="/files/School Matter/July_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">July Letter to Parents/ Guardians</a>
 </p>
 <p><a href="/files/School Matter/Annex_A_School_Calendar_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar Term 3 2024</a>
 </p>
@@ -77,7 +76,7 @@ third_nav_title: Parent's Notification
 </p>
 <p><strong>September 2024</strong>
 </p>
-<p><a href="/files/School Matter/September__Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">September Letter to Parents/ Guardians</a>
+<p><a href="/files/School Matter/September_Letter_To_Parents.pdf" rel="noopener nofollow" target="_blank">September Letter to Parents/ Guardians</a>
 </p>
 <p><a href="/files/School Matter/Triple_P_Grandparenting_Seminars__in_Malay_.pdf" rel="noopener nofollow" target="_blank">Triple P Grandparenting Seminars in Malay</a>
 </p>
@@ -87,5 +86,10 @@ third_nav_title: Parent's Notification
 <p><strong>October 2024</strong>
 </p>
 <p><a href="/files/School Matter/October_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">October Letter to Parents/ Guardians</a>
+</p>
+<p></p>
+<p><strong>November 2024</strong>
+</p>
+<p><a href="/files/School Matter/November_Letter_to_Parents__Guardians.pdf" rel="noopener nofollow" target="_blank">November Letter to Parents/ Guardians</a>
 </p>
 <p></p>
