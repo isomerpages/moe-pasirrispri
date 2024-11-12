@@ -22,19 +22,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jackson Neo</p>
+<p>Mdm Ardianawati Binte A Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neo_jia_hao@schools.gov.sg</a>
+<p><a href="mailto:ardianawati_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ardianawati_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Farhanah</p>
+<p>Mr Jackson Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noor_farhanah_mohamed_amin@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">neo_jia_hao@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
