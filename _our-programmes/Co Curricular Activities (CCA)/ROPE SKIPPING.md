@@ -67,12 +67,42 @@ to learn new skills to join the CCA.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Achievement</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ouble Dutch Mixed Team (Senior boys and girls) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Mixed Team (Junior boys and girls) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pair Freestyle (Senior Girls) - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Freestyle (Senior Girls) - 5 th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Freestyle (Senior Boys) - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Double Under (Senior Boys) - 5th</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,77 +174,6 @@ to learn new skills to join the CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Speed Event Individual (Junio Girls and Junior Boys) Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><strong>Achievements</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation in National School Games</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Game suspended due to Covid-19</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Speed Event Individual (Junior Girls and Junior Boys) Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Double Dutch Mixed Team (Senior boys and girls) - 1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Double Dutch Mixed Team (Junior boys and girls) - 1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pair Freestyle (Senior Girls) - 4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Individual Freestyle (Senior Girls) - 5 th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Individual Freestyle (Senior Boys) - 5th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Individual Double Under (Senior Boys) - 5th</p>
 </td>
 </tr>
 </tbody>
