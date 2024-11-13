@@ -25,8 +25,7 @@ variant: tiptap
 <p>Mdm Zuraidah Binte Md Tahir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pasirrispri.moe.edu.sg/our-staff/p1-teachers/zuraidah_md_tahir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zuraidah_md_tahir@schools.gov.sg</a>
-</p>
+<p>zuraidah_md_tahir@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
