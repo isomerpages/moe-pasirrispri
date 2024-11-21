@@ -85,15 +85,15 @@ their own learning journey in Infocomm Club.</p>
 <td rowspan="1" colspan="1">
 <p>All Group
 <br>
-<br>(P4 – P6)</p>
+<br>(P3 – P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
 <br>
-<br>2.00pm – 3.30pm</p>
+<br>2.10pm – 3.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab</p>
+<p>Computer Lab / Food Science Lab</p>
 </td>
 </tr>
 </tbody>
