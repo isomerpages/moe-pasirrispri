@@ -29,10 +29,10 @@ variant: tiptap
 <p>Chinese Cooked Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 December 2024</p>
+<p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rice or noodle stalls are acceptable</p>
+<p>Chinese Cuisine (Noodle/ Rice)</p>
 </td>
 </tr>
 </tbody>
