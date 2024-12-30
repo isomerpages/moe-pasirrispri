@@ -44,8 +44,7 @@ variant: markdown
 |Level Head (Mathematics)|Mdm Yeo Si Qi Shela (Mrs Woo)|[yeo_si_qi@schools.gov.sg](mailto:yeo_si_qi@schools.gov.sg )|
 |Level Head (Science)|Mdm Dawn Tan Ai Ling|[tan_ai_ling_dawn@schools.gov.sg](mailto:tan_ai_ling_dawn@schools.gov.sg)|
 |Subject Head (Aesthetics)|Ms Sharon Chua Siew Ping|[chua_siew_ping_sharon@schools.gov.sg](mailto:chua_siew_ping_sharon@schools.gov.sg)|
-|Subject Head (Discipline)|Mr Feisal Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
 |Subject Head (CCE)|Ms Bai Yu| [bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
-|Subject Head (SWB)|Mr Tan Yew Shen, Sebastian|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
+|Subject Head (SWB) &amp; Mgmt|Mr Tan Yew Shen, Sebastian|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
 |Subject Head (CL)/(TL)|Mrs Tan Toon Lin Jovis (Mrs Lim)|[tan_toon_lin@schools.gov.sg](mailto:tan_toon_lin@schools.gov.sg)|
 |Subject Head (ML)|Mdm Zarina bte Hashim|[zarina_hashim@schools.gov.sg](mailto:zarina_hashim@schools.gov.sg)|
