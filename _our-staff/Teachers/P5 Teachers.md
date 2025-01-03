@@ -3,21 +3,159 @@ title: P5 Teachers
 permalink: /our-staff/p5-teachers/
 description: ""
 third_nav_title: Teachers
-variant: markdown
+variant: tiptap
 ---
-<h1><b>P5 Teachers</b></h1>
-
-
-
-| Class | Form Teachers | Email |
-| -------- | -------- | -------- |
-| P5 Compassion     | Mdm Tan Mei Yee Jill (Mrs Loo)     | [tan_mei_yee@schools.gov.sg](mailto:tan_mei_yee@schools.gov.sg)  |
-| |Mr Khairudin Bin Mohamed Hassan|[khairudin_hassan_maricar@schools.gov.sg](mailto:khairudin_hassan_maricar@schools.gov.sg)|
-|P5 Empathy|Mdm Yeong Mei Lin Gillian (Mrs Quek)| [gillian_yeong_mei_lin@schools.gov.sg](mailto:gillian_yeong_mei_lin@schools.gov.sg)|
-| |Ms Nurafiqah Binte Ismadi|[nurafiqah_ismadi@schools.gov.sg](mailto:nurafiqah_ismadi@schools.gov.sg)|
-|P5 Resilience|Mdm Lim Soh Hoon Venetia|[lim_soh_hoon@schools.gov.sg](mailto:lim_soh_hoon@schools.gov.sg)|
-| |Mr Muhammad Hidhir Bin Mohd Yazid|[muhammad_hidhir_mohd_yazid@schools.gov.sg](mailto:muhammad_hidhir_mohd_yazid@schools.gov.sg)|
-|P5 Sincerity|Mdm Mok Xiu Wen (Mrs Lim)|[mok_xiuwen@schools.gov.sg](mailto:mok_xiuwen@schools.gov.sg)|
-| |Mdm Yin Yushan|[yin_yushan@schools.gov.sg](mailto:yin_yushan@schools.gov.sg)|
-|P5 Tenacity|Mdm Caroline d/o Kulandeisamy L (Mrs Silva)|[caroline_kulandeisamy_l@schools.gov.sg](mailto:caroline_kulandeisamy_l@schools.gov.sg)|
-| |Mdm Nur Shiela Binte Muhamad Safinyi|[nur_shiela_muhamad@schools.gov.sg](mailto:nur_shiela_muhamad@schools.gov.sg)|
+<h1><strong>P5 Teachers</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Sapiee Bin Moh Sabar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamad_sapiee_mohamad_sabar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_sapiee_mohamad_sabar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Li Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_li_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_yin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Wan Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_wan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wan_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khairudin Bin Moh Hassan Maricar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairudin_hassan_maricar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairudin_hassan_maricar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryana Bte Md Isahak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:haryana_mohd_isahak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haryana_mohd_isahak@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Jia Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_jia_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_jia_hao@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zarina Bte Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zarina_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zarina_hashim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jaspal Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Jaspal_Kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jaspal_Kaur@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hui Keen Lon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hui_keen_lon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_keen_lon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Tenacity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Poh Kai Wen Gladwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Poh_Kai_Wen_Gladwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Poh_Kai_Wen_Gladwin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kaiyisah Amaliana Bte Jafar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kaiyisah_Amalina_Jaffar_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kaiyisah_Amalina_Jaffar_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
