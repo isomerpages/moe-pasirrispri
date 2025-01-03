@@ -3,22 +3,162 @@ title: P6 Teachers
 permalink: /our-people/p6-teacchers/
 description: ""
 third_nav_title: Teachers
-variant: markdown
+variant: tiptap
 ---
-<h1><b>P6 Teachers</b></h1>
+<h1><strong>P6 Teachers</strong></h1>
+<p>
 <br>
-
-
-
-| Class | Form Teachers | Email|
-| -------- | -------- | -------- |
-| P6 Compassion   | Mr Jespal Singh Mann    | [jespal_singh_mann@schools.gov.sg](mailto:jespal_singh_mann@schools.gov.sg)    |
-| |Mdm Haryana Binte Md Isahak|[haryana_mohd_isahak@schools.gov.sg](mailto:haryana_mohd_isahak@schools.gov.sg)|
-|P6 Empathy|Mdm Toh Wan Ling Karen (Mrs Goh)|[toh_wan_ling@schools.gov.sg](mailto:toh_wan_ling@schools.gov.sg)|
-| | Mr Feisal B Omar Baobed| [feisal_omar_baobed@schools.gov.sg](mailto:feisal_omar_baobed@schools.gov.sg)|
-|P6 Resilience| Mr Tan Yew Shen, Sebastian Gerard|[tan_yew_shen_sebastian@schools.gov.sg](mailto:tan_yew_shen_sebastian@schools.gov.sg)|
-| |Mdm Noor Farhanah Binte Mohamed Amin|[noor_farhanah_mohamed_amin@schools.gov.sg](mailto:noor_farhanah_mohamed_amin@schools.gov.sg)|
-|P6 Sincerity|Mdm Jaspal Kaur|[jaspal_kaur@schools.gov.sg](mailto:jaspal_kaur@schools.gov.sg)|
-| |Mrs Chew Soon Lee Polly|[chew_soon_lee@schools.gov.sg](mailto:chew_soon_lee@schools.gov.sg)|
-|P6 Tenacity|Mdm Lim Li Yin|[lim_li_yin@schools.gov.sg](mailto:lim_li_yin@schools.gov.sg)|
-| |Mr Hui Keen Lon, Tony|[hui_keen_lon@schools.gov.sg](mailto:hui_keen_lon@schools.gov.sg)|
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Mei Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mei_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Sok Cheng Joyce</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_sok_cheng_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_sok_cheng_joyce@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurafiqah Binte Ismadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurafiqah_ismadi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafiqah_ismadi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeong Mei Lin Gillian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gillian_yeong_mei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gillian_yeong_mei_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Swee Moi Jalene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_swee_moi_jalene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_moi_jalene@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Soh Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_soh_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soh_hoon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chew Soon Lee Polly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_soon_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_soon_lee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mok Xiuwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mok_xiuwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_xiuwen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yin Yushan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="yin_yushan@schools.gov.sg" rel="noopener nofollow" target="_blank">yin_yushan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Tenacity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Caroline d/o Kulandeisamy Lawrence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:caroline_kulandeisamy_l@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_kulandeisamy_l@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Bai Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bai_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_yu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
