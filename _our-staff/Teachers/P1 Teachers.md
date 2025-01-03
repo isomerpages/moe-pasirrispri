@@ -113,10 +113,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Vanissa Lee Wanling</p>
+<p>Miss Eileen Lim Yee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vanissa_lee_wanling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanissa_lee_wanling@schools.gov.sg</a>
+<p><a href="mailto:Eileen_Lim_Yee_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eileen_Lim_Yee_Ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -125,10 +125,10 @@ variant: tiptap
 <p>P1 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Boon Sue Dawn</p>
+<p>Mrs Yeo Choon Kuan Nee Tan P L</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_boon_sue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_boon_sue@schools.gov.sg</a>
+<p><a href="mailto:yeo_choon_kuan_jennie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_kuan_jennie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -137,10 +137,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Ameera Zackaria</p>
+<p>Mdm Noor Farhanah Bte Moh Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_ameera_zackaria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ameera_zackaria@schools.gov.sg</a>
+<p><a href="mailto:noor_farhanah_mohamed_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_farhanah_mohamed_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,10 +149,10 @@ variant: tiptap
 <p>P1 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Fiona Lee</p>
+<p>Mdm Suriani Bte Sabtu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:govinden_fiona_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">govinden_fiona_stephanie@schools.gov.sg</a>
+<p><a href="mailto:suriani_sabtu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_sabtu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -161,10 +161,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maslina Jumari</p>
+<p>Mdm Nur Shiela Bte Muh Safinyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maslina_jumari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslina_jumari@schools.gov.sg</a>
+<p><a href="mailto:nur_shiela_muhamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shiela_muhamad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
