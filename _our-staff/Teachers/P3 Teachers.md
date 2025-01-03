@@ -3,21 +3,147 @@ title: P3 Teachers
 permalink: /our-staff/p3-teachers/
 description: ""
 third_nav_title: Teachers
-variant: markdown
+variant: tiptap
 ---
-<h1><b>P3 Teachers</b></h1>
-
-
-| Class | Form Teachers | Email |
-| -------- | -------- | -------- |
-| P3 Compassion   | Mr H Fayaz Ahamed   | [h_fayaz_ahamed@schools.gov.sg](mailto:h_fayaz_ahamed@schools.gov.sg)    |
-| |Mrs Sylvia Pereira|[sylvia_pereira@schools.gov.sg](mailto:sylvia_pereira@schools.gov.sg)|
-|P3 Empathy|Mr Abdul Manaf Bin Mohamed|[manaf_mohd@schools.gov.sg](mailto:manaf_mohd@schools.gov.sg)|
-| |Mdm Yeo Ya Wen (Mrs Vai)|[yeo_ya_wen@schools.gov.sg](mailto:yeo_ya_wen@schools.gov.sg)|
-|P3 Resilience|Mdm Kamariah Othman|[kamariah_othman@schools.gov.sg](mailto:kamariah_othman@schools.gov.sg)|
-| |Mdm Goh Sihui Candice|[goh_sihui_candice@schools.gov.sg](mailto:goh_sihui_candice@schools.gov.sg)|
-|P3 Sincerity|Ms Noor Atiqah Binte Sa’ad Magad|[noor_atiqah_saad_magad@schools.gov.sg](mailto:noor_atiqah_saad_magad@schools.gov.sg)|
-| |Ms Bai Yu|[bai_yu@schools.gov.sg](mailto:bai_yu@schools.gov.sg)|
-|P3 Tenacity|Ms Nor Hazurah Bte Azhar|[nor_hazurah_mohamed_azhar@schools.gov.sg](mailto:nor_hazurah_mohamed_azhar@schools.gov.sgg)|
-||Mdm Priscilla Lai Sock Khim (Mrs See) |[lai_sock_khim@schools.gov.sg](mailto:lai_sock_khim@schools.gov.sg)|
-||Mr Neo Jia Hao Jackson|[neo_jia_hao@schools.gov.sg](mailto:neo_jia_hao@schools.gov.sg)|
+<h1><strong>P3 Teachers</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Si Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_si_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_si_qi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Md Nurul Jannah Bte Rosni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_jannah_rosni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_jannah_rosni@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nor Hazurah Bte Moh Azhar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nor_hazurah_mohamed_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hazurah_mohamed_azhar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ai Ling Dawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ai_ling_dawn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_ling_dawn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chan Xiu Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_xiu_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xiu_jing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jespal Singh Mann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jespal_singh_mann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jespal_singh_mann@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorshirianny Bte Misban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noorshirianny_misban@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorshirianny_misban@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Suk Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lim_Suk_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Suk_Ching@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Tenacity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Xiuhui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_xiuhui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xiuhui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yew Shen, Sebastian Gerard</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_YEW_SHEN_SEBASTIAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_YEW_SHEN_SEBASTIAN@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
