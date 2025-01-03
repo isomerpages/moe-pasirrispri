@@ -102,36 +102,6 @@ description: Teacher-Leaders
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EdTech Planning Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EdTech Champ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Foo Wei Lee Wendy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_wei_lee_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wei_lee_wendy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EdTech Planning Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noorshirianny Misban</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noorshirianny_misban@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorshirianny_misban@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
