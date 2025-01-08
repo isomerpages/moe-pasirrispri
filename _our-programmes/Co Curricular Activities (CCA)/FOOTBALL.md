@@ -52,6 +52,14 @@ variant: tiptap
 <p>jespal_singh_mann@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr H Fayaz Ahamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>H_Fayaz_Ahamed@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Pasir Ris Primary Football focuses on the holistic development of our
@@ -109,10 +117,10 @@ and aspirations of our pupils.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team (1)</p>
+<p>Developmental Team (1) P4-P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday (P4-P6)</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 pm to 4.00 pm</p>
@@ -123,10 +131,10 @@ and aspirations of our pupils.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team (2)</p>
+<p>Developmental Team (2) P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday (P3)</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 pm to 4.00 pm</p>
