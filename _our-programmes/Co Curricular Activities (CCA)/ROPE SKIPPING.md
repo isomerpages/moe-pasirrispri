@@ -30,10 +30,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yin Yushan</p>
+<p>Mdm Kamariah Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yin_yushan@moe.edu.sg</p>
+<p>kamariah_othman@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -180,9 +180,8 @@ to learn new skills to join the CCA.</p>
 </table>
 <p>We offer training, skill development and exposure to competitive rope
 skipping activities on National platforms.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -198,9 +197,6 @@ skipping activities on National platforms.</p>
 <th rowspan="1" colspan="1">
 <p>Start &amp; End Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Duration</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -212,13 +208,23 @@ skipping activities on National platforms.</p>
 <td rowspan="1" colspan="1">
 <p>2.10 pm to 3.40 pm</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>1.5h</p>
+<p>Developmental Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10 pm to 3.40 pm
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior School Team</p>
+<p>Junior/Senior School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
@@ -227,27 +233,6 @@ skipping activities on National platforms.</p>
 <td rowspan="1" colspan="1">
 <p>2.10 pm to 3.40 pm
 <br>1.20 pm to 2.40 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h
-<br>1.5h</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior School Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday
-<br>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 3.40 pm
-<br>1.20 pm to 2.4- pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h
-<br>1.5h</p>
 </td>
 </tr>
 </tbody>
