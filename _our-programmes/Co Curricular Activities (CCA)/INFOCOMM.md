@@ -90,10 +90,10 @@ their own learning journey in Infocomm Club.</p>
 <td rowspan="1" colspan="1">
 <p>Tuesday
 <br>
-<br>2.10pm – 3.40pm</p>
+<br>2.10pm – 4.10pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab / Food Science Lab</p>
+<p>Computer Lab</p>
 </td>
 </tr>
 </tbody>
