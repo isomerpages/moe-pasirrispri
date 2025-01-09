@@ -81,7 +81,7 @@ their teachers, peers and instructors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>All Group</p>
+<p>P2 MEP</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Tuesday 2.10 p.m. - 3.40 p.m.</p>
