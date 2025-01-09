@@ -3,12 +3,8 @@ title: WUSHU
 permalink: /our-programmes/cca-programmes/wushu/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
-
-
-
-
-
 # **WUSHU**
 
 
@@ -26,7 +22,7 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Wushu is considered a “performing sport”, consisting elements that are characteristic to both the sports and performing arts. Wushu is derived from Chinese martial arts and it teaches “Wu De”（武德）, which is the martial code of conduct. Learners and practitioners of Wushu are expected to display excellence in their moral character and to uphold integrity and moral courage at all times.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jSY7e_5h9NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSY7e_5h9NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Wushu improves one’s flexibility, speed, strength, coordination and endurance. It also instils discipline and respect for others and for oneself. Unlike any other contact sport, Wushu is considered relatively safe due to its performance nature.
 
@@ -48,7 +44,7 @@ CCA Wushu Objectives:
 Potential students will have the opportunity to participate in:
 
 *   Wushu National School Gamesl Championships
-*   School & Public Performances – e.g. Chinese New Year Concert, Performance for visiting guests & at cultural events etc.
+*   School &amp; Public Performances – e.g. Chinese New Year Concert, Performance for visiting guests &amp; at cultural events etc.
 *   Wushu Exchanges with Other Schools
 
 
