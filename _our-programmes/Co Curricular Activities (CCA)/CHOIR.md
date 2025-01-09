@@ -84,7 +84,7 @@ their teachers, peers and instructors.</p>
 <p>P2 MEP</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Tuesday 2.10 p.m. - 3.40 p.m.</p>
+<p>Tuesday 2.10 pm - 3.40 pm</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Music Room</p>
