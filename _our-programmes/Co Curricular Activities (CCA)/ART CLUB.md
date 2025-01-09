@@ -22,34 +22,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Ying Chuang Angelia</p>
+<p>Mdm Nur Shiela Bte Muhamad Safinyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_ying_chuang_angelia@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Umairah Kasmani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nur_umairah_kasmani@moe.edu.sg</p>
+<p>nur_shiela_muhamad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sebastian Tan</p>
+<p>Ms Chua Siew Ping Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yew_shen_sebastian@schools.gov.sg</p>
+<p>chua_siew_ping_sharon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Sihui Candice</p>
+<p>Mdm Goh Sihui, Candice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_sihui_candice@schools.gov.sg</p>
+<p>Goh_Sihui_Candice@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Umairah Bte Kasmani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_umairah_kasmani@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurfitriyah Bte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Yanti Bte Zain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -125,9 +141,8 @@ of Recognition</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -138,13 +153,10 @@ of Recognition</p>
 <p>CCA Group</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Day</p>
+<p>Day &amp; Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Start/End Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Duration</p>
+<p>Venue</p>
 </th>
 </tr>
 <tr>
@@ -152,69 +164,18 @@ of Recognition</p>
 <p>P2 MEP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Tuesday 2.15 pm to 3.45 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<td rowspan="5" colspan="1">
+<p>Art Room 1 &amp; 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Development Team (P3)</p>
+<p>Development Group (P3-P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Development Team (P4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Development Team (P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Development Team (P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<p>Tuesday 2.15 pm to 3.45 pm</p>
 </td>
 </tr>
 <tr>
@@ -222,13 +183,7 @@ of Recognition</p>
 <p>SYF School Team 1 (Cat A - Selected P2s)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fridays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.15 pm to 2.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<p>Tuesday 2.15 pm to 3.45 pm</p>
 </td>
 </tr>
 <tr>
@@ -236,13 +191,8 @@ of Recognition</p>
 <p>SYF School Team 2 (Cat B - Selected P3s/P4s)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays &amp; Fridays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm and 1.15 pm to 2.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h each</p>
+<p>Tuesday 2.15 pm to 3.45 pm
+<br>Friday 1.20 pm - 2.50 pm</p>
 </td>
 </tr>
 <tr>
@@ -250,13 +200,8 @@ of Recognition</p>
 <p>SYF School Team 3 (Cat C - Selected P5s/P6s)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays &amp; Fridays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 pm to 3.45 pm and 1.15 pm to 2.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h each</p>
+<p>Tuesday 2.15 pm to 3.45 pm</p>
+<p>Friday 1.20pm - 2.50 pm</p>
 </td>
 </tr>
 </tbody>
