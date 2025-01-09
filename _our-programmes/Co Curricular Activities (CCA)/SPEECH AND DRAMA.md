@@ -30,10 +30,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Shi Min</p>
+<p>Mdm Jaspal Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_shi_min@moe.edu.sg</p>
+<p>Jaspal_Kaur@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -78,7 +78,7 @@ school.</p>
 <td rowspan="1" colspan="1">
 <p>Tuesday
 <br>
-<br>2.10pm – 4.10pm</p>
+<br>2.10pm – 3.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library</p>

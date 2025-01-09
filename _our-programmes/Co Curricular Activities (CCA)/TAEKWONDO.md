@@ -22,6 +22,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Lim Li Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_li_yin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Sylvia Pereira</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,18 +38,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maslina Jumari</p>
+<p>Mrs Maslina Binte Jumari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maslina_jumari@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zuraidah Tahir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zuraidah_tahir@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -128,17 +128,27 @@ would have gained many benefits such as:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Modular Experience &amp; Development Group
+<p>P2 Modular Experience &amp; Development Group
 <br>
-<br>(P2 – P6)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
-<br>
-<br>2.10pm – 3.40pm</p>
+<p>Tuesday 2.10pm – 3.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PAL Room</p>
+<p>PAL Room 1 &amp; 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Developmental Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday 2.10pm - 3.40pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL Room 1 &amp; 2</p>
 </td>
 </tr>
 <tr>
@@ -146,14 +156,12 @@ would have gained many benefits such as:</p>
 <p>Junior &amp; Senior School Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday &amp; Thursday
-<br>2.10 pm - 4.10 pm</p>
-<p></p>
-<p>Friday
-<br>1.10 pm - 2.40 pm</p>
+<p>Tuesday 2.10pm - 4.10pm
+<br>Thursday 2.10 pm - 4.10 pm</p>
+<p>Friday 1.15pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PAL Room</p>
+<p>PAL Room 1 &amp; 2</p>
 </td>
 </tr>
 </tbody>

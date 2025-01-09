@@ -30,10 +30,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Jannah Rosni</p>
+<p>Mdm Buvaneshwary D/O Ilangovan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurul_jannah_rosni@moe.edu.sg</p>
+<p>buvaneshwary_ilangovan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sarah_yee@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -108,9 +116,8 @@ Distinction.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -121,70 +128,31 @@ Distinction.</p>
 <p>CCA Group</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Day</p>
+<p>Day &amp; Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Start &amp; End Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Duration</p>
+<p>Venue</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P2 MEP</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tue</p>
+<td rowspan="3" colspan="1">
+<p>Tue 2.10 pm to 3.40 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 3.40 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<td rowspan="3" colspan="1">
+<p>Music Room 1 &amp; 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior School Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 3.40 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<p>Developmental Team</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior School Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 3.40 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Competition/ Performances</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue &amp; Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 4.10 pm</p>
-<p>1.20 pm to 3.20 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 h</p>
+<p>SYF Team</p>
 </td>
 </tr>
 </tbody>

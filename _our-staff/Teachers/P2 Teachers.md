@@ -29,7 +29,7 @@ variant: tiptap
 <p>P2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Toon Lin</p>
+<p>Mrs Jovis Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_toon_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_toon_lin@schools.gov.sg</a>

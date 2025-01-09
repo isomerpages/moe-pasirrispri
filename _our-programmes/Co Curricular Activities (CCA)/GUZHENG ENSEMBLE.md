@@ -36,6 +36,14 @@ variant: tiptap
 <p>lim_suk_ching@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ai Ling Dawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ai_ling_dawn@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>The Guzheng ensemble aims to inculcate in students the school values and
@@ -153,9 +161,8 @@ Distinction</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -166,13 +173,10 @@ Distinction</p>
 <p>CCA Group</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Day</p>
+<p>Day &amp; Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Start &amp; End Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Duration</p>
+<p>Venue</p>
 </th>
 </tr>
 <tr>
@@ -180,13 +184,10 @@ Distinction</p>
 <p>P2 MEP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Tuesday 2.10 pm to 3.40 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 3.40 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
+<td rowspan="3" colspan="1">
+<p>Band Room</p>
 </td>
 </tr>
 <tr>
@@ -194,27 +195,15 @@ Distinction</p>
 <p>Developmental Team (1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.20 pm to 2.50 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
+<p>Friday 1.20 pm to 2.50 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior School Team</p>
+<p>SYF Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm to 4.40 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
+<p>Tuesday 2.10 pm to 4.10 pm</p>
 </td>
 </tr>
 </tbody>
