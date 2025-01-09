@@ -46,26 +46,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Miss Adelia Binte Dahlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_izzah_mohammed_haron@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Eileen Lim Yee Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>eileen_lim_yee_ling@schools.gov.sg</p>
+<p>Adelia_Dahlan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gladwin Poh Kai Wen</p>
+<p>Mdm Tan Mei Yee Jill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_kai_wen_gladwin@schools.gov.sg</p>
+<p>tan_mei_yee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Si Qi Shela</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_si_qi@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -114,54 +114,39 @@ and responsible leaders, compassionate and confident Pasirians.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Modular Experience Programme
-<br>
-<br>(P2)</p>
+<p>Modular Experience Programme (P2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday
+<p>Monday 2.00pm - 3.30pm
 <br>
-<br>2.00pm – 3.30pm</p>
+<br>
+</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Indoor Sports Hall (ISH) Level 4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Development Group
+<p>Development Team (1)
 <br>
-<br>(P3 – P6)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Friday 2.00pm - 5.00pm
 <br>
-<br>2.00pm – 3.30pm,
-<br>3.30pm-5.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Junior Team
-<br>
-<br>(P4 &amp; P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday and Thursday
-<br>
-<br>2.00pm – 5.00pm</p>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Senior Team
-<br>
-<br>(P6)</p>
+<p>School Junior Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday and Thursday
 <br>
-<br>2.00 – 5.00pm</p>
+<br>2.10pm – 5.00pm</p>
 </td>
 </tr>
 </tbody>
