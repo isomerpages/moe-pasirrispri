@@ -30,14 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>vincent_david@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Karen Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,10 +38,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr H Fayaz Ahamed</p>
+<p>Mdm Nurul Jannah Binte Rosni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>h_fayaz-ahamed@schools.gov.sg</p>
+<p>nurul_janah_rosni@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Shi Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>toh_shi_min@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yin Yushan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yin_yushan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
