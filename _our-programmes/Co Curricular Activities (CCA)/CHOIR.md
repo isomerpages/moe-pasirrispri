@@ -83,10 +83,10 @@ their teachers, peers and instructors.</p>
 <td rowspan="1" colspan="1">
 <p>All Group</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Tuesday 2.10 p.m. - 3.40 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Music Room</p>
 </td>
 </tr>
@@ -94,22 +94,10 @@ their teachers, peers and instructors.</p>
 <td rowspan="1" colspan="1">
 <p>Developmental Team</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tuesday 2.10 p.m - 3.40 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Room</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>SYF Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday 2.10 p.m. - 3.40 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Room</p>
 </td>
 </tr>
 </tbody>
