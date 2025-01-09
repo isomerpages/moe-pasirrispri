@@ -81,17 +81,35 @@ their teachers, peers and instructors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>All Group
-<br>
-<br>(P2 – P6)</p>
+<p>All Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
-<br>
-<br>2.10pm – 4.10pm</p>
+<p>Tuesday 2.10 p.m. - 3.40 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio (Choir Room)</p>
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Developmental Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday 2.10 p.m - 3.40 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday 2.10 p.m. - 3.40 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
 </td>
 </tr>
 </tbody>
