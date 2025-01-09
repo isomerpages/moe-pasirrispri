@@ -22,26 +22,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Goh</p>
+<p>Mr Muhammad Hidhir Bin Mohd Yazid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_wan_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Xiu Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mok_xiuwen@moe.edu.sg</p>
+<p>muhammad_hidhir_mohd_yazid@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sarah Yee</p>
+<p>Mdm Noor Farhanah Binte Mohamed Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sarah_yee@schools.gov.sg</p>
+<p>noor_farhanah_mohamed_amin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Caroline d/o Kulandeisamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>caroline_kulandeisamy_l@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -75,9 +75,8 @@ character building</p>
 <p>Players who show great teamwork, commitment and consistent performance
 will be selected to represent the school and participate in annual national
 school games and various netball carnivals.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -93,9 +92,6 @@ school games and various netball carnivals.</p>
 <th rowspan="1" colspan="1">
 <p>Start &amp; End Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Duration</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,55 +101,31 @@ school games and various netball carnivals.</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.10 pm to 3.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<p>2.10 pm to 3.40 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team</p>
+<p>Developmental Team (1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.20 pm to 2.45 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<p>1.20 pm to 2.50 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior School Team</p>
+<p>Junior/ Senior School Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Tuesday
+<br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(w/o MEP)
-<br>2.10 pm to 3.30 pm
-<br>(w MEP)
-<br>3 pm to 4.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior School Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.45 pm to 4.15 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5 h</p>
+<p>2.10 pm to 4.30 pm
+<br>2.45 pm to 4.15 pm</p>
 </td>
 </tr>
 </tbody>
