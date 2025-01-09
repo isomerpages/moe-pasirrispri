@@ -98,7 +98,7 @@ and aspirations of our pupils.</p>
 <p>Start &amp; End Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Duration</p>
+<p>Venue</p>
 </th>
 </tr>
 <tr>
@@ -111,8 +111,8 @@ and aspirations of our pupils.</p>
 <td rowspan="1" colspan="1">
 <p>2.30 pm to 4.00 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
+<td rowspan="5" colspan="1">
+<p>Field</p>
 </td>
 </tr>
 <tr>
@@ -125,9 +125,6 @@ and aspirations of our pupils.</p>
 <td rowspan="1" colspan="1">
 <p>2.30 pm to 4.00 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,9 +135,6 @@ and aspirations of our pupils.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 pm to 4.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
 </td>
 </tr>
 <tr>
@@ -153,9 +147,6 @@ and aspirations of our pupils.</p>
 <td rowspan="1" colspan="1">
 <p>4.00 pm to 5.30 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -166,9 +157,6 @@ and aspirations of our pupils.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.00 pm to 5.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.5h</p>
 </td>
 </tr>
 </tbody>
