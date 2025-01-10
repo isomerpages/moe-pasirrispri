@@ -56,6 +56,9 @@ cardiovascular fitness, agility and fitness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ropeskipping%204.jpeg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_01_06_at_7_13_43_AM.jpg">
+</div>
 <p>Most importantly, students build a strong foundation to establish a healthy
 lifestyle and discover their potential as they shine and excel in their
 own way. We welcome any students who have the passion and determination
@@ -76,7 +79,7 @@ to learn new skills to join the CCA.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ouble Dutch Mixed Team (Senior boys and girls) - 1st</p>
+<p>Double Dutch Mixed Team (Senior boys and girls) - 1st</p>
 </td>
 </tr>
 <tr>
@@ -211,20 +214,20 @@ skipping activities on National platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team</p>
+<p>Junior School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.10 pm to 3.40 pm
-<br>
-</p>
+<br>2.10 pm to 3.40 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior/Senior School Team</p>
+<p>Senior School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
@@ -232,7 +235,7 @@ skipping activities on National platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.10 pm to 3.40 pm
-<br>1.20 pm to 2.40 pm</p>
+<br>2.10 pm to 3.40 pm</p>
 </td>
 </tr>
 </tbody>
