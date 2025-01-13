@@ -18,9 +18,9 @@ variant: tiptap
 </p>
 <p><a href="http://www.roalddahl.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.roalddahl.com</a>
 </p>
-<h3>Student's E-Publication</h3>
-<p><a href="https://heyzine.com/flip-book/e59d8f9093.html" rel="noopener nofollow" target="_blank">2023 Publication</a>
+<h3>Student's Kaleidoscope</h3>
+<p><a href="https://go.gov.sg/kaleidoscope2023" rel="noopener nofollow" target="_blank">Kaleidoscope 2023</a>
 </p>
-<p><a href="https://heyzine.com/flip-book/2d1030dd04.html" rel="noopener nofollow" target="_blank">2024 Publication</a>
+<p><a href="https://go.gov.sg/kaleidoscope2024" rel="noopener nofollow" target="_blank">Kaleidoscope 2024</a>
 </p>
 <p></p>
