@@ -36,7 +36,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF PASIR RIS PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF PASIR RIS PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
