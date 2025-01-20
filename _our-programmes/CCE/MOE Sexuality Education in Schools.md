@@ -68,8 +68,25 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>At Pasir Ris Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p6 page 1.png">
+</div>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
