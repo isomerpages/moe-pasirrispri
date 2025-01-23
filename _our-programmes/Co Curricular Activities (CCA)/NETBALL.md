@@ -72,6 +72,26 @@ character building</p>
 <p>generate a lifelong enjoyment of sport and physical activity</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/6325853328378019558__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/6325853328378019546__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/6325853328378019542__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/6325853328378019545__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/6325853328378019538__1_.jpg">
+</div>
 <p>Players who show great teamwork, commitment and consistent performance
 will be selected to represent the school and participate in annual national
 school games and various netball carnivals.</p>
@@ -95,39 +115,45 @@ school games and various netball carnivals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 MEP</p>
+<p>P2 MEP &amp; P3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.10 pm to 3.40 pm</p>
+<p>2.10 pm to 3.30 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team (1)</p>
+<p>Developmental Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.20 pm to 2.50 pm</p>
+<p>2.10 pm to 3.30 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior/ Senior School Team</p>
+<p>School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
 <br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.10 pm to 4.30 pm
-<br>2.45 pm to 4.15 pm</p>
+<p>2.10 pm to 3.30 pm
+<br>3.00 pm to 4.30 pm</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Milestone 2024:</strong><br>Seniors</h4>
+<p>1) Promotion to Tier 1
+<br>2) Retained their position in Tier 1 for 2025</p>
+<h4>Juniors</h4>
+<p>1) Promotion to Tier 2
+<br>2) Retained their position in Tier 2 for 2025</p>
 <p></p>
