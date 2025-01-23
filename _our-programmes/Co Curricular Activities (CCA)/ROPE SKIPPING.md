@@ -225,7 +225,7 @@ skipping activities on National platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior School Team</p>
+<p>Junior and Senior School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
