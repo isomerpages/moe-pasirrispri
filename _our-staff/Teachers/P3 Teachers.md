@@ -29,7 +29,7 @@ variant: tiptap
 <p>P3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Si Qi</p>
+<p>Mdm Yeo Si Qi Shela (Mrs Woo)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_si_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_si_qi@schools.gov.sg</a>
