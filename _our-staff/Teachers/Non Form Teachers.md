@@ -109,15 +109,17 @@ variant: tiptap
 <p>Mdm Kwan Wai Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="kwan_hai_han@schools.gov.sg" rel="noopener nofollow" target="_blank">kwan_hai_han@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Yanti Bte Zain</p>
+<p>Mdm Sri Yanti Bte Zainal Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="sri_yanti_zainal_abidin@schools.gov.sg" rel="noopener nofollow" target="_blank">sri_yanti_zainal_abidin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +127,8 @@ variant: tiptap
 <p>Miss Nurfitriah Bte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="nurfitriah_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">nurfitriah_abdul_rahman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
