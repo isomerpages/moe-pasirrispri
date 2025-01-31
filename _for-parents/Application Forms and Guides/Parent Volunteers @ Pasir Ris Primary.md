@@ -6,7 +6,7 @@ third_nav_title: Application Forms and Guides
 variant: tiptap
 ---
 <h1><strong>Parent Volunteers @ Pasir Ris Primary</strong></h1>
-<h4><strong>Parent Volunteer Scheme </strong></h4>
+<h4><strong>Parent Volunteer Scheme</strong></h4>
 <p>We are accepting application for Parent Volunteers whose child/ children
 were born between 2 Jan 2020 and 1 Jan 2021.</p>
 <p>Key activities to Note:</p>
@@ -85,7 +85,7 @@ were born between 2 Jan 2020 and 1 Jan 2021.</p>
 </tr>
 </tbody>
 </table>
-<p>complete application form <a href="https://form.gov.sg/665976f12a8af072bc7f5c0f" rel="noopener nofollow" target="_blank">here</a>
+<p>Complete application form <a href="https://form.gov.sg/665976f12a8af072bc7f5c0f" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>For any enquiries, please email us at <a href="prps@moe.edu.sg" rel="noopener nofollow" target="_blank">prps@moe.edu.sg</a>
 </p>
