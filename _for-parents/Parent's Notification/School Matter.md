@@ -5,6 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Parent's Notification
 ---
+<p><strong>January 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/2025_January_Letter_to_Parents___Guardians.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for January 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/CL_Mag___PG_Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Chinese Reading Programme - Subscription of Magazines and eZhishi Portal</a>
+</p>
+<p></p>
+<p><strong>February 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/Feb_Letter_to_Parent.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for February 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/2025_Teacher_Awards.pdf" rel="noopener nofollow" target="_blank">2025 Teachers Award</a>
+</p>
+<p></p>
+<hr>
 <p><strong>January 2024</strong>
 </p>
 <p><a href="/files/School Matter/January_Letter_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for January 2024</a>

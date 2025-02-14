@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Parent's Notification
 ---
-<p><strong>Primary 1</strong>
+<h4><strong>PRIMARY 1</strong></h4>
+<p><strong>Year 2024</strong>
 </p>
 <p><a href="/files/School Matter/P1_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Assessment Matters</a>
 </p>
@@ -13,8 +14,9 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/2024_P1_Assessment_Matters_Sem_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Assesment Matters Semester 2</a>
 </p>
-<p></p>
-<p><strong>Primary 2</strong>
+<hr>
+<h4><strong>PRIMARY 2</strong></h4>
+<p><strong>Year 2024</strong>
 </p>
 <p><a href="/files/School Matter/P2_Assessment_Matters__Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Matters</a>
 </p>
@@ -22,8 +24,9 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/PG_for_Selected_P2_students_for_P3_HMTL_2024_final_Liza_endorsed.pdf" rel="noopener nofollow" target="_blank">PG for Selected P2 Students for P3 HMTL 2024</a>
 </p>
-<p></p>
-<p><strong>Primary 3</strong>
+<hr>
+<h4><strong>PRIMARY 3</strong></h4>
+<p><strong>Year 2024</strong>
 </p>
 <p><a href="/files/School Matter/letter_P3_LJ_Zoo_6_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Science Learning Journey to Singapore Zoological Gardens</a>
 </p>
@@ -33,8 +36,14 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/2024_P3_Assessment_Matters_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Matters Term 2</a>
 </p>
-<p></p>
-<p><strong>Primary 4</strong>
+<hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/letter_P3_LJ_Zoo_4_Feb_2025.pdf" rel="noopener nofollow" target="_blank">P3 Learning Journey to Zoo</a>
+</p>
+<hr>
+<h4><strong>PRIMARY 4</strong></h4>
+<p><strong>Year 2024</strong>
 </p>
 <p><a href="/files/School Matter/TL_Newspaper_Maanavar_Murasu__Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3-P4 Tamil Reading Programme - Subscription of Maanavar Murasu (மாணவர் முரசு)</a>
 </p>
@@ -50,8 +59,14 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/P4_LJ_Kg_Buangkok_PG_Letter_2024.pdf" rel="noopener nofollow" target="_blank">P4 Lawatan ke Kampung Buangkok</a>
 </p>
-<p></p>
-<p><strong>Primary 5</strong>
+<hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/Letter_to_Parent__for_E2K_Selection__P4_Science___2_.pdf" rel="noopener nofollow" target="_blank">E2K Science Selection for Primary 4</a>
+</p>
+<hr>
+<h4><strong>PRIMARY 5</strong></h4>
+<p><strong>Year 2024</strong>
 </p>
 <p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 - P6 Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
@@ -65,8 +80,18 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/2024_P5_Assessment_Matters_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Matters Term 2</a>
 </p>
-<p></p>
-<p><strong>Primary 6</strong>
+<hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/P5_E2K_Science_Letter_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">E2K Science Selection for Primary 5</a>
+</p>
+<p><a href="/files/Parents Notice 2025/letter_P5_D2C_PG_2025_final.pdf" rel="noopener nofollow" target="_blank">Primary 5 D2C 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/TL_Mag__Sutti_Mayil___Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
+</p>
+<hr>
+<h4><strong>PRIMARY 6</strong></h4>
+<p><strong>Year 2024</strong>
 </p>
 <p><a href="/files/School Matter/TL_Mag__Sutti_Mayil___Letter_to_Parent_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 - P6 Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
@@ -76,4 +101,13 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/Letter_P6_LJ_Mangrove_Swamp_2024_a.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Science Learning Journey to Pasir Ris Mangrove Swamp</a>
 </p>
+<hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/letter_P6_D2C_PG_2025_final.pdf" rel="noopener nofollow" target="_blank">Primary 6 D2C 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/TL_Mag__Sutti_Mayil___Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
+</p>
+<hr>
+<p></p>
 <p></p>
