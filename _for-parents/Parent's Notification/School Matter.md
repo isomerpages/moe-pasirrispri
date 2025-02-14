@@ -14,7 +14,7 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/Feb_Letter_to_Parent.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for February 2025</a>
 </p>
-<p><a href="/files/Parents Notice 2025/2025_Teacher_Awards.pdf" rel="noopener nofollow" target="_blank">2025 Teachers Award </a>
+<p><a href="/files/Parents Notice 2025/2025_Teacher_Awards.pdf" rel="noopener nofollow" target="_blank">2025 Teachers Award</a>
 </p>
 <p></p>
 <hr>
