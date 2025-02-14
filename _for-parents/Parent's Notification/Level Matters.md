@@ -64,6 +64,11 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/P4_LJ_Kg_Buangkok_PG_Letter_2024.pdf" rel="noopener nofollow" target="_blank">P4 Lawatan ke Kampung Buangkok</a>
 </p>
 <hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/Letter_to_Parent__for_E2K_Selection__P4_Science___2_.pdf" rel="noopener nofollow" target="_blank">E2K Science Selection for Primary 4</a>
+</p>
+<hr>
 <p><strong>PRIMARY 5</strong>
 </p>
 <p><strong>Year 2024</strong>
@@ -81,6 +86,13 @@ third_nav_title: Parent's Notification
 <p><a href="/files/School Matter/2024_P5_Assessment_Matters_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Matters Term 2</a>
 </p>
 <hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/P5_E2K_Science_Letter_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">E2K Science Selection for Primary 5</a>
+</p>
+<p><a href="/files/Parents Notice 2025/letter_P5_D2C_PG_2025_final.pdf" rel="noopener nofollow" target="_blank">Primary 5 D2C 2025</a>
+</p>
+<hr>
 <p><strong>PRIMARY 6</strong>
 </p>
 <p><strong>Year 2024</strong>
@@ -93,4 +105,11 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/Letter_P6_LJ_Mangrove_Swamp_2024_a.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Science Learning Journey to Pasir Ris Mangrove Swamp</a>
 </p>
+<hr>
+<p><strong>Year 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/letter_P6_D2C_PG_2025_final.pdf" rel="noopener nofollow" target="_blank">Primary 6 D2C 2025</a>
+</p>
+<hr>
+<p></p>
 <p></p>
