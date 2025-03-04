@@ -19,6 +19,12 @@ third_nav_title: Parent's Notification
 <p><a href="/files/Parents Notice 2025/2025_Teacher_Awards.pdf" rel="noopener nofollow" target="_blank">2025 Teachers Award</a>
 </p>
 <p></p>
+<p><strong>March 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/March_Letter_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for March 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/Annex_A_School_Calendar_Term_2_2025.pdf" rel="noopener nofollow" target="_blank">School Calendar Term 2 2025</a>
+</p>
 <hr>
 <p><strong>January 2024</strong>
 </p>
