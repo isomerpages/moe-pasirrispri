@@ -2,6 +2,7 @@
 title: Student Care Centre
 permalink: /for-parents/student-care-centre/
 description: ""
+variant: markdown
 ---
 # **Student Care Centre**
 
@@ -11,4 +12,4 @@ Our school-based SCC provides support for students who can benefit from a struct
 
 Please note that there are limited vacancies available and priority will be given to our Lower Primary students with higher needs.
 
-If you have further queries, email us at [**scc\_prps@moe.edu.sg**](mailto:scc_prps@moe.edu.sg)
+If you have further queries, email us at [**prps@moe.edu.sg**](mailto:prps@moe.edu.sg)
