@@ -72,10 +72,10 @@ themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 1.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/CCESED.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/p5 page 3.png">
 </div>
