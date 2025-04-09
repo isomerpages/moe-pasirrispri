@@ -25,6 +25,15 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/Annex_A_School_Calendar_Term_2_2025.pdf" rel="noopener nofollow" target="_blank">School Calendar Term 2 2025</a>
 </p>
+<p></p>
+<p><strong>April 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/April_Letter_to_Parents__1_.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for April 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/SCC_email.pdf" rel="noopener nofollow" target="_blank">Change on SCC email address</a>
+</p>
+<p><a href="/files/Parents Notice 2025/SCSA_2025.pdf" rel="noopener nofollow" target="_blank">SCSA 2025 Junior Whizkid P1 &amp; P2</a>
+</p>
 <hr>
 <p><strong>January 2024</strong>
 </p>
