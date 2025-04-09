@@ -34,6 +34,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/SCSA_2025.pdf" rel="noopener nofollow" target="_blank">SCSA 2025 Junior Whizkid P1 &amp; P2</a>
 </p>
+<p><a href="/files/Parents Notice 2025/SCSA_2025_p3_p6.pdf" rel="noopener nofollow" target="_blank">SCSA 2025 WhizKid P3 to P6</a>
+</p>
 <hr>
 <p><strong>January 2024</strong>
 </p>
