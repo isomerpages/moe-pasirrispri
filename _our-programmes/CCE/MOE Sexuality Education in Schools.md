@@ -82,6 +82,9 @@ themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/image_4.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/image_6.png">
+</div>
 <p></p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
