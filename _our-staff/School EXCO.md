@@ -182,7 +182,7 @@ variant: tiptap
 <p>Mdm Edna Lee Xin Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_xin_find_edna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xin_fen_edna@schools.gov.sg</a>
+<p><a href="mailto:lee_xin_fin_edna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xin_fen_edna@schools.gov.sg</a>
 </p>
 </td>
 </tr>
