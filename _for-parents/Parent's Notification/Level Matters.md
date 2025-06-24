@@ -93,6 +93,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/TL_Mag__Sutti_Mayil___Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
+<p><a href="/files/Parents Notice 2025/P5_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P5 Young Scientist Badge Scheme</a>
+</p>
 <hr>
 <h4><strong>PRIMARY 6</strong></h4>
 <p><strong>Year 2024</strong>
