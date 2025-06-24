@@ -36,6 +36,24 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/SCSA_2025_p3_p6.pdf" rel="noopener nofollow" target="_blank">SCSA 2025 WhizKid P3 to P6</a>
 </p>
+<p><a href="/files/Parents Notice 2025/School_Letter_for_MTL_Fortnight__Chinese__P1_P6_final.pdf" rel="noopener nofollow" target="_blank">Mother Tongue Fortnight (Chinese Language) activities</a>
+</p>
+<p><a href="/files/Parents Notice 2025/School_Arrangements_for_Eve_of_Polling_Day_and_Designated_Day_Off_in_lieu.pdf" rel="noopener nofollow" target="_blank">School Arrangements for Eve of Polling Day and Designated Day Off-in-lieu</a>
+</p>
+<p><strong>May 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/May_Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">May Letter to Parents/ Guardians</a>
+</p>
+<p><a href="/files/Parents Notice 2025/Chocolate_Making_Workshop_updated_2nd.pdf" rel="noopener nofollow" target="_blank">Fathers@PRPS: Chocolate Appreciation Workshop</a>
+</p>
+<p><a href="/files/Parents Notice 2025/PG_for_P4_Cultural_Camp__Chinese__2025_final.pdf" rel="noopener nofollow" target="_blank">P4 Cultural Camp (CL)</a>
+</p>
+<p><a href="/files/Parents Notice 2025/End_of_Semester_Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">End of Semester 1 Letter to Parents/Guardians</a>
+</p>
+<p><a href="/files/Parents Notice 2025/Triple_P___Parenting_Experience_Questionnaire__PEQ__for_P2_P6_Parents.pdf" rel="noopener nofollow" target="_blank">Triple P – Parenting Experience Questionnaire (PEQ) for P2&amp;P6 Parents</a>
+</p>
+<p><a href="/files/Parents Notice 2025/Letter___Triple_P_Seminar.pdf" rel="noopener nofollow" target="_blank">Triple P Parenting Seminars in July</a>
+</p>
 <hr>
 <p><strong>January 2024</strong>
 </p>
