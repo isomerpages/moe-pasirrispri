@@ -41,6 +41,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/letter_P3_LJ_Zoo_4_Feb_2025.pdf" rel="noopener nofollow" target="_blank">P3 Learning Journey to Zoo</a>
 </p>
+<p><a href="/files/Parents Notice 2025/P3_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P3 Young Scientist Badge Scheme (YSBS)</a>
+</p>
 <hr>
 <h4><strong>PRIMARY 4</strong></h4>
 <p><strong>Year 2024</strong>
@@ -63,6 +65,8 @@ third_nav_title: Parent's Notification
 <p><strong>Year 2025</strong>
 </p>
 <p><a href="/files/Parents Notice 2025/Letter_to_Parent__for_E2K_Selection__P4_Science___2_.pdf" rel="noopener nofollow" target="_blank">E2K Science Selection for Primary 4</a>
+</p>
+<p><a href="/files/Parents Notice 2025/P4_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P4 Young Scientist Badge Scheme (YSBS)</a>
 </p>
 <hr>
 <h4><strong>PRIMARY 5</strong></h4>
@@ -89,6 +93,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/TL_Mag__Sutti_Mayil___Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
+<p><a href="/files/Parents Notice 2025/P5_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P5 Young Scientist Badge Scheme</a>
+</p>
 <hr>
 <h4><strong>PRIMARY 6</strong></h4>
 <p><strong>Year 2024</strong>
@@ -106,8 +112,9 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/letter_P6_D2C_PG_2025_final.pdf" rel="noopener nofollow" target="_blank">Primary 6 D2C 2025</a>
 </p>
+<p><a href="/files/Parents Notice 2025/P6_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P6 Young Scientist Badge Scheme (YSBS)</a>
+</p>
 <p><a href="/files/Parents Notice 2025/TL_Mag__Sutti_Mayil___Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
 <hr>
-<p></p>
 <p></p>
