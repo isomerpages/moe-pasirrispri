@@ -112,8 +112,9 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/letter_P6_D2C_PG_2025_final.pdf" rel="noopener nofollow" target="_blank">Primary 6 D2C 2025</a>
 </p>
+<p><a href="/files/Parents Notice 2025/P6_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P6 Young Scientist Badge Scheme (YSBS)</a>
+</p>
 <p><a href="/files/Parents Notice 2025/TL_Mag__Sutti_Mayil___Letter_to_Parent_2025_final.pdf" rel="noopener nofollow" target="_blank">Tamil Reading Programme - Subscription of Sutti Mayil</a>
 </p>
 <hr>
-<p></p>
 <p></p>
