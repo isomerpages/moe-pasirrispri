@@ -41,6 +41,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/letter_P3_LJ_Zoo_4_Feb_2025.pdf" rel="noopener nofollow" target="_blank">P3 Learning Journey to Zoo</a>
 </p>
+<p><a href="/files/Parents Notice 2025/P3_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P3 Young Scientist Badge Scheme (YSBS)</a>
+</p>
 <hr>
 <h4><strong>PRIMARY 4</strong></h4>
 <p><strong>Year 2024</strong>
@@ -63,6 +65,8 @@ third_nav_title: Parent's Notification
 <p><strong>Year 2025</strong>
 </p>
 <p><a href="/files/Parents Notice 2025/Letter_to_Parent__for_E2K_Selection__P4_Science___2_.pdf" rel="noopener nofollow" target="_blank">E2K Science Selection for Primary 4</a>
+</p>
+<p><a href="/files/Parents Notice 2025/P4_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P4 Young Scientist Badge Scheme (YSBS)</a>
 </p>
 <hr>
 <h4><strong>PRIMARY 5</strong></h4>
