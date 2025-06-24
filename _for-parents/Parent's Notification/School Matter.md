@@ -54,6 +54,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/Letter___Triple_P_Seminar.pdf" rel="noopener nofollow" target="_blank">Triple P Parenting Seminars in July</a>
 </p>
+<p><a href="/files/Parents Notice 2025/TTR1_Love_Languages_Poster___9_May_2025.pdf" rel="noopener nofollow" target="_blank">Parenting Talk Series - Love Languages</a>
+</p>
 <hr>
 <p><strong>January 2024</strong>
 </p>
