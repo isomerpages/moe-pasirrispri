@@ -40,6 +40,7 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/School_Arrangements_for_Eve_of_Polling_Day_and_Designated_Day_Off_in_lieu.pdf" rel="noopener nofollow" target="_blank">School Arrangements for Eve of Polling Day and Designated Day Off-in-lieu</a>
 </p>
+<p></p>
 <p><strong>May 2025</strong>
 </p>
 <p><a href="/files/Parents Notice 2025/May_Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">May Letter to Parents/ Guardians</a>
@@ -56,6 +57,13 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/TTR1_Love_Languages_Poster___9_May_2025.pdf" rel="noopener nofollow" target="_blank">Parenting Talk Series - Love Languages</a>
 </p>
+<p></p>
+<p><strong>July 2025</strong>
+</p>
+<p><a href="/files/Parents Notice 2025/July_Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">July Letter to Parents/ Guardians</a>
+</p>
+<p></p>
+<p></p>
 <hr>
 <p><strong>January 2024</strong>
 </p>
