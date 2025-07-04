@@ -35,6 +35,17 @@ variant: tiptap
 <p>Chinese Cuisine (Noodle/ Rice)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal Cuisine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 December 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noodle/ Rice</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Application Procedure</strong>
