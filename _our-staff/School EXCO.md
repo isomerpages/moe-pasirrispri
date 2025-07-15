@@ -339,6 +339,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (PE &amp; CCA)(Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Ya Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_ya_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ya_wen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
