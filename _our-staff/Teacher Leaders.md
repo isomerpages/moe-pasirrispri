@@ -87,21 +87,6 @@ description: Teacher-Leaders
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Language (Acting)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Umairah Bte Kasmani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_umairah_kasmani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_umairah_kasmani@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
