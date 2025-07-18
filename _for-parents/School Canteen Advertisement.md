@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 <p>1.Download and complete the application form. You may also request for
 a hard-copy from the School's General office.</p>
-<p><a href="https://file.go.gov.sg/canteenstall.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Application Form</a>
+<p><a href="https://go.gov.sg/canteen-stall-application" rel="noopener noreferrer nofollow" target="_blank">Download Application Form</a>
 </p>
 <p>2.Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
