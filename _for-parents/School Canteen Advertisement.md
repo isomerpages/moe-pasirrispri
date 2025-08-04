@@ -26,17 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Cooked Food</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 December 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Cuisine (Noodle/ Rice)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Halal Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
