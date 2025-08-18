@@ -65,8 +65,8 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>August 2025</strong>
 </p>
-<p><a href="/files/Parents Notice 2025/Aug_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">August Letter to Parents/ Guardians</a>
-</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <hr>
