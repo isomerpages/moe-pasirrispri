@@ -65,7 +65,12 @@ third_nav_title: Parent's Notification
 <p></p>
 <p><strong>August 2025</strong>
 </p>
-<p></p>
+<p><a href="/files/Parents Notice 2025/Aug_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for August 2025</a>
+</p>
+<p><a href="/files/Parents Notice 2025/Fathers__PRPS_Musical_Box_Workshop.pdf" rel="noopener nofollow" target="_blank">Fathers PRPS Musical Box Workshop</a>
+</p>
+<p><a href="/files/Parents Notice 2025/Joint_Letter_on_Teachers__Day_School_Celebration.pdf" rel="noopener nofollow" target="_blank">Join Letter on Teachers Day School Celebration</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
