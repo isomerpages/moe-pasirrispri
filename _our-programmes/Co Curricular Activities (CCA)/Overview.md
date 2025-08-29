@@ -6,9 +6,6 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h1><strong>CCA</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Info%20Pic/cca.png">
-</div>
 <p>Co-Curricular Activities (CCA) play a vital role in enhancing the educational
 experiences of our students by providing them with opportunities to develop
 their skills, knowledge, and interests beyond the classroom. These activities
