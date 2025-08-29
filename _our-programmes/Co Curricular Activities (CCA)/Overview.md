@@ -6,6 +6,11 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h1><strong>CCA</strong></h1>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/cca_overview_webpage.jpg">
+</div>
 <p>Co-Curricular Activities (CCA) play a vital role in enhancing the educational
 experiences of our students by providing them with opportunities to develop
 their skills, knowledge, and interests beyond the classroom. These activities
@@ -60,10 +65,10 @@ experience that will lay the foundation for students to make informed decisions
 about their CCA choices in Primary 3 and beyond. It is an excellent opportunity
 for students to develop new skills, make new friends, and have fun while
 doing so.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2CCA.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide1.jpg">
+</div>
 <p><strong>Primary 3 - 6</strong>
 </p>
 <p>The following CCA is open to all Primary 3 to Primary 6 students and is
@@ -73,7 +78,8 @@ highly encouraged and is an integral part of a well-rounded education.
 To ensure that students have the chance to focus and develop their skills
 in a single area, each student is limited to participating in only <strong>one CCA</strong> from
 any of the available groups.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/P3%20CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide2.jpg">
 </div>
 <p></p>
