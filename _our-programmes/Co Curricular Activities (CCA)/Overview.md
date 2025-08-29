@@ -65,7 +65,6 @@ experience that will lay the foundation for students to make informed decisions
 about their CCA choices in Primary 3 and beyond. It is an excellent opportunity
 for students to develop new skills, make new friends, and have fun while
 doing so.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide1.jpg">
 </div>
@@ -78,7 +77,6 @@ highly encouraged and is an integral part of a well-rounded education.
 To ensure that students have the chance to focus and develop their skills
 in a single area, each student is limited to participating in only <strong>one CCA</strong> from
 any of the available groups.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide2.jpg">
 </div>
@@ -117,7 +115,6 @@ request is being processed.</p>
 <p>For Primary 6 students, no change of CCA is allowed.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Please scan and complete Request for change of CCA form" src="/images/CCA_Overview_2025/Picture1.png">
 </div>
