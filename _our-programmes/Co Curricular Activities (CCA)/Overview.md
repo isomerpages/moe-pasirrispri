@@ -65,8 +65,9 @@ experience that will lay the foundation for students to make informed decisions
 about their CCA choices in Primary 3 and beyond. It is an excellent opportunity
 for students to develop new skills, make new friends, and have fun while
 doing so.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide1.jpg">
 </div>
 <p><strong>Primary 3 - 6</strong>
 </p>
@@ -77,8 +78,9 @@ highly encouraged and is an integral part of a well-rounded education.
 To ensure that students have the chance to focus and develop their skills
 in a single area, each student is limited to participating in only <strong>one CCA</strong> from
 any of the available groups.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Slide2.jpg">
 </div>
 <p><strong>Change of CCA</strong>
 </p>
@@ -114,9 +116,11 @@ request is being processed.</p>
 <li>
 <p>For Primary 6 students, no change of CCA is allowed.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Picture1.png">
 </div>
+<p></p>
 </li>
 </ul>
 <p>Parents will receive the outcome of the request via Parents Gateway (PG)
