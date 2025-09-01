@@ -23,7 +23,7 @@ variant: tiptap
 <p>Purchase of School Uniform and PE attire are now available at Magdalene
 Sewing Centre's online store.</p>
 <h3>Bookshop - Overseas Associates Pte Ltd</h3>
-<p>Tel: 6382 6789 ext 122</p>
+<p>Tel: 6382 6789 ext 204</p>
 <p>Operating Day and Hours
 <br>Monday to Friday
 <br>8:00 am to 11:30am, 12:30pm, to 3.00pm</p>
