@@ -43,26 +43,21 @@ offers a platform for students to hone their social and emotional competencies
 (self-awareness, self-management, social awareness, relationship management
 and responsible decision making).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ropeskipping%201.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ropeskipping%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_08_29_at_4_04_37_PM.jpg">
 </div>
 <p>As a sports, Rope Skipping aims to strengthen students’ bodies, build
 cardiovascular fitness, agility and fitness.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ropeskipping%203.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ropeskipping%204.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_01_06_at_7_13_43_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_08_29_at_4_06_12_PM.jpg">
 </div>
 <p>Most importantly, students build a strong foundation to establish a healthy
 lifestyle and discover their potential as they shine and excel in their
 own way. We welcome any students who have the passion and determination
 to learn new skills to join the CCA.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_08_29_at_4_06_05_PM.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -73,6 +68,44 @@ to learn new skills to join the CCA.</p>
 <th rowspan="1" colspan="2">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Mixed Team (Senior boys and girls) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speed Relay Team (Junior boys) – 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Mixed Team (Junior boys and girls) – 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual freestyle (Senior boys) – 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Team (Junior boys) – 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Double Dutch Team (Junior girls) – 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Double Under (Junior Boys) – 6th</p>
+</td>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
@@ -153,30 +186,6 @@ to learn new skills to join the CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Double Dutch Team (Senior girls) - 6th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation in National School Games</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Game suspended due to Covid -19</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Speed Event Individual (Junio Girls and Junior Boys) Bronze</p>
 </td>
 </tr>
 </tbody>
