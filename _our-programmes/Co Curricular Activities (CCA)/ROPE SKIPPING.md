@@ -141,7 +141,7 @@ to learn new skills to join the CCA.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,30 +150,21 @@ to learn new skills to join the CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Double Dutch Mixed Team (Junior boys and girls) - 1st</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Double Dutch Team (Junior girls) - 4th</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Speed Relay Team (Junior girls) - 8th</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,9 +172,6 @@ to learn new skills to join the CCA.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Double Dutch Team (Senior girls) - 6th</p>
 </td>
