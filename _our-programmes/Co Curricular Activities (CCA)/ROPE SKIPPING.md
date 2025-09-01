@@ -235,4 +235,5 @@ skipping activities on National platforms.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Please note that the Rope Skipping CCA will no longer be accepting students
+as of 2025.</p>
