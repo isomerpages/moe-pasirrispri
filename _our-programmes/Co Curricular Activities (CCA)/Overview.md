@@ -122,7 +122,6 @@ request is being processed.</p>
 </div>
 </li>
 </ul>
-<p>test</p>
 <p>Parents will receive the outcome of the request via Parents Gateway (PG)
 by the end of the month (January / July). <strong>Please note that the outcome of each request is also dependent on the availability of vacancies in the CCA, and submission of a request does not guarantee a change.</strong> We
 seek your partnership and understanding in helping your child gain the
