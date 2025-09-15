@@ -46,73 +46,50 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>The Guzheng ensemble aims to inculcate in students the school values and
-promote greater musical and cultural appreciation through a variety of
-meaningful activities and experiences. Embark on a musical adventure with
-us and discover the Mozart in you!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P4MeOI3jHw8"></iframe>
-</div>
-<ol data-tight="true" class="tight">
-<li>
-<p>Exposure to Chinese Orchestral Instruments &amp; Music Theory</p>
-</li>
-</ol>
-<p>Students learn basic playing and musical skills:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Rhythm-counting and pitching</p>
-</li>
-<li>
-<p>Decoding Cipher Notations</p>
-</li>
-<li>
-<p>Fingering Techniques</p>
-</li>
-<li>
-<p>Maintaining the Guzheng</p>
-</li>
-<li>
-<p>Ensemble playing</p>
-</li>
-</ul>
-<p>In addition to the learning of theoretical aspects of music and honing
-of skills in guzheng playing, students will be exposed to a repertoire
-of Guzheng compositions and concertos under the tutelage of our experienced
-instructor, Mdm Yin Qun.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>School Concerts &amp; National Competitions Performances</p>
-</li>
-</ol>
-<p>Students gain enriching experiences and build self-esteem and self-confidence
-through various performances such as the Chinese New Year concert and National
-Day concert. When playing as an ensemble, students foster teamwork and
-learn the importance of camaraderie and team spirit. Students also develop
-resilience and humility as they pull through long hours of practices in
-preparation for the events.</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Musical &amp; Cultural Appreciation Workshops and Outings</p>
-</li>
-</ol>
-<p>Students also have opportunities to attend workshops and concerts which
-encourage them to develop poise and forge stronger and positive friendships
-with their peers.</p>
-<p>About the Guzheng</p>
-<p>The Guzheng is a traditional Chinese plucked zither dating from the Qin
-dynasty. It is an ancestor of several other zither-like instruments found
-across East Asia such as the Japanese Koto, Kayagum in Korea and Dan Tranh
-in Vietnam. A modern Guzheng typically has 21 strings over movable bridges,
-mounted on large resonant half-tube box made of wu-tong wood and is typically
-about 1.7m long. Silk strings were originally used but modern guzhengs
-have metal strings or metal strings wrapped with nylon.</p>
-<p>Players wear finger picks and the notes are generally plucked with the
-right hand. Sometimes virtuoso performers will use finger picks on both
-hands. Nowadays, the guzheng is played in style of traditional, classical,
-Jazz, Fusion, Pop, Hip-Hop and more. Guzheng players also adapted techniques
-from the piano and harp.</p>
+<p>Discover the magic of music with the Guzheng Ensemble! Here, you won’t
+just learn to play a beautiful instrument — it’s where friendships are
+built, values are lived, and music becomes a powerful way to tell your
+story. Every practice is an opportunity to connect with Chinese culture,
+express yourself through music, and perform on stage. Take the leap and
+find the musician within you!</p>
+<h4><strong>1. Uncover the World of Guzheng and Chinese Music</strong></h4>
+<p>In the Guzheng Ensemble, students are introduced to the rich world of
+Chinese orchestral instruments and music theory. They will:</p>
+<p>• Master rhythm-counting and pitching for confident playing</p>
+<p>• Learn to read and decode cipher notations</p>
+<p>• Develop proper fingering techniques</p>
+<p>• Gain skills in caring for and maintaining the guzheng</p>
+<p>• Experience the joy of ensemble playing and performing together</p>
+<p>Through these skills, students grow as musicians while deepening their
+appreciation for Chinese culture and music.</p>
+<h4><strong>2. Performances: School Concerts, Recess Recitals &amp; National Competitions</strong></h4>
+<p>Through a variety of performances — including the Chinese New Year Concert
+and National Day Concert — students gain valuable experiences that enhance
+self-esteem and confidence. Ensemble playing nurtures teamwork, camaraderie,
+and a strong sense of collective responsibility. In addition, students
+cultivate resilience and humility as they commit to rigorous practice schedules
+in preparation for these events.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Lunar New Year Performance" src="/images/CCA_Overview_2025/CNY.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recess Recital" src="/images/CCA_Overview_2025/Recess_Recital.jpg">
+</div>
+<h4><strong>3. Peer Coaching and Collaborative Learning</strong></h4>
+<p>Students engage in peer coaching, mentoring and supporting one another
+to enhance skills, deepen understanding, and foster a collaborative learning
+environment. This not only strengthens musical abilities but also builds
+leadership, empathy, and effective communication among ensemble members.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peer Coaching" src="/images/CCA_Overview_2025/Peer_Coaching.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Building Friendship" src="/images/CCA_Overview_2025/Friendship.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -120,47 +97,33 @@ from the piano and harp.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p><strong>Achievements</strong>
-</p>
+<th rowspan="1" colspan="1">
+<h4><strong>Achievements</strong></h4>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Suspended due to Covid-19</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF) 2018 Arts Presentation – Certificate of
-Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF assessment suspended due to reopening post-pandemic</p>
-</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF) 2018 Arts Presentation - Certificate of
+<p>Singapore Youth Festival (SYF) 2024 Arts Presentation - Certificate of
 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Performance at Our Tampines Hub</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -170,40 +133,49 @@ Distinction</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCA Group</p>
+<h4><strong>CCA Schedule</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Day &amp; Time</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Venue</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 MEP</p>
+<p><strong>CCA Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day &amp; Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 MEP
+<br>Developmental Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday 2.10 pm to 3.40 pm</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Band Room</p>
+<td rowspan="2" colspan="1">
+<p>Band Room, Level 3
+<br>ISH Building</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team (1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 1.20 pm to 2.50 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF Team</p>
+<p>Seniors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday 2.10 pm to 4.10 pm</p>
+<p>Friday 2.10 pm to 3.40 pm</p>
 </td>
 </tr>
 </tbody>

@@ -52,6 +52,14 @@ It is an intrinsic part of the school’s cultural scene which offers a fun
 and interactive platform allowing members to express, create and innovate.
 It is for students who love expressing themselves on stage and performing
 to an audience!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_09_14_at_10_42_19_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_09_14_at_10_33_31_AM.jpg">
+</div>
+<p></p>
 <p>The CCA aims to develop every pupil into a passionate, confident and versatile
 performer. The objectives are:</p>
 <ul data-tight="true" class="tight">
@@ -71,19 +79,34 @@ Dance and Urban Dance</p>
 <p>Cultural Dance Leaders are empowered to lead the team with the Peer-guidance
 activities which includes warming up exercises and reflections sessions
 that is conducted before and after each training.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_09_14_at_10_40_04_AM.jpg">
+</div>
 <p>Team bonding sessions are geared towards team spirit, character building
 discipline and courage. It also provides a platform for the dancers to
 share their challenges and learning experience that arises during their
 dance sessions.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0nOaKRLZySw"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_09_14_at_10_38_26_AM.jpg">
 </div>
 <p>At the beginning of the year, our Cultural Dance members performed for
 the Chinese New Year Concert virtually. Every pupil will be given an opportunity
 to perform on stage during their journey in the Dance CCA.&nbsp; A group
 of dancers also participated in the street dance competition organized
 by Committee to Promote Chinese Language Learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_08_08_at_9_56_55_AM.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/WhatsApp_Image_2025_09_14_at_10_40_42_AM.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -98,6 +121,56 @@ by Committee to Promote Chinese Language Learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Street Dance Competition 2025 - 2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance for Deepavali at Istana Open House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2024 Arts Presentation - Cerificate of
+Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Street Dance Competition 2023 - Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2022 Arts Presentation (Non Benchmarking)
+- Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Street Dance Competition 2021 - Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,8 +182,8 @@ by Committee to Promote Chinese Language Learning.</p>
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF) 2018 Arts Presentation – Certificate of
-Distinction.</p>
+<p>Singapore Youth Festival (SYF) 2018 Arts Presentation - Cerificate of
+Dinstinction</p>
 </td>
 </tr>
 </tbody>
@@ -138,7 +211,7 @@ Distinction.</p>
 <td rowspan="1" colspan="1">
 <p>P2 MEP</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tue 2.10 pm to 3.40 pm</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -152,7 +225,11 @@ Distinction.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF Team</p>
+<p>SYF Team/ Performances</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue 2.10 pm to 4.10 pm and
+<br>Fri 1.15 pm to 3.15 pm</p>
 </td>
 </tr>
 </tbody>
