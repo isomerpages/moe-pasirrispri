@@ -90,39 +90,27 @@ remaining in the same CCA, students are given the time and space to deepen
 their skills, build meaningful friendships, develop resilience, and take
 on greater responsibilities over the years. Frequent changes of CCA may
 limit these opportunities for growth and continuity.</p>
-<p>For this reason, <strong>a change of CCA is strongly discouraged</strong>.
-However, we understand that there may be valid reasons for a change, and
-parents may submit a request between <strong>1 January – 10 January</strong> and <strong>1 July – 10 July</strong> using
-this <a href="https://forms.moe.edu.sg/forms/oa0YNq" rel="noopener nofollow" target="_blank">link</a> or
-QR code provided below. Please note that apart from medical reasons, no
-requests will be considered outside of this window. Students who require
-a change in CCA due to urgent medical reasons may email HOD PE / CCA with
-the doctor’s letter outside of the window period.</p>
+<p>For this reason, a change of CCA is strongly discouraged. However, we
+understand that there may be valid reasons for a change, and parents may
+submit a request between 1 January – 10 January using this link or QR code
+provided below. Please note that apart from medical reasons, no requests
+will be considered outside of this window. Students who require a change
+in CCA due to urgent medical reasons may email HOD PE / CCA with the doctor’s
+letter outside of the window period.</p>
 <p>Please note the following prerequisites before requesting for a change
 of CCA:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The student has been committed to their current CCA for at least one semester
-(6 months).</p>
-</li>
-<li>
-<p>The student is not scheduled to represent the school in upcoming competitions
+<p>• The student has been committed to their current CCA for at least one
+year.</p>
+<p>• The student is not scheduled to represent the school in upcoming competitions
 or performances.</p>
-</li>
-<li>
-<p>The student will continue to attend their current CCA sessions while the
-request is being processed.</p>
-</li>
-<li>
-<p>For Primary 6 students, no change of CCA is allowed.</p>
-<p></p>
+<p>• The student will continue to attend their current CCA sessions while
+the request is being processed.</p>
+<p>• For Primary 6 students, no change of CCA is allowed.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA_Overview_2025/Picture1.png">
 </div>
-</li>
-</ul>
 <p>Parents will receive the outcome of the request via Parents Gateway (PG)
-by the end of the month (January / July). <strong>Please note that the outcome of each request is also dependent on the availability of vacancies in the CCA, and submission of a request does not guarantee a change.</strong> We
+by the end of the month (January). <strong>Please note that the outcome of each request is also dependent on the availability of vacancies in the CCA, and submission of a request does not guarantee a change.</strong> We
 seek your partnership and understanding in helping your child gain the
 most from their CCA journey.</p>
