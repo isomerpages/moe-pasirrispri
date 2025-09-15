@@ -52,7 +52,7 @@ built, values are lived, and music becomes a powerful way to tell your
 story. Every practice is an opportunity to connect with Chinese culture,
 express yourself through music, and perform on stage. Take the leap and
 find the musician within you!</p>
-<h4><strong>1.  Uncover the World of Guzheng and Chinese Music</strong></h4>
+<h4><strong>1. Uncover the World of Guzheng and Chinese Music</strong></h4>
 <p>In the Guzheng Ensemble, students are introduced to the rich world of
 Chinese orchestral instruments and music theory. They will:</p>
 <p>• Master rhythm-counting and pitching for confident playing</p>
@@ -62,7 +62,7 @@ Chinese orchestral instruments and music theory. They will:</p>
 <p>• Experience the joy of ensemble playing and performing together</p>
 <p>Through these skills, students grow as musicians while deepening their
 appreciation for Chinese culture and music.</p>
-<h4><strong>2.  Performances: School Concerts, Recess Recitals &amp; National Competitions</strong></h4>
+<h4><strong>2. Performances: School Concerts, Recess Recitals &amp; National Competitions</strong></h4>
 <p>Through a variety of performances — including the Chinese New Year Concert
 and National Day Concert — students gain valuable experiences that enhance
 self-esteem and confidence. Ensemble playing nurtures teamwork, camaraderie,
@@ -77,7 +77,7 @@ in preparation for these events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Recess Recital" src="/images/CCA_Overview_2025/Recess_Recital.jpg">
 </div>
-<h4><strong>3.  Peer Coaching and Collaborative Learning</strong></h4>
+<h4><strong>3. Peer Coaching and Collaborative Learning</strong></h4>
 <p>Students engage in peer coaching, mentoring and supporting one another
 to enhance skills, deepen understanding, and foster a collaborative learning
 environment. This not only strengthens musical abilities but also builds
