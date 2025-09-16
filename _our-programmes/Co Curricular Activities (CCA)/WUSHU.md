@@ -46,70 +46,54 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Wushu is considered a “performing sport”, consisting elements that are
-characteristic to both the sports and performing arts. Wushu is derived
-from Chinese martial arts and it teaches “Wu De”（武德）, which is the martial
-code of conduct. Learners and practitioners of Wushu are expected to display
-excellence in their moral character and to uphold integrity and moral courage
-at all times.</p>
+<h4>Wushu – Strength, Discipline &amp; Art in Motion</h4>
+<p>• Wushu is a unique performing sport that blends the power of martial
+arts with the grace of performing arts. Rooted in traditional Chinese martial
+arts, it also teaches Wu De (武德) – the martial code of conduct – which
+emphasises integrity, respect, and moral courage.</p>
+<p>• Through training, students will build flexibility, speed, strength,
+coordination, and endurance, while also developing discipline, resilience,
+and self-confidence. Unlike many contact sports, Wushu is relatively safe
+due to its performance-based nature.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jSY7e_5h9NM"></iframe>
 </div>
-<p>Wushu improves one’s flexibility, speed, strength, coordination and endurance.
-It also instils discipline and respect for others and for oneself. Unlike
-any other contact sport, Wushu is considered relatively safe due to its
-performance nature.</p>
-<p>Wushu is gaining popularity nationwide as more parents and students are
-coming to recognise the benefits that learning Wushu could reap, be in
-terms of health or character development.</p>
-<p>Our Team Singapore has also done the nation proud by constantly achieving
-excellent results in the SEA Games. Wushu is truly an emerging sport to
-be enjoyed by all Singaporeans, especially the youths.</p>
-<p>CCA Wushu Objectives:</p>
+<p></p>
+<h4>CCA Wushu Objectives:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Allow interested students to gain a better understanding and appreciation
-towards Wushu and Chinese culture in general</p>
+<p>Cultivate an appreciate of Wushu and Chinese culture.</p>
 </li>
 <li>
-<p>Expose students to different Wushu routines and develop effective athletes
-through quality training</p>
+<p>Develop skilled athletes through quality training and diverse routines</p>
 </li>
 <li>
-<p>Develop resilient and disciplined individuals through regular Wushu training</p>
+<p>Nurture resilience, confidence, and discipline</p>
 </li>
 <li>
-<p>Develop confident and courageous individuals through participating in
-Wushu competitions and performances</p>
+<p>Build teamwork and leadership through competition and performances</p>
 </li>
 <li>
-<p>Nurture respectful and ethical individuals by imparting moral values during
-Wushu training</p>
+<p>Impart moral values of respect, integrity, and courage</p>
 </li>
 <li>
-<p>Foster teambuilding and cohesion by providing opportunities for students
-to work together as a team</p>
-</li>
-<li>
-<p>Provide opportunities for students to develop their leadership potential
-and abilities</p>
-</li>
-<li>
-<p>Encourage an active and healthy lifestyle to maintain a positive state
-of mind and body</p>
+<p>Encourage an active, healthy, and positive lifestyle.</p>
 </li>
 </ul>
-<p>Potential students will have the opportunity to participate in:</p>
+<h4>Opportunities for Our Students:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wushu National School Gamesl Championships</p>
+<p>Compete in the <strong>National School Games Wushu Championship</strong>
+</p>
 </li>
 <li>
-<p>School &amp; Public Performances – e.g. Chinese New Year Concert, Performance
-for visiting guests &amp; at cultural events etc.</p>
+<p>Perform at school and public events (e.g. Chinese New Year concert, Cultural
+Showcase, and Visiting Guests)</p>
 </li>
 <li>
-<p>Wushu Exchanges with Other Schools</p>
+<p>Participate in <strong>Wushu Exchanges</strong> with other schools.</p>
+<p></p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -137,7 +121,7 @@ for visiting guests &amp; at cultural events etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday 1.20 p.m. - 2.50 p.m.
+<p>Friday 1.15 pm - 2.45 pm
 <br>
 <br>
 </p>
@@ -167,7 +151,7 @@ for visiting guests &amp; at cultural events etc.</p>
 <td rowspan="1" colspan="1">
 <p>Tuesday: 2.10 p.m. – 3.40 p.m.
 <br>
-<br>Friday: 1.20 p.m. – 2.50 p.m.</p>
+<br>Friday: 1.15 p.m. – 2.45 p.m.</p>
 </td>
 </tr>
 </tbody>
