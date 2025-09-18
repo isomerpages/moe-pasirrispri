@@ -37,18 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor (UT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nathaniel Louis Chin Jun Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nathaniel_Louis_Chin_Jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nathaniel_Louis_Chin_Jun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SEN Officers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,13 +61,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN officer (UT)</p>
+<p>SEN officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yong Shi En Elizabeth</p>
+<p>Miss Fatimah Wong Yi Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yong_Shi_En_Elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yong_Shi_En_Elizabeth@schools.gov.sg</a>
+<p><a href="mailto:Yong_Shi_En_Elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fatimah_wong_yi_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
