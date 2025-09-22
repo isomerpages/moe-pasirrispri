@@ -83,21 +83,27 @@ their teachers, peers and instructors.</p>
 <td rowspan="1" colspan="1">
 <p>P2 MEP</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Tuesday 2.10 pm - 3.40 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Music Room</p>
+<p>Choir Room</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Developmental Team</p>
+<p>Main Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday 2.10 pm - 4.10 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>SYF Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday 2.10 pm - 4.40 pm</p>
 </td>
 </tr>
 </tbody>
