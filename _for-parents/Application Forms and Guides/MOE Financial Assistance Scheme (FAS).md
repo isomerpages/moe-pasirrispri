@@ -17,6 +17,6 @@ here</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="https://go.gov.sg/moe-efasggas" src="/images/8dff63cf_9152_4b21_99ee_219262d4420f.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/8dff63cf_9152_4b21_99ee_219262d4420f.jpg">
 </div>
 <p></p>
