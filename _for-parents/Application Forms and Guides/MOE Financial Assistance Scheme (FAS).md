@@ -6,7 +6,12 @@ third_nav_title: Application Forms and Guides
 variant: tiptap
 ---
 <h1><strong>MOE Financial Assistance Scheme (FAS)</strong></h1>
-<p><a href="/files/MOE_FAS_APPLICATION_GUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Guide</a>
+<p></p>
+<p>More information on the eligibility and benefits of MOE FAS is available
+here</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE Financial Assistant Guide</a>
 </p>
-<p><a href="/files/School Matter 2025/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">MOE eFAS Application Form</a>
 </p>
+<p></p>
+<p></p>
