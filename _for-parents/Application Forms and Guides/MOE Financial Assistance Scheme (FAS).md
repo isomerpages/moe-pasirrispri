@@ -11,9 +11,7 @@ variant: tiptap
 here</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE Financial Assistant Guide</a>
 </p>
-<p></p>
-<p>MOE eFAS application form:</p>
-<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">MOE eFAS Application Form</a>
 </p>
 <p></p>
 <p></p>
