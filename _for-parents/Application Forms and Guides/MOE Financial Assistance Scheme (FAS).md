@@ -16,7 +16,4 @@ here</p>
 <p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/8dff63cf_9152_4b21_99ee_219262d4420f.jpg">
-</div>
 <p></p>
