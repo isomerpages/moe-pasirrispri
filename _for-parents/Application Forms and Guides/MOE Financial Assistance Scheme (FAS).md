@@ -13,7 +13,7 @@ here</p>
 </p>
 <p></p>
 <p>MOE eFAS application form:</p>
-<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">Click here for the link</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
