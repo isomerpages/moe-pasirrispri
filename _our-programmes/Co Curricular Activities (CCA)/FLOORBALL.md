@@ -189,7 +189,7 @@ and responsible leaders, compassionate and confident Pasirians.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays &amp; Thursdays
-<br>2.00pm - 3.30pm</p>
+<br>2.00pm - 5.00pm</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Indoor Sports Hall (ISH) Level 4</p>
