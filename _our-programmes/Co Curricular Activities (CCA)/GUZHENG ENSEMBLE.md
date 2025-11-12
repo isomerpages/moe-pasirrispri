@@ -52,6 +52,9 @@ built, values are lived, and music becomes a powerful way to tell your
 story. Every practice is an opportunity to connect with Chinese culture,
 express yourself through music, and perform on stage. Take the leap and
 find the musician within you!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s-FwslcFl9E?si=6950JukXTKwlPrhR"></iframe>
+</div>
 <h4><strong>1. Uncover the World of Guzheng and Chinese Music</strong></h4>
 <p>In the Guzheng Ensemble, students are introduced to the rich world of
 Chinese orchestral instruments and music theory. They will:</p>
@@ -62,6 +65,9 @@ Chinese orchestral instruments and music theory. They will:</p>
 <p>• Experience the joy of ensemble playing and performing together</p>
 <p>Through these skills, students grow as musicians while deepening their
 appreciation for Chinese culture and music.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LhVxNhRI43Y?si=rkgkN3pLXMvJHNzK"></iframe>
+</div>
 <h4><strong>2. Performances: School Concerts, Recess Recitals &amp; National Competitions</strong></h4>
 <p>Through a variety of performances — including the Chinese New Year Concert
 and National Day Concert — students gain valuable experiences that enhance
