@@ -29,7 +29,7 @@ Sewing Centre's online store.</p>
 <br>8:00 am to 11:30am, 12:30pm, to 3.00pm</p>
 <p>Parents are allowed to purchase from the bookshop only from 2:00pm to
 3:00pm</p>
-<p><a href="/files/School%20Matter%202025/P1_P6_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 to P6 Booklist 2025</a>
+<p><a href="/files/School Matter 2025/Booklist_2026_PRP.pdf" rel="noopener nofollow" target="_blank">P1 to P6 Bookilist 2026</a>
 </p>
 <h3>School Dental Clinic</h3>
 <p>Tel: 8940 6770</p>
