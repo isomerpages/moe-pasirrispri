@@ -92,11 +92,11 @@ on greater responsibilities over the years. Frequent changes of CCA may
 limit these opportunities for growth and continuity.</p>
 <p>For this reason, a change of CCA is strongly discouraged. However, we
 understand that there may be valid reasons for a change, and parents may
-submit a request between 1 January – 10 January using this link or QR code
-provided below. Please note that apart from medical reasons, no requests
-will be considered outside of this window. Students who require a change
-in CCA due to urgent medical reasons may email HOD PE / CCA with the doctor’s
-letter outside of the window period.</p>
+submit a request between 1 January – 10 January using <a href="https://forms.moe.edu.sg/forms/oa0YNq" rel="noopener nofollow" target="_blank">this link</a> or
+QR code provided below. Please note that apart from medical reasons, no
+requests will be considered outside of this window. Students who require
+a change in CCA due to urgent medical reasons may email HOD PE / CCA with
+the doctor’s letter outside of the window period.</p>
 <p>Please note the following prerequisites before requesting for a change
 of CCA:</p>
 <p>• The student has been committed to their current CCA for at least one
