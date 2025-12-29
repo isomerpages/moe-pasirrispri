@@ -23,4 +23,6 @@ variant: tiptap
 </p>
 <p><a href="https://go.gov.sg/kaleidoscope2024" rel="noopener nofollow" target="_blank">Kaleidoscope 2024</a>
 </p>
+<p><a href="https://heyzine.com/flip-book/904a71cad8.html" rel="noopener nofollow" target="_blank">Kaleidoscope 2025</a>
+</p>
 <p></p>
