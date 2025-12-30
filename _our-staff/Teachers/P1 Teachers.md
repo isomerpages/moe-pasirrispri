@@ -32,7 +32,8 @@ variant: tiptap
 <p>Mdm Nur Shiela Bte Muhamad Safinyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_shiela_muhamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shiela_muhamad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +44,8 @@ variant: tiptap
 <p>Ms Lim Suk Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Lim_Suk_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Suk_Ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +56,8 @@ variant: tiptap
 <p>Mdm Nur'hazwani Bte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurhazwani_azman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhazwani_azman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +68,8 @@ variant: tiptap
 <p>Mr H Fayaz Ahamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:H_Fayaz_Ahamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">H_Fayaz_Ahamed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +80,8 @@ variant: tiptap
 <p>Mdm Govinden Fiona Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:govinden_fiona_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">govinden_fiona_stephanie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +92,8 @@ variant: tiptap
 <p>Mdm Lim Li Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_li_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_yin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +104,8 @@ variant: tiptap
 <p>Mdm Noraini Bte Niat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noraini_niat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_niat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +116,8 @@ variant: tiptap
 <p>Ms Sarah Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Sarah_Yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sarah_Yee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +128,8 @@ variant: tiptap
 <p>Mdm Maslina Binte Jumari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:maslina_jumari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslina_jumari@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +140,8 @@ variant: tiptap
 <p>Ms Noor Atiqah Binte Sa'ad Magad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noor_atiqah_saad_magad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_atiqah_saad_magad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +152,8 @@ variant: tiptap
 <p>Mdm Zuraidah Binte Md Tahir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zuraidah_md_tahir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zuraidah_md_tahir@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +164,8 @@ variant: tiptap
 <p>Miss Vanissa Lee Wanling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:vanissa_lee_wanling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanissa_lee_wanling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
