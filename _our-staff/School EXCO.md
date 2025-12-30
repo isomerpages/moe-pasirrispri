@@ -131,6 +131,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Fazrin Bin Mazlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_fazrin_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_fazrin_mazlan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
