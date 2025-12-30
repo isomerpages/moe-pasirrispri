@@ -47,7 +47,8 @@ variant: tiptap
 <p>Mdm Toh Wan Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="toh_wan_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">toh_wan_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
