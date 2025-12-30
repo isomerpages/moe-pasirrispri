@@ -32,7 +32,8 @@ variant: tiptap
 <p>Mdm Yeo Si Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_si_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_si_qi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +80,8 @@ variant: tiptap
 <p>Mdm Tan Ai Ling Dawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_ai_ling_dawn@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
