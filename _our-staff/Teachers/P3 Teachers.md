@@ -29,10 +29,10 @@ variant: tiptap
 <p>P3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Si Qi Shela (Mrs Woo)</p>
+<p>Mr Hui Keen Lon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_si_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_si_qi@schools.gov.sg</a>
+<p><a href="mailto:hui_keen_lon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_keen_lon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Md Nurul Jannah Bte Rosni</p>
+<p>Mdm Nurul Jannah Binte Rosni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_jannah_rosni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_jannah_rosni@schools.gov.sg</a>
@@ -50,37 +50,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nor Hazurah Bte Moh Azhar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nor_hazurah_mohamed_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hazurah_mohamed_azhar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Ai Ling Dawn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ai_ling_dawn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_ling_dawn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chan Xiu Jing</p>
+<p>Mdm Leong Si Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_xiu_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xiu_jing@schools.gov.sg</a>
+<p><a href="mailto:leong_si_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_si_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -89,10 +65,34 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jespal Singh Mann</p>
+<p>Mdm Priscilla Lai Sock Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jespal_singh_mann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jespal_singh_mann@schools.gov.sg</a>
+<p><a href="mailto:lai_sock_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_sock_khim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Sihui, Candice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Goh_Sihui_Candice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Sihui_Candice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chew Boon Sue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_boon_sue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_boon_sue@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,10 +101,10 @@ variant: tiptap
 <p>P3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorshirianny Bte Misban</p>
+<p>Mdm Lee Xin Fen Edna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noorshirianny_misban@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorshirianny_misban@schools.gov.sg</a>
+<p><a href="mailto:lee_xin_fen_edna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xin_fen_edna@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -113,10 +113,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Suk Ching</p>
+<p>Mr Ong Kah Hao Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Suk_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Suk_Ching@schools.gov.sg</a>
+<p><a href="mailto:Ong_Kah_Hao_Benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Kah_Hao_Benjamin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -125,10 +125,10 @@ variant: tiptap
 <p>P3 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Xiuhui</p>
+<p>Mdm Ardianawati Binte A Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_xiuhui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xiuhui@schools.gov.sg</a>
+<p><a href="mailto:ardianawati_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ardianawati_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -137,10 +137,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yew Shen, Sebastian Gerard</p>
+<p>Mdm Yin Yushan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_YEW_SHEN_SEBASTIAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_YEW_SHEN_SEBASTIAN@schools.gov.sg</a>
+<p><a href="mailto:yin_yushan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yin_yushan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
