@@ -79,15 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Bee Leng Connie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_bee_leng_connie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_bee_leng_connie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ong Kian Kie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,38 +88,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Feisal B Omar Bahboed</p>
+<p>Mdm Jessica Khek Cuiyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feisal_omar_baobed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feisal_omar_baobed@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kwan Wai Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="kwan_hai_han@schools.gov.sg" rel="noopener nofollow" target="_blank">kwan_hai_han@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Yanti Bte Zainal Abidin</p>
+<p>Ms Ong Yeng Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sri_yanti_zainal_abidin@schools.gov.sg" rel="noopener nofollow" target="_blank">sri_yanti_zainal_abidin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Nurfitriah Bte Abdul Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nurfitriah_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">nurfitriah_abdul_rahman@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
