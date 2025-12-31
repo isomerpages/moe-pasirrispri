@@ -22,10 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gladwin Poh Kai Wen</p>
+<p>Mr Benjamin Ong Kah Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_kai_wen_gladwin@schools.gov.sg</p>
+<p>ong_kah_hao_benjamin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -38,18 +38,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Vanissa Lee Wanling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>vanissa_lee_wanling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Adelia Binte Dahlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adelia_Dahlan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kaiyisah Amalina Bte Jaffar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaiyisah_Amalina_Jaffar_A@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kian Kie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_kian_kie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sarah_yee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -62,18 +78,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Si Qi Shela</p>
+<p>Miss Vanissa Lee Wanling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_si_qi@schools.gov.sg</p>
+<p>vanissa_lee_wanling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kaiyisah Amalina Bte Jaffar</p>
+<p>Mdm Zarinah Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kaiyisah_Amalina_Jaffar_A@schools.gov.sg</p>
+<p>zarina_hashim@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

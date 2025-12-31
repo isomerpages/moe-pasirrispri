@@ -15,7 +15,7 @@ both in and out of school, be it local or abroad.&nbsp;</p>
 status through Income Insurance’s online claims portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.&nbsp;</p>
 <p></p>
 <p>The product factsheet for the GPA Insurance Plan for Students is available
-via this link: <a href="/files/School Matter 2025/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
+via this link: <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
 </p>
 <p></p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
