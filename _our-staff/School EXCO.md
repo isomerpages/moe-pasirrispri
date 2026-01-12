@@ -281,18 +281,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Dawn Tan Ai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ai_ling_dawn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_ling_dawn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
