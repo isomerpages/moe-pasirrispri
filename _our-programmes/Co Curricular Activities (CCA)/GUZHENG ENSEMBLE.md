@@ -187,3 +187,8 @@ Distinction</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/be563ea6_a86c_41fb_8e2d_89ec9c80cabb.jpg">
+</div>
+<p></p>
