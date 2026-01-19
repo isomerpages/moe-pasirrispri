@@ -41,7 +41,7 @@ more information on MOE Sexuality Education.</p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
@@ -67,35 +67,21 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/image_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2026/Header.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/Image_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2026/pg1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/image_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2026/p6_header.png">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/image_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2026/p6_pg1.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED 2025/image_6.png">
-</div>
-<p></p>
-<h4><strong>INFORMATION FOR PARENTS</strong></h4>
-<p>8. Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/67860059a7889c4d214b6c09" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 28/01/2025.</p>
-<p>10. Parents can contact the school at <a href="prps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> or 65822606 for discussion or to seek clarification
-about the school’s Sexuality Education programme you can also email Mdm
-Jaspal Kaur at <a href="mailto:jaspal_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaspal_kaur@schools.gov.sg</a>.</p>
-<p></p>
+<h4></h4>
 <p></p>
