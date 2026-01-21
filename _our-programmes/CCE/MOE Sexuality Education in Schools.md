@@ -84,4 +84,17 @@ themselves safe from sexuality-related risks.</p>
 </div>
 <p></p>
 <h4></h4>
+<p><strong>INFORMATION FOR PARENTS</strong>
+</p>
+<p>8. Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://go.gov.sg/prps-opt-out-form-sed-2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 26/01/2026.</p>
+<p>10. Parents can contact the school at email (<a href="mailto:prps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prps@moe.edu.sg</a>) or 65822606 for discussion
+or to seek clarification about the school’s Sexuality Education programme
+you can email Mdm Jaspal Kaur at <a href="mailto:Jaspal_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jaspal_kaur@schools.gov.sg</a>
+</p>
 <p></p>
