@@ -89,5 +89,5 @@ dates inclusive).
 <p>Complete application form <a href="https://form.gov.sg/696604c48eb08267377c7f1a" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<p>For any enquiries, please email us at <a href="mailto:prps@moe.edu.sg" rel="noopener nofollow" target="_blank">prps@moe.edu.sg</a>
+<p>For any enquiries, please email us at <a href="prps@moe.edu.sg" rel="noopener nofollow" target="_blank">prps@moe.edu.sg</a>
 </p>
