@@ -9,6 +9,8 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2026/2026_January_Letter_to_Parents__Guardians.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for January 2026</a>
 </p>
+<p><a href="/files/Parents Notice 2026/Registration_for_2026_PRPS_ArtsMania__Busking_Fiesta.pdf" rel="noopener nofollow" target="_blank">Registration for 2026 PRPS Arts Mania "Busking Festival"</a>
+</p>
 <p></p>
 <p><strong>February 2026</strong>
 </p>
@@ -180,4 +182,5 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/School Matter/November_Letter_to_Parents__Guardians.pdf" rel="noopener nofollow" target="_blank">November Letter to Parents/ Guardians</a>
 </p>
+<p></p>
 <p></p>
