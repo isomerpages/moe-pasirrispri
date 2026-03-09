@@ -43,6 +43,12 @@ third_nav_title: Parent's Notification
 </p>
 <p><a href="/files/Parents Notice 2025/P3_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P3 Young Scientist Badge Scheme (YSBS)</a>
 </p>
+<p></p>
+<hr>
+<p><strong>Year 2026</strong>
+</p>
+<p><a href="/files/Parents Notice 2026/Commencement_of_P3_Higher_Chinese_Language.pdf" rel="noopener nofollow" target="_blank">Commencement of P3 Highter Chinese Language</a>
+</p>
 <hr>
 <h4><strong>PRIMARY 4</strong></h4>
 <p><strong>Year 2024</strong>
@@ -69,6 +75,11 @@ third_nav_title: Parent's Notification
 <p><a href="/files/Parents Notice 2025/P4_Young_Scientist_Badge_Scheme.pdf" rel="noopener nofollow" target="_blank">P4 Young Scientist Badge Scheme (YSBS)</a>
 </p>
 <p><a href="/files/Parents Notice 2025/2025_P4_Museum_Based_LJ_Parent_s_Letter_final.pdf" rel="noopener nofollow" target="_blank">P4 Museum Based Learning Journey</a>
+</p>
+<hr>
+<p><strong>Year 2026</strong>
+</p>
+<p><a href="/files/Parents Notice 2026/Commencement_of_P4_Higher_Chinese_Language.pdf" rel="noopener nofollow" target="_blank">Commencement of P4 Higher Chinese Language</a>
 </p>
 <p></p>
 <hr>
