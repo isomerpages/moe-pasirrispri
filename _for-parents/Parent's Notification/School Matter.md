@@ -22,6 +22,10 @@ third_nav_title: Parent's Notification
 <p><a href="/files/Parents Notice 2026/March_Letter_to_Parents_2026.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for March 2026</a>
 </p>
 <p></p>
+<p><strong>April 2026</strong>
+</p>
+<p><a href="/files/Parents Notice 2026/April_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for April 2026</a>
+</p>
 <hr>
 <p></p>
 <p></p>
