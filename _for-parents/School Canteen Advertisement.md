@@ -102,7 +102,7 @@ email OR to the school's General Office.</p>
 <p>Contact Person</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Chin Sai</p>
+<p>Mr Muhammad Akmal Hakeem Bin Mohamed Affandi</p>
 </td>
 </tr>
 </tbody>
