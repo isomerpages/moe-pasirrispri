@@ -28,11 +28,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Chin Sai</p>
+<p>Mr Muhammad Akmal Hakeem Bin Mohamed Affandi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chin_sai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chin_sai@schools.gov.sg</a>
-</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
