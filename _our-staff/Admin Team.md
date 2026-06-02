@@ -155,7 +155,7 @@ variant: tiptap
 <p>Operations Support Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Be Eng</p>
+<p>Mr Wong Tim Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -166,7 +166,7 @@ variant: tiptap
 <p>Operations Support Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Tim Yeow</p>
+<p>Mdm Tan Goon Heok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>Operation Support Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Goon Heok</p>
+<p>Mr Ong Lye Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Printing Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chew Wah</p>
+<p>Miss Kashwini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
