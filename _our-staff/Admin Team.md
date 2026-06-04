@@ -31,7 +31,8 @@ variant: tiptap
 <p>Mr Muhammad Akmal Hakeem Bin Mohamed Affandi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p><a href="mailto:Muhammad_Akmal_Hakeem_Mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Akmal_Hakeem_Mohamed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +112,7 @@ variant: tiptap
 <p>Desktop Engineers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Moh Zulfadli bin Adaman</p>
+<p>Mr Mohamad Zulfadli bin Adaman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
