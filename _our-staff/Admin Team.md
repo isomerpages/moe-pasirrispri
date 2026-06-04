@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Juliana Abdul Malek</p>
@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Customer Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Veronica Lee</p>
